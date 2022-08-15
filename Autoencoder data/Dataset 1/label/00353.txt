@@ -1,0 +1,15 @@
+# IUD, Formula02_4664_tru_norm
+# Objects(5):
+O, _1, -, 1.0, O,       18.2795,76.7677,226.6970,96.9697
+O, x_2, x, 1.0, OAbove,       71.8148,6.7340,133.4310,83.5017
+O, \sigma_4, \sigma, 1.0, OBelow,       20.6364,118.8552,92.3535,181.1448
+O, _5, \sqrt, 1.0, OBelowR,       78.2121,98.6532,208.5152,191.2458
+O, 2_6, 2, 1.0, OBelowRInside,       131.7475,127.9461,191.6801,176.7677
+
+\frac { x } { \sigma \sqrt { 2 } } 
+
+# Relations from SRT:
+R, \sigma_4, _5, Right, 1.0
+R, _1, \sigma_4, Below, 1.0
+R, _1, x_2, Above, 1.0
+R, _5, 2_6, Inside, 1.0

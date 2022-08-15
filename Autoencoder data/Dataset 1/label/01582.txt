@@ -1,0 +1,13 @@
+# IUD, Formula02_9256_tru_norm
+# Objects(4):
+O, e_2, e, 1.0, O,       21.2441,90.9699,80.4415,185.2843
+O, \theta_5, \theta, 1.0, OSup,       83.4515,25.7525,130.9431,119.7324
+O, \prime_6, \prime, 1.0, OSupSup,       146.9967,3.3445,162.3813,53.1773
+O, x_7, x, 1.0, OSupR,       154.6890,38.1271,217.5652,117.0569
+
+e ^ { \theta ^ { \prime } x } 
+
+# Relations from SRT:
+R, \theta_5, \prime_6, Sup, 1.0
+R, \theta_5, x_7, Right, 1.0
+R, e_2, \theta_5, Sup, 1.0

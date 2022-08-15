@@ -1,0 +1,488 @@
+1	Train\INKMLs\TestINKMLGT_2012\001-equation000.inkml	$y = Ax + A^2$
+2	Train\INKMLs\TestINKMLGT_2012\001-equation001.inkml	$B_n(1-x)=(-1)^n B_n(x)$
+3	Train\INKMLs\TestINKMLGT_2012\001-equation0010.inkml	$0 < x < 1$
+4	Train\INKMLs\TestINKMLGT_2012\001-equation0011.inkml	$A ( B + C ) = A B + A C$
+5	Train\INKMLs\TestINKMLGT_2012\001-equation0012.inkml	$A\times B$
+6	Train\INKMLs\TestINKMLGT_2012\001-equation0013.inkml	$A_2>B_2$
+7	Train\INKMLs\TestINKMLGT_2012\001-equation002.inkml	$\forall x \in A, \forall y \in B, x<y$
+8	Train\INKMLs\TestINKMLGT_2012\001-equation003.inkml	$\forall a , \forall b , \forall c , ( a , b , c ) = ( ( a , b ) , c )$
+9	Train\INKMLs\TestINKMLGT_2012\001-equation004.inkml	$\exists Y, Y > j$
+10	Train\INKMLs\TestINKMLGT_2012\001-equation005.inkml	$(A_2B_1)$
+11	Train\INKMLs\TestINKMLGT_2012\001-equation006.inkml	$A = B \times C$
+12	Train\INKMLs\TestINKMLGT_2012\001-equation007.inkml	$\forall y\in A$
+13	Train\INKMLs\TestINKMLGT_2012\001-equation008.inkml	$\cos(A+B)$
+14	Train\INKMLs\TestINKMLGT_2012\001-equation009.inkml	$\exists i, C_1[i] < C_2[i]$
+15	Train\INKMLs\TestINKMLGT_2012\002-equation000.inkml	$\gamma < B$
+16	Train\INKMLs\TestINKMLGT_2012\002-equation001.inkml	$\gamma>\gamma_0>0$
+17	Train\INKMLs\TestINKMLGT_2012\002-equation002.inkml	$\exists \alpha, \forall x \in [a,b]$
+18	Train\INKMLs\TestINKMLGT_2012\002-equation003.inkml	$0<\gamma_i < \alpha$
+19	Train\INKMLs\TestINKMLGT_2012\002-equation004.inkml	$A_1,A_2,\ldots,A_n$
+20	Train\INKMLs\TestINKMLGT_2012\002-equation005.inkml	$\frac{d}{dt}\{A,B\} = \{\frac{dA}{dt},B \}+ \{A,\frac{dB}{dt} \}$
+21	Train\INKMLs\TestINKMLGT_2012\002-equation006.inkml	$t_2 > t_1 > t_0$
+22	Train\INKMLs\TestINKMLGT_2012\002-equation007.inkml	$y^n<x B^k$
+23	Train\INKMLs\TestINKMLGT_2012\002-equation008.inkml	$0\leq b<B$
+24	Train\INKMLs\TestINKMLGT_2012\002-equation009.inkml	$A = A_1 + A_2$
+25	Train\INKMLs\TestINKMLGT_2012\002-equation010.inkml	$\forall a\in A, \forall b\in B, a < b$
+26	Train\INKMLs\TestINKMLGT_2012\002-equation011.inkml	$y_1(z)<y(z)<y_2(z)$
+27	Train\INKMLs\TestINKMLGT_2012\002-equation012.inkml	$\forall t \in [0,2\pi], f(t) = e^{it}$
+28	Train\INKMLs\TestINKMLGT_2012\002-equation013.inkml	$A \times (B \times C) = (A \times B) \times C$
+29	Train\INKMLs\TestINKMLGT_2012\crohme_f042-eq067.inkml	$\lim_{x \rightarrow +\infty}{g(x)} = 0$
+30	Train\INKMLs\TestINKMLGT_2012\crohme_f043-eq058.inkml	$1-e^{1}$
+31	Train\INKMLs\TestINKMLGT_2012\crohme_f056-eq060.inkml	$25 - 151 - 29 - 33 = -1$
+32	Train\INKMLs\TestINKMLGT_2012\formulaire040-equation013.inkml	$n=\sum_{i=1}^k n_i$
+33	Train\INKMLs\TestINKMLGT_2012\formulaire040-equation014.inkml	$(\alpha_{1},\ldots,\alpha_{n})$
+34	Train\INKMLs\TestINKMLGT_2012\formulaire040-equation015.inkml	$187 - 42 \neq -21$
+35	Train\INKMLs\TestINKMLGT_2012\formulaire040-equation023.inkml	$b-a$
+36	Train\INKMLs\TestINKMLGT_2012\formulaire040-equation029.inkml	$x=\tan(y)$
+37	Train\INKMLs\TestINKMLGT_2012\formulaire040-equation036.inkml	$f(ab^{-1}) = f(cd^{-1})$
+38	Train\INKMLs\TestINKMLGT_2012\formulaire040-equation041.inkml	$\frac{dx}{\pi \sqrt{x(1-x)}}$
+39	Train\INKMLs\TestINKMLGT_2012\formulaire040-equation048.inkml	$y= a x^2 + b$
+40	Train\INKMLs\TestINKMLGT_2012\formulaire040-equation051.inkml	$a = \int_{\alpha}^\beta x_1(y)dy + \int_{\alpha}^\beta x_2(y)dy$
+41	Train\INKMLs\TestINKMLGT_2012\formulaire040-equation053.inkml	$x = \pm n\pi$
+42	Train\INKMLs\TestINKMLGT_2012\formulaire040-equation057.inkml	$t = x - n \pi$
+43	Train\INKMLs\TestINKMLGT_2012\formulaire040-equation065.inkml	$197 + 62 \neq -74$
+44	Train\INKMLs\TestINKMLGT_2012\formulaire041-equation001.inkml	$z = 4$
+45	Train\INKMLs\TestINKMLGT_2012\formulaire041-equation003.inkml	$3y^2 + 3y + 1$
+46	Train\INKMLs\TestINKMLGT_2012\formulaire041-equation006.inkml	$\frac {9 }{ 4}$
+47	Train\INKMLs\TestINKMLGT_2012\formulaire041-equation013.inkml	$z=x+y$
+48	Train\INKMLs\TestINKMLGT_2012\formulaire041-equation018.inkml	$\alpha+\beta$
+49	Train\INKMLs\TestINKMLGT_2012\formulaire041-equation023.inkml	$\theta (0) = 1$
+50	Train\INKMLs\TestINKMLGT_2012\formulaire041-equation026.inkml	$-(2\alpha+1) x$
+51	Train\INKMLs\TestINKMLGT_2012\formulaire041-equation028.inkml	$ax^2 + bx = c$
+52	Train\INKMLs\TestINKMLGT_2012\formulaire041-equation046.inkml	$x=a+id$
+53	Train\INKMLs\TestINKMLGT_2012\formulaire041-equation059.inkml	$f(t)$
+54	Train\INKMLs\TestINKMLGT_2012\formulaire041-equation068.inkml	$e_1 = 9$
+55	Train\INKMLs\TestINKMLGT_2012\formulaire041-equation071.inkml	$\theta = \frac{\pi}{2}$
+56	Train\INKMLs\TestINKMLGT_2012\formulaire042-equation000.inkml	$116 \pm ((75 + 78) \times 125) - (80 / 184)$
+57	Train\INKMLs\TestINKMLGT_2012\formulaire042-equation017.inkml	$\sum_{k=1}^\infty X_k$
+58	Train\INKMLs\TestINKMLGT_2012\formulaire042-equation019.inkml	$g(x_1,x_2,x_3)$
+59	Train\INKMLs\TestINKMLGT_2012\formulaire042-equation020.inkml	$(122 \div 185) \div 62 = 0.01$
+60	Train\INKMLs\TestINKMLGT_2012\formulaire042-equation021.inkml	$f(a)=b$
+61	Train\INKMLs\TestINKMLGT_2012\formulaire042-equation026.inkml	$-(y_1 + y_2)(y_3 + y_4)$
+62	Train\INKMLs\TestINKMLGT_2012\formulaire042-equation028.inkml	$\sum_{i=1}^n y_i^2 = 1$
+63	Train\INKMLs\TestINKMLGT_2012\formulaire042-equation033.inkml	$f^{-1}(n)$
+64	Train\INKMLs\TestINKMLGT_2012\formulaire042-equation044.inkml	$5,0 \times 10^{-8}$
+65	Train\INKMLs\TestINKMLGT_2012\formulaire042-equation046.inkml	$x^{2}+ny^{2}$
+66	Train\INKMLs\TestINKMLGT_2012\formulaire042-equation055.inkml	$(85 / 3) \times 44 \leq 1247$
+67	Train\INKMLs\TestINKMLGT_2012\formulaire042-equation062.inkml	$n(n+p)$
+68	Train\INKMLs\TestINKMLGT_2012\formulaire042-equation064.inkml	$g(y)=f(x_{0}+t,y)-f(x_{0},y)$
+69	Train\INKMLs\TestINKMLGT_2012\formulaire042-equation068.inkml	$\frac{1}{\sqrt{a}}=\sqrt{\frac{1}{a}}$
+70	Train\INKMLs\TestINKMLGT_2012\formulaire042-equation073.inkml	$e=k\times\frac{2}{\sqrt 3}$
+71	Train\INKMLs\TestINKMLGT_2012\formulaire043-equation001.inkml	$n(n+2\alpha)$
+72	Train\INKMLs\TestINKMLGT_2012\formulaire043-equation003.inkml	$\cos x-\sqrt{-1}\sin x$
+73	Train\INKMLs\TestINKMLGT_2012\formulaire043-equation005.inkml	$166 \times ((71 \div 175) - 83) = -13710.65$
+74	Train\INKMLs\TestINKMLGT_2012\formulaire043-equation016.inkml	$y = ax^k$
+75	Train\INKMLs\TestINKMLGT_2012\formulaire043-equation023.inkml	$d_{xz}$
+76	Train\INKMLs\TestINKMLGT_2012\formulaire043-equation024.inkml	$\alpha_{n}=\sum_{i\leq n} a_{i}p^{i}$
+77	Train\INKMLs\TestINKMLGT_2012\formulaire043-equation035.inkml	$153 - 51 \neq 140$
+78	Train\INKMLs\TestINKMLGT_2012\formulaire043-equation050.inkml	$(30 + 39) \times (42 + 52 - 85) \neq 520$
+79	Train\INKMLs\TestINKMLGT_2012\formulaire043-equation051.inkml	$1\leq i \leq n$
+80	Train\INKMLs\TestINKMLGT_2012\formulaire043-equation055.inkml	$138 \times 95 = 13110$
+81	Train\INKMLs\TestINKMLGT_2012\formulaire043-equation067.inkml	$f(x)= \frac{1}{x-a}+a $
+82	Train\INKMLs\TestINKMLGT_2012\formulaire043-equation069.inkml	$x_1,\ldots,x_k$
+83	Train\INKMLs\TestINKMLGT_2012\formulaire043-equation073.inkml	$(x-\frac{a}{2})^2=-c^2$
+84	Train\INKMLs\TestINKMLGT_2012\formulaire044-equation000.inkml	$61 \pm (45 \times (149 + 180)) + 37$
+85	Train\INKMLs\TestINKMLGT_2012\formulaire044-equation017.inkml	$1\leq j\leq k$
+86	Train\INKMLs\TestINKMLGT_2012\formulaire044-equation019.inkml	$z = a^{p-i-j}b^p$
+87	Train\INKMLs\TestINKMLGT_2012\formulaire044-equation026.inkml	$e=1$
+88	Train\INKMLs\TestINKMLGT_2012\formulaire044-equation031.inkml	$i = e$
+89	Train\INKMLs\TestINKMLGT_2012\formulaire044-equation036.inkml	$\phi_i x_i$
+90	Train\INKMLs\TestINKMLGT_2012\formulaire044-equation041.inkml	$f(x) = \frac{1}{b-a}$
+91	Train\INKMLs\TestINKMLGT_2012\formulaire044-equation048.inkml	$z_3 = \frac{2 - 2\sqrt{2}}{2} = 1 - \sqrt{2}$
+92	Train\INKMLs\TestINKMLGT_2012\formulaire044-equation053.inkml	$a_1 = \frac{r_1}{(r_1-r_2)(r_1-r_3)}$
+93	Train\INKMLs\TestINKMLGT_2012\formulaire044-equation058.inkml	$\phi_a = \phi_b$
+94	Train\INKMLs\TestINKMLGT_2012\formulaire044-equation060.inkml	$((144 + 159) - (176 \div 186)) + 196 \geq 497$
+95	Train\INKMLs\TestINKMLGT_2012\formulaire044-equation064.inkml	$\log(z) \leq z - 1$
+96	Train\INKMLs\TestINKMLGT_2012\formulaire044-equation066.inkml	$y=x_{n}$
+97	Train\INKMLs\TestINKMLGT_2012\formulaire044-equation067.inkml	$0\leq p\leq 2^n$
+98	Train\INKMLs\TestINKMLGT_2012\formulaire044-equation073.inkml	$x= \frac{1162}{330}= \frac{581}{165}$
+99	Train\INKMLs\TestINKMLGT_2012\formulaire045-equation006.inkml	$n=3$
+100	Train\INKMLs\TestINKMLGT_2012\formulaire045-equation014.inkml	$g_{ij} = g^{ij}$
+101	Train\INKMLs\TestINKMLGT_2012\formulaire045-equation016.inkml	$a = r \sqrt{2 - \sqrt{ 3}}$
+102	Train\INKMLs\TestINKMLGT_2012\formulaire045-equation022.inkml	$(c_0, \ldots, c_n)$
+103	Train\INKMLs\TestINKMLGT_2012\formulaire045-equation027.inkml	$t(0)=0$
+104	Train\INKMLs\TestINKMLGT_2012\formulaire045-equation035.inkml	$((92 / 2) + (20 - 110)) - ((78 / 188) \times (69 / 8)) \leq -47$
+105	Train\INKMLs\TestINKMLGT_2012\formulaire045-equation036.inkml	$a=\frac{1}{0}$
+106	Train\INKMLs\TestINKMLGT_2012\formulaire045-equation041.inkml	$10^{-4}$
+107	Train\INKMLs\TestINKMLGT_2012\formulaire045-equation046.inkml	$x^{-1}\leq x^{-1}$
+108	Train\INKMLs\TestINKMLGT_2012\formulaire045-equation051.inkml	$\frac1x - \frac1y = \frac{y-x}{xy}$
+109	Train\INKMLs\TestINKMLGT_2012\formulaire045-equation061.inkml	$x\leq 0$
+110	Train\INKMLs\TestINKMLGT_2012\formulaire045-equation063.inkml	$(6\sqrt{21}-27 )x^2+3x+4\sqrt{21}-18$
+111	Train\INKMLs\TestINKMLGT_2012\formulaire045-equation066.inkml	$(6\sqrt{21}-27 )x^2+3x+4\sqrt{21}-18 = 10\sqrt{21}-42$
+112	Train\INKMLs\TestINKMLGT_2012\formulaire045-equation068.inkml	$ax^4+bx^3+cx^2+dx+e = 0$
+113	Train\INKMLs\TestINKMLGT_2012\formulaire046-equation021.inkml	$X= \frac{251}{351}$
+114	Train\INKMLs\TestINKMLGT_2012\formulaire046-equation023.inkml	$\frac{3\pi}{7}$
+115	Train\INKMLs\TestINKMLGT_2012\formulaire046-equation034.inkml	$\lim_{x\rightarrow 0}\frac{\sin(x)}{x}=1$
+116	Train\INKMLs\TestINKMLGT_2012\formulaire046-equation036.inkml	$\sin(x+y)$
+117	Train\INKMLs\TestINKMLGT_2012\formulaire046-equation037.inkml	$y = mx$
+118	Train\INKMLs\TestINKMLGT_2012\formulaire046-equation041.inkml	$\frac{1-ax_{0}}{b}$
+119	Train\INKMLs\TestINKMLGT_2012\formulaire046-equation049.inkml	$y(t)$
+120	Train\INKMLs\TestINKMLGT_2012\formulaire046-equation060.inkml	$(29 \div 120) - (36 - (21 \times 149)) \geq 3092$
+121	Train\INKMLs\TestINKMLGT_2012\formulaire046-equation062.inkml	$p(X)=X^n-\sum_{k=1}^n a_{n-k}X^{n-k}$
+122	Train\INKMLs\TestINKMLGT_2012\formulaire046-equation068.inkml	$f(a_1) = f(a_2)$
+123	Train\INKMLs\TestINKMLGT_2012\formulaire046-equation071.inkml	$\frac {1}{2\sqrt{x}}$
+124	Train\INKMLs\TestINKMLGT_2012\formulaire046-equation073.inkml	$e^{i\theta _{2}}$
+125	Train\INKMLs\TestINKMLGT_2012\formulaire047-equation001.inkml	$n(0)$
+126	Train\INKMLs\TestINKMLGT_2012\formulaire047-equation007.inkml	$(m, p)$
+127	Train\INKMLs\TestINKMLGT_2012\formulaire047-equation013.inkml	$-\frac{i}{\sqrt{2}} \sin \theta$
+128	Train\INKMLs\TestINKMLGT_2012\formulaire047-equation015.inkml	$(170 + 20 + 59) \div 191 \geq 0$
+129	Train\INKMLs\TestINKMLGT_2012\formulaire047-equation016.inkml	$2X^2 + X + 2$
+130	Train\INKMLs\TestINKMLGT_2012\formulaire047-equation020.inkml	$89 - 63 - 188 + 18 \geq -144$
+131	Train\INKMLs\TestINKMLGT_2012\formulaire047-equation021.inkml	$x^3-2$
+132	Train\INKMLs\TestINKMLGT_2012\formulaire047-equation022.inkml	$mg(3-2\cos \theta_0)$
+133	Train\INKMLs\TestINKMLGT_2012\formulaire047-equation025.inkml	$166 \pm 92 + 55 - 6$
+134	Train\INKMLs\TestINKMLGT_2012\formulaire047-equation026.inkml	$f(x) dx$
+135	Train\INKMLs\TestINKMLGT_2012\formulaire047-equation030.inkml	$47 \div (136 + 198) = 0.14$
+136	Train\INKMLs\TestINKMLGT_2012\formulaire047-equation035.inkml	$187 + 136 \leq 323$
+137	Train\INKMLs\TestINKMLGT_2012\formulaire047-equation036.inkml	$bz+d=0$
+138	Train\INKMLs\TestINKMLGT_2012\formulaire047-equation043.inkml	$Y = y$
+139	Train\INKMLs\TestINKMLGT_2012\formulaire047-equation046.inkml	$\pi^{-1}(b)$
+140	Train\INKMLs\TestINKMLGT_2012\formulaire047-equation048.inkml	$g(a) = \alpha_n \neq 0$
+141	Train\INKMLs\TestINKMLGT_2012\formulaire047-equation049.inkml	$y = z^2 + pz - \frac{3}{2}$
+142	Train\INKMLs\TestINKMLGT_2012\formulaire047-equation053.inkml	$3n^2+2n$
+143	Train\INKMLs\TestINKMLGT_2012\formulaire047-equation054.inkml	$\phi(a, b+1, n+1)=\phi(a, \phi(a, b, n+1), n)$
+144	Train\INKMLs\TestINKMLGT_2012\formulaire047-equation072.inkml	$(x,y)=(1,1)$
+145	Train\INKMLs\TestINKMLGT_2012\formulaire048-equation001.inkml	$\sum c_n$
+146	Train\INKMLs\TestINKMLGT_2012\formulaire048-equation005.inkml	$137 / 21 \geq 6$
+147	Train\INKMLs\TestINKMLGT_2012\formulaire048-equation008.inkml	$d(x^n)$
+148	Train\INKMLs\TestINKMLGT_2012\formulaire048-equation011.inkml	$z= \frac 1y$
+149	Train\INKMLs\TestINKMLGT_2012\formulaire048-equation025.inkml	$107 \pm ((115 \times 46) + 69) \times (29 \times 132)$
+150	Train\INKMLs\TestINKMLGT_2012\formulaire048-equation028.inkml	$\theta = 0$
+151	Train\INKMLs\TestINKMLGT_2012\formulaire048-equation033.inkml	$f(z) = x^2 - y^2 + 2 i x y$
+152	Train\INKMLs\TestINKMLGT_2012\formulaire048-equation034.inkml	$(z,z)$
+153	Train\INKMLs\TestINKMLGT_2012\formulaire048-equation038.inkml	$2z^2 - 3z - 3 - 7i = 0$
+154	Train\INKMLs\TestINKMLGT_2012\formulaire048-equation046.inkml	$ax + b y + c = 0$
+155	Train\INKMLs\TestINKMLGT_2012\formulaire048-equation049.inkml	$d_{0,0}^{2} = \frac{3 \cos^2 \theta - 1}{2}$
+156	Train\INKMLs\TestINKMLGT_2012\formulaire048-equation063.inkml	$\alpha=2$
+157	Train\INKMLs\TestINKMLGT_2012\formulaire048-equation068.inkml	$3=1+1$
+158	Train\INKMLs\TestINKMLGT_2012\formulaire049-equation003.inkml	$a+i b$
+159	Train\INKMLs\TestINKMLGT_2012\formulaire049-equation013.inkml	$\frac{7}{5}$
+160	Train\INKMLs\TestINKMLGT_2012\formulaire049-equation021.inkml	$2(ab + bc + ca)$
+161	Train\INKMLs\TestINKMLGT_2012\formulaire049-equation030.inkml	$((64 \times 22) + (66 + 129)) / (145 - (148 \times 132)) \neq 0$
+162	Train\INKMLs\TestINKMLGT_2012\formulaire049-equation033.inkml	$\phi=\frac{\pi}{2}$
+163	Train\INKMLs\TestINKMLGT_2012\formulaire049-equation041.inkml	$3^3 + 4^3 + 5^3 = 6^3$
+164	Train\INKMLs\TestINKMLGT_2012\formulaire049-equation044.inkml	$(0,id,0,id)$
+165	Train\INKMLs\TestINKMLGT_2012\formulaire049-equation045.inkml	$22 + 77 \geq 98$
+166	Train\INKMLs\TestINKMLGT_2012\formulaire049-equation056.inkml	$e = \frac{c}{a}$
+167	Train\INKMLs\TestINKMLGT_2012\formulaire049-equation057.inkml	$n(p)$
+168	Train\INKMLs\TestINKMLGT_2012\formulaire049-equation060.inkml	$(140 / (90 / 124)) \times (167 - 147) = 3857.78$
+169	Train\INKMLs\TestINKMLGT_2012\formulaire049-equation063.inkml	$x^3 + ax + b$
+170	Train\INKMLs\TestINKMLGT_2012\formulaire049-equation068.inkml	$(X - r)$
+171	Train\INKMLs\TestINKMLGT_2012\formulaire050-equation003.inkml	$k=12n-1$
+172	Train\INKMLs\TestINKMLGT_2012\formulaire050-equation006.inkml	$(x+2)^3$
+173	Train\INKMLs\TestINKMLGT_2012\formulaire050-equation015.inkml	$173 \times ((180 \times 177) / (34 + 54)) \neq 181$
+174	Train\INKMLs\TestINKMLGT_2012\formulaire050-equation021.inkml	$n=\pi(y)$
+175	Train\INKMLs\TestINKMLGT_2012\formulaire050-equation037.inkml	$d_{2,1}^{2} = - \frac{1 + \cos \theta}{2} \sin \theta$
+176	Train\INKMLs\TestINKMLGT_2012\formulaire050-equation041.inkml	$y^3 = x$
+177	Train\INKMLs\TestINKMLGT_2012\formulaire050-equation048.inkml	$16^{0}$
+178	Train\INKMLs\TestINKMLGT_2012\formulaire050-equation053.inkml	$f(X)$
+179	Train\INKMLs\TestINKMLGT_2012\formulaire050-equation057.inkml	$m = \frac{1}{b-a} \times \int_{a}^{b} f(x) dx$
+180	Train\INKMLs\TestINKMLGT_2012\formulaire050-equation058.inkml	$\frac{f(x)}{g(x)} = \frac{f(x) - f(a)}{x-a}\frac{x - a}{g(x) - g(a)}$
+181	Train\INKMLs\TestINKMLGT_2012\formulaire050-equation061.inkml	$(a_n + b_n)$
+182	Train\INKMLs\TestINKMLGT_2012\formulaire050-equation066.inkml	$\theta_{23}$
+183	Train\INKMLs\TestINKMLGT_2012\formulaire050-equation073.inkml	$Y^{(n)}$
+184	Train\INKMLs\TestINKMLGT_2012\formulaire051-equation002.inkml	$(0,x_1)$
+185	Train\INKMLs\TestINKMLGT_2012\formulaire051-equation007.inkml	$p(x)$
+186	Train\INKMLs\TestINKMLGT_2012\formulaire051-equation010.inkml	$6 + ((149 \times 101) + (24 \times 139)) \geq 18390$
+187	Train\INKMLs\TestINKMLGT_2012\formulaire051-equation021.inkml	$e - 1$
+188	Train\INKMLs\TestINKMLGT_2012\formulaire051-equation023.inkml	$(x+2)^3-(x-1)^3 = 0$
+189	Train\INKMLs\TestINKMLGT_2012\formulaire051-equation028.inkml	$d=1$
+190	Train\INKMLs\TestINKMLGT_2012\formulaire051-equation048.inkml	$x^k - 1 = 0$
+191	Train\INKMLs\TestINKMLGT_2012\formulaire051-equation053.inkml	$c \leq ab$
+192	Train\INKMLs\TestINKMLGT_2012\formulaire051-equation067.inkml	$(\pm1, \pm1, \pm1)$
+193	Train\INKMLs\TestINKMLGT_2012\formulaire051-equation068.inkml	$k_y = k \sin \theta \sin \phi$
+194	Train\INKMLs\TestINKMLGT_2012\formulaire051-equation073.inkml	$i=1$
+195	Train\INKMLs\TestINKMLGT_2012\formulaire052-equation002.inkml	$x + \ldots + y$
+196	Train\INKMLs\TestINKMLGT_2012\formulaire052-equation003.inkml	$\frac{1}{1-c}$
+197	Train\INKMLs\TestINKMLGT_2012\formulaire052-equation015.inkml	$(71 \div 78) \times 99 = 90.12$
+198	Train\INKMLs\TestINKMLGT_2012\formulaire052-equation023.inkml	$\frac1r$
+199	Train\INKMLs\TestINKMLGT_2012\formulaire052-equation028.inkml	$\alpha + \gamma$
+200	Train\INKMLs\TestINKMLGT_2012\formulaire052-equation035.inkml	$5 \pm (137 - 194 + 49) \times 36$
+201	Train\INKMLs\TestINKMLGT_2012\formulaire052-equation050.inkml	$(31 / (18 + 12)) + 36 = 37.03$
+202	Train\INKMLs\TestINKMLGT_2012\formulaire052-equation053.inkml	$(a^2 + b^2)^2 = (a + b)(a - b)^2$
+203	Train\INKMLs\TestINKMLGT_2012\formulaire052-equation056.inkml	$c_{e_i+1}$
+204	Train\INKMLs\TestINKMLGT_2012\formulaire052-equation057.inkml	$\frac{X_1 + \ldots + X_n}{n}$
+205	Train\INKMLs\TestINKMLGT_2012\formulaire052-equation061.inkml	$x(x^2 + y^2) - 10(x^2 - y^2) = 0$
+206	Train\INKMLs\TestINKMLGT_2012\formulaire052-equation063.inkml	$2^{2^{k}} + 1$
+207	Train\INKMLs\TestINKMLGT_2012\formulaire053-equation004.inkml	$f(n\times m)=f(n)\times f(m)=0$
+208	Train\INKMLs\TestINKMLGT_2012\formulaire053-equation008.inkml	$X + Y$
+209	Train\INKMLs\TestINKMLGT_2012\formulaire053-equation013.inkml	$y^2+y=x^3-x$
+210	Train\INKMLs\TestINKMLGT_2012\formulaire053-equation023.inkml	$f(z)=\sum a_{n} z^{n}$
+211	Train\INKMLs\TestINKMLGT_2012\formulaire053-equation026.inkml	$a(x-b) + b(y+a) + c = ax -ba +ba +by +c = 0$
+212	Train\INKMLs\TestINKMLGT_2012\formulaire053-equation028.inkml	$c \sqrt2$
+213	Train\INKMLs\TestINKMLGT_2012\formulaire053-equation029.inkml	$\lim_{n\rightarrow\infty} \frac{1}{n} \sum_{k=0}^{n-1} f(X_k)$
+214	Train\INKMLs\TestINKMLGT_2012\formulaire053-equation031.inkml	$\alpha_i - 1$
+215	Train\INKMLs\TestINKMLGT_2012\formulaire053-equation043.inkml	$4a - 4f$
+216	Train\INKMLs\TestINKMLGT_2012\formulaire053-equation044.inkml	$(i,p)$
+217	Train\INKMLs\TestINKMLGT_2012\formulaire054-equation000.inkml	$199 + ((196 \times 39) \div 67) = 313.09$
+218	Train\INKMLs\TestINKMLGT_2012\formulaire054-equation008.inkml	$\alpha 0 = 0\alpha = 0$
+219	Train\INKMLs\TestINKMLGT_2012\formulaire054-equation011.inkml	$x=x_0 y=y_0$
+220	Train\INKMLs\TestINKMLGT_2012\formulaire054-equation028.inkml	$n = 2 k$
+221	Train\INKMLs\TestINKMLGT_2012\formulaire054-equation030.inkml	$188 \div ((110 - 37) \div (157 + 185)) = 880.77$
+222	Train\INKMLs\TestINKMLGT_2012\formulaire054-equation035.inkml	$178 - 64 + 21 \leq 93$
+223	Train\INKMLs\TestINKMLGT_2012\formulaire054-equation039.inkml	$\frac{a}{b}= \frac{2^m5^ka}{2^m5^kb}=\frac{2^m5^ka}{10^{m+k}}$
+224	Train\INKMLs\TestINKMLGT_2012\formulaire054-equation044.inkml	$\sum_{i=0}^{\infty} x^i = \frac{1}{1-x}$
+225	Train\INKMLs\TestINKMLGT_2012\formulaire054-equation048.inkml	$144^5 = 27^5 + 84^5 + 110^5 + 133^5$
+226	Train\INKMLs\TestINKMLGT_2012\formulaire054-equation050.inkml	$80 + (114 / 172) \neq -10$
+227	Train\INKMLs\TestINKMLGT_2012\formulaire054-equation051.inkml	$\sum_i d_i^2 = 168$
+228	Train\INKMLs\TestINKMLGT_2012\formulaire054-equation053.inkml	$a_7 x^7 + a_6 x^6 + a_5 x^5 + a_4 x^4 + a_3 x^3 + a_2 x^2 + a_1 x + a_0 = 0$
+229	Train\INKMLs\TestINKMLGT_2012\formulaire054-equation055.inkml	$45 - 98 + 170 - 125 + 76 \neq 77$
+230	Train\INKMLs\TestINKMLGT_2012\formulaire054-equation056.inkml	$d = c$
+231	Train\INKMLs\TestINKMLGT_2012\formulaire054-equation063.inkml	$(1+i)$
+232	Train\INKMLs\TestINKMLGT_2012\formulaire054-equation070.inkml	$121 + 56 = 177$
+233	Train\INKMLs\TestINKMLGT_2012\formulaire054-equation071.inkml	$\frac{(n+\alpha)(n+\beta)(2n+2+\alpha+\beta)}{(n+1)(n+1+\alpha+\beta)(2n+\alpha+\beta)}$
+234	Train\INKMLs\TestINKMLGT_2012\formulaire055-equation010.inkml	$52 \pm 149 / (46 - (43 / 199))$
+235	Train\INKMLs\TestINKMLGT_2012\formulaire055-equation022.inkml	$\sqrt{n}$
+236	Train\INKMLs\TestINKMLGT_2012\formulaire055-equation023.inkml	$\frac{1}{1+x}$
+237	Train\INKMLs\TestINKMLGT_2012\formulaire055-equation024.inkml	$x_p = x$
+238	Train\INKMLs\TestINKMLGT_2012\formulaire055-equation032.inkml	$p=\sum_{i\leq d} a_i2^i$
+239	Train\INKMLs\TestINKMLGT_2012\formulaire055-equation036.inkml	$\theta_1=\theta_2=0$
+240	Train\INKMLs\TestINKMLGT_2012\formulaire055-equation039.inkml	$p = p(a,r)$
+241	Train\INKMLs\TestINKMLGT_2012\formulaire055-equation048.inkml	$b = \sqrt{c^2-a^2}$
+242	Train\INKMLs\TestINKMLGT_2012\formulaire055-equation049.inkml	$z =(z_1,\ldots,z_n)$
+243	Train\INKMLs\TestINKMLGT_2012\formulaire055-equation050.inkml	$3 \times 126 \leq 378$
+244	Train\INKMLs\TestINKMLGT_2012\formulaire055-equation058.inkml	$\frac{\sqrt{3}}{{2}}$
+245	Train\INKMLs\TestINKMLGT_2012\formulaire055-equation064.inkml	$e(t)$
+246	Train\INKMLs\TestINKMLGT_2012\formulaire055-equation068.inkml	$\sqrt 5 x^2 - 6x + \sqrt 5 = 0$
+247	Train\INKMLs\TestINKMLGT_2012\formulaire056-equation006.inkml	$f(x)=x^n$
+248	Train\INKMLs\TestINKMLGT_2012\formulaire056-equation011.inkml	$x\neq\pm i$
+249	Train\INKMLs\TestINKMLGT_2012\formulaire056-equation019.inkml	$\frac{a}{p+a}$
+250	Train\INKMLs\TestINKMLGT_2012\formulaire056-equation021.inkml	$d \times f$
+251	Train\INKMLs\TestINKMLGT_2012\formulaire056-equation024.inkml	$(n_1,n_2)+(n_2,n_1)=(n_1+n_2,n_1+n_2)$
+252	Train\INKMLs\TestINKMLGT_2012\formulaire056-equation025.inkml	$3 \pm 23 - 162$
+253	Train\INKMLs\TestINKMLGT_2012\formulaire056-equation033.inkml	$r=a_0$
+254	Train\INKMLs\TestINKMLGT_2012\formulaire056-equation034.inkml	$(x_1, \ldots, x_n)$
+255	Train\INKMLs\TestINKMLGT_2012\formulaire056-equation035.inkml	$80 + 152 \neq 286$
+256	Train\INKMLs\TestINKMLGT_2012\formulaire056-equation038.inkml	$x+ (-x) = -x + x = 0$
+257	Train\INKMLs\TestINKMLGT_2012\formulaire056-equation043.inkml	$b \leq c$
+258	Train\INKMLs\TestINKMLGT_2012\formulaire056-equation045.inkml	$194 \times (46 + 161 + 55) \neq -936$
+259	Train\INKMLs\TestINKMLGT_2012\formulaire056-equation046.inkml	$f(x)= \cos(x)$
+260	Train\INKMLs\TestINKMLGT_2012\formulaire056-equation051.inkml	$10^2-1$
+261	Train\INKMLs\TestINKMLGT_2012\formulaire056-equation055.inkml	$(186 + 30) / 134 \leq 2$
+262	Train\INKMLs\TestINKMLGT_2012\formulaire056-equation058.inkml	$x(i)$
+263	Train\INKMLs\TestINKMLGT_2012\formulaire056-equation068.inkml	$12=2y$
+264	Train\INKMLs\TestINKMLGT_2012\formulaire056-equation071.inkml	$\frac{5}{6}$
+265	Train\INKMLs\TestINKMLGT_2012\formulaire056-equation073.inkml	$z^2 - (2a - b)z + (a^2 - ab + b^2)$
+266	Train\INKMLs\TestINKMLGT_2012\formulaire057-equation003.inkml	$r(\theta)=a$
+267	Train\INKMLs\TestINKMLGT_2012\formulaire057-equation005.inkml	$167 + 165 = 332$
+268	Train\INKMLs\TestINKMLGT_2012\formulaire057-equation008.inkml	$\phi_k = \pi$
+269	Train\INKMLs\TestINKMLGT_2012\formulaire057-equation018.inkml	$X_0^3$
+270	Train\INKMLs\TestINKMLGT_2012\formulaire057-equation021.inkml	$n_1 = 1$
+271	Train\INKMLs\TestINKMLGT_2012\formulaire057-equation036.inkml	$\frac{6(k^3+k^2-6k-2)}{k(k-3)(k-4)}$
+272	Train\INKMLs\TestINKMLGT_2012\formulaire057-equation045.inkml	$157 + 72 \geq 228$
+273	Train\INKMLs\TestINKMLGT_2012\formulaire057-equation046.inkml	$y^2 = x^3 + ax^2 + bx + c$
+274	Train\INKMLs\TestINKMLGT_2012\formulaire057-equation055.inkml	$(147 \times 109) + 126 \neq -8422$
+275	Train\INKMLs\TestINKMLGT_2012\formulaire057-equation068.inkml	$x^2=x$
+276	Train\INKMLs\TestINKMLGT_2012\formulaire058-equation001.inkml	$z = x^2-y^2$
+277	Train\INKMLs\TestINKMLGT_2012\formulaire058-equation011.inkml	$(x_1+b_1k)^2+(y_1-a_1k)^2$
+278	Train\INKMLs\TestINKMLGT_2012\formulaire058-equation026.inkml	$x = y$
+279	Train\INKMLs\TestINKMLGT_2012\formulaire058-equation027.inkml	$x_0, y_0$
+280	Train\INKMLs\TestINKMLGT_2012\formulaire058-equation028.inkml	$10^k r_0$
+281	Train\INKMLs\TestINKMLGT_2012\formulaire058-equation051.inkml	$\frac{c}{d}-\frac{a}{b}=\frac{(bc-ad)}{bd}$
+282	Train\INKMLs\TestINKMLGT_2012\formulaire058-equation053.inkml	$\pi (n)$
+283	Train\INKMLs\TestINKMLGT_2012\formulaire058-equation061.inkml	$\sin(a+b)= \sin(a) \cos(b) +\sin(b) \cos(a)$
+284	Train\INKMLs\TestINKMLGT_2012\formulaire058-equation069.inkml	$x=ct$
+285	Train\INKMLs\TestINKMLGT_2012\formulaire058-equation071.inkml	$r=b$
+286	Train\INKMLs\TestINKMLGT_2012\KME1G3_0_sub_16.inkml	$\cos ( \frac \pi 2 + \alpha ) = - \sin \alpha$
+287	Train\INKMLs\TestINKMLGT_2012\KME1G3_0_sub_18.inkml	$\lim_{t \rightarrow \infty} ( 1 + \frac 1 t )^t = e$
+288	Train\INKMLs\TestINKMLGT_2012\KME1G3_0_sub_20.inkml	$\sum_{k = 1}^n k = \frac 1 2 ( n^2 + n )$
+289	Train\INKMLs\TestINKMLGT_2012\KME1G3_0_sub_24.inkml	$a ( n ) = \sum_{k = 1}^n ( - 1 )^{n - k} k !$
+290	Train\INKMLs\TestINKMLGT_2012\KME1G3_0_sub_25.inkml	$\int_1^2 ( \frac {x^2 - 1} {x^2} ) e^{x + \frac 1 x} d x$
+291	Train\INKMLs\TestINKMLGT_2012\KME1G3_0_sub_26.inkml	$\sin ( \alpha + \beta ) \sin ( \alpha - \beta ) = \sin^2 \alpha - \sin^2 \beta$
+292	Train\INKMLs\TestINKMLGT_2012\KME1G3_0_sub_28.inkml	$( z^{\frac n 2} + y^{\frac n 2} ) ( z^{\frac n 2} - y^{\frac n 2} ) = x$
+293	Train\INKMLs\TestINKMLGT_2012\KME1G3_0_sub_29.inkml	$( a^2 + b^2 ) ( c^2 + d^2 ) \geq ( a c + b d )^2$
+294	Train\INKMLs\TestINKMLGT_2012\KME1G3_1_sub_16.inkml	$\cos ( \frac \pi 2 + \alpha ) = - \sin \alpha$
+295	Train\INKMLs\TestINKMLGT_2012\KME1G3_1_sub_18.inkml	$\lim_{t \rightarrow \infty} ( 1 + \frac 1 t )^t = e$
+296	Train\INKMLs\TestINKMLGT_2012\KME1G3_1_sub_20.inkml	$\sum_{k = 1}^n k = \frac 1 2 ( n^2 + n )$
+297	Train\INKMLs\TestINKMLGT_2012\KME1G3_1_sub_24.inkml	$a ( n ) = \sum_{k = 1}^n ( - 1 )^{n - k} k !$
+298	Train\INKMLs\TestINKMLGT_2012\KME1G3_1_sub_25.inkml	$\int_1^2 ( \frac {x^2 - 1} {x^2} ) e^{x + \frac 1 x} d x$
+299	Train\INKMLs\TestINKMLGT_2012\KME1G3_1_sub_26.inkml	$\sin ( \alpha + \beta ) \sin ( \alpha - \beta ) = \sin^2 \alpha - \sin^2 \beta$
+300	Train\INKMLs\TestINKMLGT_2012\KME1G3_1_sub_28.inkml	$( z^{\frac n 2} + y^{\frac n 2} ) ( z^{\frac n 2} - y^{\frac n 2} ) = x$
+301	Train\INKMLs\TestINKMLGT_2012\KME1G3_1_sub_29.inkml	$( a^2 + b^2 ) ( c^2 + d^2 ) \geq ( a c + b d )^2$
+302	Train\INKMLs\TestINKMLGT_2012\KME1G3_2_sub_16.inkml	$\cos ( \frac \pi 2 + \alpha ) = - \sin \alpha$
+303	Train\INKMLs\TestINKMLGT_2012\KME1G3_2_sub_18.inkml	$\lim_{t \rightarrow \infty} ( 1 + \frac 1 t )^t = e$
+304	Train\INKMLs\TestINKMLGT_2012\KME1G3_2_sub_20.inkml	$\sum_{k = 1}^n k = \frac 1 2 ( n^2 + n )$
+305	Train\INKMLs\TestINKMLGT_2012\KME1G3_2_sub_24.inkml	$a ( n ) = \sum_{k = 1}^n ( - 1 )^{n - k} k !$
+306	Train\INKMLs\TestINKMLGT_2012\KME1G3_2_sub_25.inkml	$\int_1^2 ( \frac {x^2 - 1} {x^2} ) e^{x + \frac 1 x} d x$
+307	Train\INKMLs\TestINKMLGT_2012\KME1G3_2_sub_26.inkml	$\sin ( \alpha + \beta ) \sin ( \alpha - \beta ) = \sin^2 \alpha - \sin^2 \beta$
+308	Train\INKMLs\TestINKMLGT_2012\KME1G3_2_sub_28.inkml	$( z^{\frac n 2} + y^{\frac n 2} ) ( z^{\frac n 2} - y^{\frac n 2} ) = x$
+309	Train\INKMLs\TestINKMLGT_2012\KME1G3_2_sub_29.inkml	$( a^2 + b^2 ) ( c^2 + d^2 ) \geq ( a c + b d )^2$
+310	Train\INKMLs\TestINKMLGT_2012\KME1G3_3_sub_16.inkml	$\cos ( \frac \pi 2 + \alpha ) = - \sin \alpha$
+311	Train\INKMLs\TestINKMLGT_2012\KME1G3_3_sub_18.inkml	$\lim_{t \rightarrow \infty} ( 1 + \frac 1 t )^t = e$
+312	Train\INKMLs\TestINKMLGT_2012\KME1G3_3_sub_20.inkml	$\sum_{k = 1}^n k = \frac 1 2 ( n^2 + n )$
+313	Train\INKMLs\TestINKMLGT_2012\KME1G3_3_sub_24.inkml	$a ( n ) = \sum_{k = 1}^n ( - 1 )^{n - k} k !$
+314	Train\INKMLs\TestINKMLGT_2012\KME1G3_3_sub_25.inkml	$\int_1^2 ( \frac {x^2 - 1} {x^2} ) e^{x + \frac 1 x} d x$
+315	Train\INKMLs\TestINKMLGT_2012\KME1G3_3_sub_26.inkml	$\sin ( \alpha + \beta ) \sin ( \alpha - \beta ) = \sin^2 \alpha - \sin^2 \beta$
+316	Train\INKMLs\TestINKMLGT_2012\KME1G3_3_sub_28.inkml	$( z^{\frac n 2} + y^{\frac n 2} ) ( z^{\frac n 2} - y^{\frac n 2} ) = x$
+317	Train\INKMLs\TestINKMLGT_2012\KME1G3_3_sub_29.inkml	$( a^2 + b^2 ) ( c^2 + d^2 ) \geq ( a c + b d )^2$
+318	Train\INKMLs\TestINKMLGT_2012\KME1G3_4_sub_16.inkml	$\cos ( \frac \pi 2 + \alpha ) = - \sin \alpha$
+319	Train\INKMLs\TestINKMLGT_2012\KME1G3_4_sub_18.inkml	$\lim_{t \rightarrow \infty} ( 1 + \frac 1 t )^t = e$
+320	Train\INKMLs\TestINKMLGT_2012\KME1G3_4_sub_20.inkml	$\sum_{k = 1}^n k = \frac 1 2 ( n^2 + n )$
+321	Train\INKMLs\TestINKMLGT_2012\KME1G3_4_sub_24.inkml	$a ( n ) = \sum_{k = 1}^n ( - 1 )^{n - k} k !$
+322	Train\INKMLs\TestINKMLGT_2012\KME1G3_4_sub_25.inkml	$\int_1^2 ( \frac {x^2 - 1} {x^2} ) e^{x + \frac 1 x} d x$
+323	Train\INKMLs\TestINKMLGT_2012\KME1G3_4_sub_26.inkml	$\sin ( \alpha + \beta ) \sin ( \alpha - \beta ) = \sin^2 \alpha - \sin^2 \beta$
+324	Train\INKMLs\TestINKMLGT_2012\KME1G3_4_sub_28.inkml	$( z^{\frac n 2} + y^{\frac n 2} ) ( z^{\frac n 2} - y^{\frac n 2} ) = x$
+325	Train\INKMLs\TestINKMLGT_2012\KME1G3_4_sub_29.inkml	$( a^2 + b^2 ) ( c^2 + d^2 ) \geq ( a c + b d )^2$
+326	Train\INKMLs\TestINKMLGT_2012\KME1G3_5_sub_16.inkml	$\cos ( \frac \pi 2 + \alpha ) = - \sin \alpha$
+327	Train\INKMLs\TestINKMLGT_2012\KME1G3_5_sub_18.inkml	$\lim_{t \rightarrow \infty} ( 1 + \frac 1 t )^t = e$
+328	Train\INKMLs\TestINKMLGT_2012\KME1G3_5_sub_20.inkml	$\sum_{k = 1}^n k = \frac 1 2 ( n^2 + n )$
+329	Train\INKMLs\TestINKMLGT_2012\KME1G3_5_sub_24.inkml	$a ( n ) = \sum_{k = 1}^n ( - 1 )^{n - k} k !$
+330	Train\INKMLs\TestINKMLGT_2012\KME1G3_5_sub_25.inkml	$\int_1^2 ( \frac {x^2 - 1} {x^2} ) e^{x + \frac 1 x} d x$
+331	Train\INKMLs\TestINKMLGT_2012\KME1G3_5_sub_26.inkml	$\sin ( \alpha + \beta ) \sin ( \alpha - \beta ) = \sin^2 \alpha - \sin^2 \beta$
+332	Train\INKMLs\TestINKMLGT_2012\KME1G3_5_sub_28.inkml	$( z^{\frac n 2} + y^{\frac n 2} ) ( z^{\frac n 2} - y^{\frac n 2} ) = x$
+333	Train\INKMLs\TestINKMLGT_2012\KME1G3_5_sub_29.inkml	$( a^2 + b^2 ) ( c^2 + d^2 ) \geq ( a c + b d )^2$
+334	Train\INKMLs\TestINKMLGT_2012\KME1G3_6_sub_16.inkml	$\cos ( \frac \pi 2 + \alpha ) = - \sin \alpha$
+335	Train\INKMLs\TestINKMLGT_2012\KME1G3_6_sub_18.inkml	$\lim_{t \rightarrow \infty} ( 1 + \frac 1 t )^t = e$
+336	Train\INKMLs\TestINKMLGT_2012\KME1G3_6_sub_20.inkml	$\sum_{k = 1}^n k = \frac 1 2 ( n^2 + n )$
+337	Train\INKMLs\TestINKMLGT_2012\KME1G3_6_sub_24.inkml	$a ( n ) = \sum_{k = 1}^n ( - 1 )^{n - k} k !$
+338	Train\INKMLs\TestINKMLGT_2012\KME1G3_6_sub_25.inkml	$\int_1^2 ( \frac {x^2 - 1} {x^2} ) e^{x + \frac 1 x} d x$
+339	Train\INKMLs\TestINKMLGT_2012\KME1G3_6_sub_26.inkml	$\sin ( \alpha + \beta ) \sin ( \alpha - \beta ) = \sin^2 \alpha - \sin^2 \beta$
+340	Train\INKMLs\TestINKMLGT_2012\KME1G3_6_sub_28.inkml	$( z^{\frac n 2} + y^{\frac n 2} ) ( z^{\frac n 2} - y^{\frac n 2} ) = x$
+341	Train\INKMLs\TestINKMLGT_2012\KME1G3_6_sub_29.inkml	$( a^2 + b^2 ) ( c^2 + d^2 ) \geq ( a c + b d )^2$
+342	Train\INKMLs\TestINKMLGT_2012\KME1G3_7_sub_16.inkml	$\cos ( \frac \pi 2 + \alpha ) = - \sin \alpha$
+343	Train\INKMLs\TestINKMLGT_2012\KME1G3_7_sub_18.inkml	$\lim_{t \rightarrow \infty} ( 1 + \frac 1 t )^t = e$
+344	Train\INKMLs\TestINKMLGT_2012\KME1G3_7_sub_20.inkml	$\sum_{k = 1}^n k = \frac 1 2 ( n^2 + n )$
+345	Train\INKMLs\TestINKMLGT_2012\KME1G3_7_sub_24.inkml	$a ( n ) = \sum_{k = 1}^n ( - 1 )^{n - k} k !$
+346	Train\INKMLs\TestINKMLGT_2012\KME1G3_7_sub_25.inkml	$\int_1^2 ( \frac {x^2 - 1} {x^2} ) e^{x + \frac 1 x} d x$
+347	Train\INKMLs\TestINKMLGT_2012\KME1G3_7_sub_26.inkml	$\sin ( \alpha + \beta ) \sin ( \alpha - \beta ) = \sin^2 \alpha - \sin^2 \beta$
+348	Train\INKMLs\TestINKMLGT_2012\KME1G3_7_sub_28.inkml	$( z^{\frac n 2} + y^{\frac n 2} ) ( z^{\frac n 2} - y^{\frac n 2} ) = x$
+349	Train\INKMLs\TestINKMLGT_2012\KME1G3_7_sub_29.inkml	$( a^2 + b^2 ) ( c^2 + d^2 ) \geq ( a c + b d )^2$
+350	Train\INKMLs\TestINKMLGT_2012\KME1G3_8_sub_16.inkml	$\cos ( \frac \pi 2 + \alpha ) = - \sin \alpha$
+351	Train\INKMLs\TestINKMLGT_2012\KME1G3_8_sub_20.inkml	$\sum_{k = 1}^n k = \frac 1 2 ( n^2 + n )$
+352	Train\INKMLs\TestINKMLGT_2012\KME1G3_8_sub_24.inkml	$a ( n ) = \sum_{k = 1}^n ( - 1 )^{n - k} k !$
+353	Train\INKMLs\TestINKMLGT_2012\KME1G3_8_sub_25.inkml	$\int_1^2 ( \frac {x^2 - 1} {x^2} ) e^{x + \frac 1 x} d x$
+354	Train\INKMLs\TestINKMLGT_2012\KME1G3_8_sub_26.inkml	$\sin ( \alpha + \beta ) \sin ( \alpha - \beta ) = \sin^2 \alpha - \sin^2 \beta$
+355	Train\INKMLs\TestINKMLGT_2012\KME1G3_8_sub_28.inkml	$( z^{\frac n 2} + y^{\frac n 2} ) ( z^{\frac n 2} - y^{\frac n 2} ) = x$
+356	Train\INKMLs\TestINKMLGT_2012\KME1G3_8_sub_29.inkml	$( a^2 + b^2 ) ( c^2 + d^2 ) \geq ( a c + b d )^2$
+357	Train\INKMLs\TestINKMLGT_2012\KME1G3_9_sub_16.inkml	$\cos ( \frac \pi 2 + \alpha ) = - \sin \alpha$
+358	Train\INKMLs\TestINKMLGT_2012\KME1G3_9_sub_18.inkml	$\lim_{t \rightarrow \infty} ( 1 + \frac 1 t )^t = e$
+359	Train\INKMLs\TestINKMLGT_2012\KME1G3_9_sub_20.inkml	$\sum_{k = 1}^n k = \frac 1 2 ( n^2 + n )$
+360	Train\INKMLs\TestINKMLGT_2012\KME1G3_9_sub_24.inkml	$a ( n ) = \sum_{k = 1}^n ( - 1 )^{n - k} k !$
+361	Train\INKMLs\TestINKMLGT_2012\KME1G3_9_sub_25.inkml	$\int_1^2 ( \frac {x^2 - 1} {x^2} ) e^{x + \frac 1 x} d x$
+362	Train\INKMLs\TestINKMLGT_2012\KME1G3_9_sub_26.inkml	$\sin ( \alpha + \beta ) \sin ( \alpha - \beta ) = \sin^2 \alpha - \sin^2 \beta$
+363	Train\INKMLs\TestINKMLGT_2012\KME1G3_9_sub_28.inkml	$( z^{\frac n 2} + y^{\frac n 2} ) ( z^{\frac n 2} - y^{\frac n 2} ) = x$
+364	Train\INKMLs\TestINKMLGT_2012\KME1G3_9_sub_29.inkml	$( a^2 + b^2 ) ( c^2 + d^2 ) \geq ( a c + b d )^2$
+365	Train\INKMLs\TestINKMLGT_2012\KME2G3_0_sub_14.inkml	$( y + 1 )^2 = y^2 + 2 y + 1$
+366	Train\INKMLs\TestINKMLGT_2012\KME2G3_0_sub_15.inkml	$( x^3 - x^2 - x ) ( 2 x - 7 )$
+367	Train\INKMLs\TestINKMLGT_2012\KME2G3_0_sub_3.inkml	$e_1^2 + e_2^3 + e_3^4 + e_4^5$
+368	Train\INKMLs\TestINKMLGT_2012\KME2G3_0_sub_39.inkml	$\sin x - \sin y - \sin ( x - y )$
+369	Train\INKMLs\TestINKMLGT_2012\KME2G3_0_sub_42.inkml	$\sqrt 2 ( \frac 1 {\sqrt 2} \sin x + \frac 1 {\sqrt 2} \cos x )$
+370	Train\INKMLs\TestINKMLGT_2012\KME2G3_0_sub_52.inkml	$\lim_{t \rightarrow 0} \frac {\cos ( \frac x 2 - t )} {- 2 t}$
+371	Train\INKMLs\TestINKMLGT_2012\KME2G3_0_sub_53.inkml	$\lim_{x \rightarrow 0} \frac {( 1 - \cos x ) ( 1 + \cos x )} {x^2 ( 1 + \cos x )}$
+372	Train\INKMLs\TestINKMLGT_2012\KME2G3_0_sub_61.inkml	$\int ( 2^x - 3 e^x ) d x$
+373	Train\INKMLs\TestINKMLGT_2012\KME2G3_0_sub_63.inkml	$\frac 1 a F ( a x + b ) + C$
+374	Train\INKMLs\TestINKMLGT_2012\KME2G3_0_sub_70.inkml	$[ \frac 2 3 ( 1 + \frac 9 4 x )^{\frac 3 2} \frac 4 9 ]_0^4$
+375	Train\INKMLs\TestINKMLGT_2012\KME2G3_0_sub_97.inkml	$\lim_{z \rightarrow 0} \frac 1 {\log_a ( 1 + z )^{\frac 1 z}}$
+376	Train\INKMLs\TestINKMLGT_2012\KME2G3_1_sub_14.inkml	$( y + 1 )^2 = y^2 + 2 y + 1$
+377	Train\INKMLs\TestINKMLGT_2012\KME2G3_1_sub_15.inkml	$( x^3 - x^2 - x ) ( 2 x - 7 )$
+378	Train\INKMLs\TestINKMLGT_2012\KME2G3_1_sub_3.inkml	$e_1^2 + e_2^3 + e_3^4 + e_4^5$
+379	Train\INKMLs\TestINKMLGT_2012\KME2G3_1_sub_39.inkml	$\sin x - \sin y - \sin ( x - y )$
+380	Train\INKMLs\TestINKMLGT_2012\KME2G3_1_sub_42.inkml	$\sqrt 2 ( \frac 1 {\sqrt 2} \sin x + \frac 1 {\sqrt 2} \cos x )$
+381	Train\INKMLs\TestINKMLGT_2012\KME2G3_1_sub_48.inkml	$\lim_{x \rightarrow 0} ( 1 + x )^{\frac 1 x}$
+382	Train\INKMLs\TestINKMLGT_2012\KME2G3_1_sub_52.inkml	$\lim_{t \rightarrow 0} \frac {\cos ( \frac x 2 - t )} {- 2 t}$
+383	Train\INKMLs\TestINKMLGT_2012\KME2G3_1_sub_53.inkml	$\lim_{x \rightarrow 0} \frac {( 1 - \cos x ) ( 1 + \cos x )} {x^2 ( 1 + \cos x )}$
+384	Train\INKMLs\TestINKMLGT_2012\KME2G3_1_sub_61.inkml	$\int ( 2^x - 3 e^x ) d x$
+385	Train\INKMLs\TestINKMLGT_2012\KME2G3_1_sub_63.inkml	$\frac 1 a F ( a x + b ) + C$
+386	Train\INKMLs\TestINKMLGT_2012\KME2G3_1_sub_66.inkml	$\int_0^{\frac \pi 2} \{ ( \cos x + e^x ) - ( e^x - \cos x ) \} d x$
+387	Train\INKMLs\TestINKMLGT_2012\KME2G3_1_sub_70.inkml	$[ \frac 2 3 ( 1 + \frac 9 4 x )^{\frac 3 2} \frac 4 9 ]_0^4$
+388	Train\INKMLs\TestINKMLGT_2012\KME2G3_1_sub_97.inkml	$\lim_{z \rightarrow 0} \frac 1 {\log_a ( 1 + z )^{\frac 1 z}}$
+389	Train\INKMLs\TestINKMLGT_2012\KME2G3_2_sub_14.inkml	$( y + 1 )^2 = y^2 + 2 y + 1$
+390	Train\INKMLs\TestINKMLGT_2012\KME2G3_2_sub_15.inkml	$( x^3 - x^2 - x ) ( 2 x - 7 )$
+391	Train\INKMLs\TestINKMLGT_2012\KME2G3_2_sub_3.inkml	$e_1^2 + e_2^3 + e_3^4 + e_4^5$
+392	Train\INKMLs\TestINKMLGT_2012\KME2G3_2_sub_39.inkml	$\sin x - \sin y - \sin ( x - y )$
+393	Train\INKMLs\TestINKMLGT_2012\KME2G3_2_sub_42.inkml	$\sqrt 2 ( \frac 1 {\sqrt 2} \sin x + \frac 1 {\sqrt 2} \cos x )$
+394	Train\INKMLs\TestINKMLGT_2012\KME2G3_2_sub_48.inkml	$\lim_{x \rightarrow 0} ( 1 + x )^{\frac 1 x}$
+395	Train\INKMLs\TestINKMLGT_2012\KME2G3_2_sub_52.inkml	$\lim_{t \rightarrow 0} \frac {\cos ( \frac x 2 - t )} {- 2 t}$
+396	Train\INKMLs\TestINKMLGT_2012\KME2G3_2_sub_53.inkml	$\lim_{x \rightarrow 0} \frac {( 1 - \cos x ) ( 1 + \cos x )} {x^2 ( 1 + \cos x )}$
+397	Train\INKMLs\TestINKMLGT_2012\KME2G3_2_sub_63.inkml	$\frac 1 a F ( a x + b ) + C$
+398	Train\INKMLs\TestINKMLGT_2012\KME2G3_2_sub_66.inkml	$\int_0^{\frac \pi 2} \{ ( \cos x + e^x ) - ( e^x - \cos x ) \} d x$
+399	Train\INKMLs\TestINKMLGT_2012\KME2G3_2_sub_70.inkml	$[ \frac 2 3 ( 1 + \frac 9 4 x )^{\frac 3 2} \frac 4 9 ]_0^4$
+400	Train\INKMLs\TestINKMLGT_2012\KME2G3_2_sub_97.inkml	$\lim_{z \rightarrow 0} \frac 1 {\log_a ( 1 + z )^{\frac 1 z}}$
+401	Train\INKMLs\TestINKMLGT_2012\KME2G3_3_sub_14.inkml	$( y + 1 )^2 = y^2 + 2 y + 1$
+402	Train\INKMLs\TestINKMLGT_2012\KME2G3_3_sub_15.inkml	$( x^3 - x^2 - x ) ( 2 x - 7 )$
+403	Train\INKMLs\TestINKMLGT_2012\KME2G3_3_sub_3.inkml	$e_1^2 + e_2^3 + e_3^4 + e_4^5$
+404	Train\INKMLs\TestINKMLGT_2012\KME2G3_3_sub_39.inkml	$\sin x - \sin y - \sin ( x - y )$
+405	Train\INKMLs\TestINKMLGT_2012\KME2G3_3_sub_42.inkml	$\sqrt 2 ( \frac 1 {\sqrt 2} \sin x + \frac 1 {\sqrt 2} \cos x )$
+406	Train\INKMLs\TestINKMLGT_2012\KME2G3_3_sub_48.inkml	$\lim_{x \rightarrow 0} ( 1 + x )^{\frac 1 x}$
+407	Train\INKMLs\TestINKMLGT_2012\KME2G3_3_sub_52.inkml	$\lim_{t \rightarrow 0} \frac {\cos ( \frac x 2 - t )} {- 2 t}$
+408	Train\INKMLs\TestINKMLGT_2012\KME2G3_3_sub_53.inkml	$\lim_{x \rightarrow 0} \frac {( 1 - \cos x ) ( 1 + \cos x )} {x^2 ( 1 + \cos x )}$
+409	Train\INKMLs\TestINKMLGT_2012\KME2G3_3_sub_61.inkml	$\int ( 2^x - 3 e^x ) d x$
+410	Train\INKMLs\TestINKMLGT_2012\KME2G3_3_sub_63.inkml	$\frac 1 a F ( a x + b ) + C$
+411	Train\INKMLs\TestINKMLGT_2012\KME2G3_3_sub_66.inkml	$\int_0^{\frac \pi 2} \{ ( \cos x + e^x ) - ( e^x - \cos x ) \} d x$
+412	Train\INKMLs\TestINKMLGT_2012\KME2G3_3_sub_70.inkml	$[ \frac 2 3 ( 1 + \frac 9 4 x )^{\frac 3 2} \frac 4 9 ]_0^4$
+413	Train\INKMLs\TestINKMLGT_2012\KME2G3_4_sub_14.inkml	$( y + 1 )^2 = y^2 + 2 y + 1$
+414	Train\INKMLs\TestINKMLGT_2012\KME2G3_4_sub_15.inkml	$( x^3 - x^2 - x ) ( 2 x - 7 )$
+415	Train\INKMLs\TestINKMLGT_2012\KME2G3_4_sub_3.inkml	$e_1^2 + e_2^3 + e_3^4 + e_4^5$
+416	Train\INKMLs\TestINKMLGT_2012\KME2G3_4_sub_39.inkml	$\sin x - \sin y - \sin ( x - y )$
+417	Train\INKMLs\TestINKMLGT_2012\KME2G3_4_sub_42.inkml	$\sqrt 2 ( \frac 1 {\sqrt 2} \sin x + \frac 1 {\sqrt 2} \cos x )$
+418	Train\INKMLs\TestINKMLGT_2012\KME2G3_4_sub_48.inkml	$\lim_{x \rightarrow 0} ( 1 + x )^{\frac 1 x}$
+419	Train\INKMLs\TestINKMLGT_2012\KME2G3_4_sub_52.inkml	$\lim_{t \rightarrow 0} \frac {\cos ( \frac x 2 - t )} {- 2 t}$
+420	Train\INKMLs\TestINKMLGT_2012\KME2G3_4_sub_53.inkml	$\lim_{x \rightarrow 0} \frac {( 1 - \cos x ) ( 1 + \cos x )} {x^2 ( 1 + \cos x )}$
+421	Train\INKMLs\TestINKMLGT_2012\KME2G3_4_sub_61.inkml	$\int ( 2^x - 3 e^x ) d x$
+422	Train\INKMLs\TestINKMLGT_2012\KME2G3_4_sub_63.inkml	$\frac 1 a F ( a x + b ) + C$
+423	Train\INKMLs\TestINKMLGT_2012\KME2G3_4_sub_66.inkml	$\int_0^{\frac \pi 2} \{ ( \cos x + e^x ) - ( e^x - \cos x ) \} d x$
+424	Train\INKMLs\TestINKMLGT_2012\KME2G3_4_sub_70.inkml	$[ \frac 2 3 ( 1 + \frac 9 4 x )^{\frac 3 2} \frac 4 9 ]_0^4$
+425	Train\INKMLs\TestINKMLGT_2012\KME2G3_4_sub_97.inkml	$\lim_{z \rightarrow 0} \frac 1 {\log_a ( 1 + z )^{\frac 1 z}}$
+426	Train\INKMLs\TestINKMLGT_2012\KME2G3_5_sub_14.inkml	$( y + 1 )^2 = y^2 + 2 y + 1$
+427	Train\INKMLs\TestINKMLGT_2012\KME2G3_5_sub_3.inkml	$e_1^2 + e_2^3 + e_3^4 + e_4^5$
+428	Train\INKMLs\TestINKMLGT_2012\KME2G3_5_sub_39.inkml	$\sin x - \sin y - \sin ( x - y )$
+429	Train\INKMLs\TestINKMLGT_2012\KME2G3_5_sub_42.inkml	$\sqrt 2 ( \frac 1 {\sqrt 2} \sin x + \frac 1 {\sqrt 2} \cos x )$
+430	Train\INKMLs\TestINKMLGT_2012\KME2G3_5_sub_48.inkml	$\lim_{x \rightarrow 0} ( 1 + x )^{\frac 1 x}$
+431	Train\INKMLs\TestINKMLGT_2012\KME2G3_5_sub_52.inkml	$\lim_{t \rightarrow 0} \frac {\cos ( \frac x 2 - t )} {- 2 t}$
+432	Train\INKMLs\TestINKMLGT_2012\KME2G3_5_sub_53.inkml	$\lim_{x \rightarrow 0} \frac {( 1 - \cos x ) ( 1 + \cos x )} {x^2 ( 1 + \cos x )}$
+433	Train\INKMLs\TestINKMLGT_2012\KME2G3_5_sub_61.inkml	$\int ( 2^x - 3 e^x ) d x$
+434	Train\INKMLs\TestINKMLGT_2012\KME2G3_5_sub_63.inkml	$\frac 1 a F ( a x + b ) + C$
+435	Train\INKMLs\TestINKMLGT_2012\KME2G3_5_sub_66.inkml	$\int_0^{\frac \pi 2} \{ ( \cos x + e^x ) - ( e^x - \cos x ) \} d x$
+436	Train\INKMLs\TestINKMLGT_2012\KME2G3_5_sub_70.inkml	$[ \frac 2 3 ( 1 + \frac 9 4 x )^{\frac 3 2} \frac 4 9 ]_0^4$
+437	Train\INKMLs\TestINKMLGT_2012\KME2G3_6_sub_14.inkml	$( y + 1 )^2 = y^2 + 2 y + 1$
+438	Train\INKMLs\TestINKMLGT_2012\KME2G3_6_sub_15.inkml	$( x^3 - x^2 - x ) ( 2 x - 7 )$
+439	Train\INKMLs\TestINKMLGT_2012\KME2G3_6_sub_3.inkml	$e_1^2 + e_2^3 + e_3^4 + e_4^5$
+440	Train\INKMLs\TestINKMLGT_2012\KME2G3_6_sub_39.inkml	$\sin x - \sin y - \sin ( x - y )$
+441	Train\INKMLs\TestINKMLGT_2012\KME2G3_6_sub_42.inkml	$\sqrt 2 ( \frac 1 {\sqrt 2} \sin x + \frac 1 {\sqrt 2} \cos x )$
+442	Train\INKMLs\TestINKMLGT_2012\KME2G3_6_sub_48.inkml	$\lim_{x \rightarrow 0} ( 1 + x )^{\frac 1 x}$
+443	Train\INKMLs\TestINKMLGT_2012\KME2G3_6_sub_52.inkml	$\lim_{t \rightarrow 0} \frac {\cos ( \frac x 2 - t )} {- 2 t}$
+444	Train\INKMLs\TestINKMLGT_2012\KME2G3_6_sub_53.inkml	$\lim_{x \rightarrow 0} \frac {( 1 - \cos x ) ( 1 + \cos x )} {x^2 ( 1 + \cos x )}$
+445	Train\INKMLs\TestINKMLGT_2012\KME2G3_6_sub_61.inkml	$\int ( 2^x - 3 e^x ) d x$
+446	Train\INKMLs\TestINKMLGT_2012\KME2G3_6_sub_63.inkml	$\frac 1 a F ( a x + b ) + C$
+447	Train\INKMLs\TestINKMLGT_2012\KME2G3_6_sub_66.inkml	$\int_0^{\frac \pi 2} \{ ( \cos x + e^x ) - ( e^x - \cos x ) \} d x$
+448	Train\INKMLs\TestINKMLGT_2012\KME2G3_6_sub_70.inkml	$[ \frac 2 3 ( 1 + \frac 9 4 x )^{\frac 3 2} \frac 4 9 ]_0^4$
+449	Train\INKMLs\TestINKMLGT_2012\KME2G3_6_sub_97.inkml	$\lim_{z \rightarrow 0} \frac 1 {\log_a ( 1 + z )^{\frac 1 z}}$
+450	Train\INKMLs\TestINKMLGT_2012\KME2G3_7_sub_14.inkml	$( y + 1 )^2 = y^2 + 2 y + 1$
+451	Train\INKMLs\TestINKMLGT_2012\KME2G3_7_sub_15.inkml	$( x^3 - x^2 - x ) ( 2 x - 7 )$
+452	Train\INKMLs\TestINKMLGT_2012\KME2G3_7_sub_3.inkml	$e_1^2 + e_2^3 + e_3^4 + e_4^5$
+453	Train\INKMLs\TestINKMLGT_2012\KME2G3_7_sub_39.inkml	$\sin x - \sin y - \sin ( x - y )$
+454	Train\INKMLs\TestINKMLGT_2012\KME2G3_7_sub_42.inkml	$\sqrt 2 ( \frac 1 {\sqrt 2} \sin x + \frac 1 {\sqrt 2} \cos x )$
+455	Train\INKMLs\TestINKMLGT_2012\KME2G3_7_sub_48.inkml	$\lim_{x \rightarrow 0} ( 1 + x )^{\frac 1 x}$
+456	Train\INKMLs\TestINKMLGT_2012\KME2G3_7_sub_52.inkml	$\lim_{t \rightarrow 0} \frac {\cos ( \frac x 2 - t )} {- 2 t}$
+457	Train\INKMLs\TestINKMLGT_2012\KME2G3_7_sub_53.inkml	$\lim_{x \rightarrow 0} \frac {( 1 - \cos x ) ( 1 + \cos x )} {x^2 ( 1 + \cos x )}$
+458	Train\INKMLs\TestINKMLGT_2012\KME2G3_7_sub_61.inkml	$\int ( 2^x - 3 e^x ) d x$
+459	Train\INKMLs\TestINKMLGT_2012\KME2G3_7_sub_63.inkml	$\frac 1 a F ( a x + b ) + C$
+460	Train\INKMLs\TestINKMLGT_2012\KME2G3_7_sub_66.inkml	$\int_0^{\frac \pi 2} \{ ( \cos x + e^x ) - ( e^x - \cos x ) \} d x$
+461	Train\INKMLs\TestINKMLGT_2012\KME2G3_7_sub_70.inkml	$[ \frac 2 3 ( 1 + \frac 9 4 x )^{\frac 3 2} \frac 4 9 ]_0^4$
+462	Train\INKMLs\TestINKMLGT_2012\KME2G3_7_sub_97.inkml	$\lim_{z \rightarrow 0} \frac 1 {\log_a ( 1 + z )^{\frac 1 z}}$
+463	Train\INKMLs\TestINKMLGT_2012\KME2G3_8_sub_14.inkml	$( y + 1 )^2 = y^2 + 2 y + 1$
+464	Train\INKMLs\TestINKMLGT_2012\KME2G3_8_sub_15.inkml	$( x^3 - x^2 - x ) ( 2 x - 7 )$
+465	Train\INKMLs\TestINKMLGT_2012\KME2G3_8_sub_3.inkml	$e_1^2 + e_2^3 + e_3^4 + e_4^5$
+466	Train\INKMLs\TestINKMLGT_2012\KME2G3_8_sub_39.inkml	$\sin x - \sin y - \sin ( x - y )$
+467	Train\INKMLs\TestINKMLGT_2012\KME2G3_8_sub_42.inkml	$\sqrt 2 ( \frac 1 {\sqrt 2} \sin x + \frac 1 {\sqrt 2} \cos x )$
+468	Train\INKMLs\TestINKMLGT_2012\KME2G3_8_sub_48.inkml	$\lim_{x \rightarrow 0} ( 1 + x )^{\frac 1 x}$
+469	Train\INKMLs\TestINKMLGT_2012\KME2G3_8_sub_52.inkml	$\lim_{t \rightarrow 0} \frac {\cos ( \frac x 2 - t )} {- 2 t}$
+470	Train\INKMLs\TestINKMLGT_2012\KME2G3_8_sub_53.inkml	$\lim_{x \rightarrow 0} \frac {( 1 - \cos x ) ( 1 + \cos x )} {x^2 ( 1 + \cos x )}$
+471	Train\INKMLs\TestINKMLGT_2012\KME2G3_8_sub_61.inkml	$\int ( 2^x - 3 e^x ) d x$
+472	Train\INKMLs\TestINKMLGT_2012\KME2G3_8_sub_63.inkml	$\frac 1 a F ( a x + b ) + C$
+473	Train\INKMLs\TestINKMLGT_2012\KME2G3_8_sub_66.inkml	$\int_0^{\frac \pi 2} \{ ( \cos x + e^x ) - ( e^x - \cos x ) \} d x$
+474	Train\INKMLs\TestINKMLGT_2012\KME2G3_8_sub_70.inkml	$[ \frac 2 3 ( 1 + \frac 9 4 x )^{\frac 3 2} \frac 4 9 ]_0^4$
+475	Train\INKMLs\TestINKMLGT_2012\KME2G3_8_sub_97.inkml	$\lim_{z \rightarrow 0} \frac 1 {\log_a ( 1 + z )^{\frac 1 z}}$
+476	Train\INKMLs\TestINKMLGT_2012\KME2G3_9_sub_14.inkml	$( y + 1 )^2 = y^2 + 2 y + 1$
+477	Train\INKMLs\TestINKMLGT_2012\KME2G3_9_sub_15.inkml	$( x^3 - x^2 - x ) ( 2 x - 7 )$
+478	Train\INKMLs\TestINKMLGT_2012\KME2G3_9_sub_3.inkml	$e_1^2 + e_2^3 + e_3^4 + e_4^5$
+479	Train\INKMLs\TestINKMLGT_2012\KME2G3_9_sub_39.inkml	$\sin x - \sin y - \sin ( x - y )$
+480	Train\INKMLs\TestINKMLGT_2012\KME2G3_9_sub_42.inkml	$\sqrt 2 ( \frac 1 {\sqrt 2} \sin x + \frac 1 {\sqrt 2} \cos x )$
+481	Train\INKMLs\TestINKMLGT_2012\KME2G3_9_sub_48.inkml	$\lim_{x \rightarrow 0} ( 1 + x )^{\frac 1 x}$
+482	Train\INKMLs\TestINKMLGT_2012\KME2G3_9_sub_52.inkml	$\lim_{t \rightarrow 0} \frac {\cos ( \frac x 2 - t )} {- 2 t}$
+483	Train\INKMLs\TestINKMLGT_2012\KME2G3_9_sub_53.inkml	$\lim_{x \rightarrow 0} \frac {( 1 - \cos x ) ( 1 + \cos x )} {x^2 ( 1 + \cos x )}$
+484	Train\INKMLs\TestINKMLGT_2012\KME2G3_9_sub_61.inkml	$\int ( 2^x - 3 e^x ) d x$
+485	Train\INKMLs\TestINKMLGT_2012\KME2G3_9_sub_63.inkml	$\frac 1 a F ( a x + b ) + C$
+486	Train\INKMLs\TestINKMLGT_2012\KME2G3_9_sub_66.inkml	$\int_0^{\frac \pi 2} \{ ( \cos x + e^x ) - ( e^x - \cos x ) \} d x$
+487	Train\INKMLs\TestINKMLGT_2012\KME2G3_9_sub_70.inkml	$[ \frac 2 3 ( 1 + \frac 9 4 x )^{\frac 3 2} \frac 4 9 ]_0^4$
+488	Train\INKMLs\TestINKMLGT_2012\KME2G3_9_sub_97.inkml	$\lim_{z \rightarrow 0} \frac 1 {\log_a ( 1 + z )^{\frac 1 z}}$

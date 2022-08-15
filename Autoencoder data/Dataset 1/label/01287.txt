@@ -1,0 +1,19 @@
+# IUD, Formula03_206_tru_norm
+# Objects(7):
+O, w_3, w, 1.0, O,       19.7531,8.4856,93.0041,82.9712
+O, 1_4, 1, 1.0, OSub,       99.5885,39.3498,117.2840,80.9136
+O, COMMA_5, COMMA, 1.0, OR,       157.2016,54.5761,183.9506,90.3786
+O, \ldots_6, \ldots, 1.0, ORR,       231.6872,22.0658,325.1029,49.6379
+O, COMMA_7, COMMA, 1.0, ORRR,       341.9753,50.0494,381.8930,92.8477
+O, w_9, w, 1.0, ORRRR,       432.0988,5.1934,506.1728,75.5638
+O, m_10, m, 1.0, ORRRRSub,       511.5226,24.5350,581.0700,81.3251
+
+w _ { 1 } , \ldots , w _ { m } 
+
+# Relations from SRT:
+R, COMMA_5, \ldots_6, Right, 1.0
+R, COMMA_7, w_9, Right, 1.0
+R, \ldots_6, COMMA_7, Right, 1.0
+R, w_3, 1_4, Sub, 1.0
+R, w_3, COMMA_5, Right, 1.0
+R, w_9, m_10, Sub, 1.0

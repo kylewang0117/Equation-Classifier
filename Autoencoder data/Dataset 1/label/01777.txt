@@ -1,0 +1,11 @@
+# IUD, Formula04_7465_tru_norm
+# Objects(3):
+O, x_2, x, 1.0, O,       32.8859,23.2550,118.7919,151.1074
+O, \rightarrow_3, \rightarrow, 1.0, OR,       140.2685,51.4430,249.3289,143.7248
+O, 0_4, 0, 1.0, ORR,       286.5772,58.8255,339.9329,128.6242
+
+x \rightarrow 0 
+
+# Relations from SRT:
+R, \rightarrow_3, 0_4, Right, 1.0
+R, x_2, \rightarrow_3, Right, 1.0

@@ -1,0 +1,11 @@
+# IUD, Formula04_437_tru_norm
+# Objects(3):
+O, \alpha_2, \alpha, 1.0, O,       16.9456,17.7824,68.8285,98.3264
+O, \in_3, \in, 1.0, OR,       89.9582,26.5690,130.9623,89.1213
+O, S_4, S, 1.0, ORR,       156.2762,14.2259,210.4603,106.2762
+
+\alpha \in S 
+
+# Relations from SRT:
+R, \alpha_2, \in_3, Right, 1.0
+R, \in_3, S_4, Right, 1.0

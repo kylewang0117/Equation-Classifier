@@ -1,0 +1,11 @@
+# IUD, Formula02_11624_tru_norm
+# Objects(3):
+O, \beta_2, \beta, 1.0, O,       14.0299,17.3134,77.0000,136.0000
+O, +_3, +, 1.0, OR,       118.5075,36.1194,175.5224,120.5970
+O, \gamma_4, \gamma, 1.0, ORR,       199.4030,47.1642,274.0299,131.3433
+
+\beta + \gamma 
+
+# Relations from SRT:
+R, +_3, \gamma_4, Right, 1.0
+R, \beta_2, +_3, Right, 1.0

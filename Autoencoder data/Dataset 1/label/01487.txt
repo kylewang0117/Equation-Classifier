@@ -1,0 +1,11 @@
+# IUD, Formula03_11725_tru_norm
+# Objects(3):
+O, k_2, k, 1.0, O,       20.3390,12.2034,104.4068,175.2542
+O, \ldots_3, \ldots, 1.0, OR,       119.3220,149.4915,201.6949,183.3898
+O, m_4, m, 1.0, ORR,       233.8983,81.6949,352.5424,186.1017
+
+k \ldots m 
+
+# Relations from SRT:
+R, \ldots_3, m_4, Right, 1.0
+R, k_2, \ldots_3, Right, 1.0

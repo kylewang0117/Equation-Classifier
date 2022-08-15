@@ -1,0 +1,22 @@
+# IUD, Formula02_527_tru_norm
+# Objects(8):
+O, u_2, u, 1.0, O,       15.2695,113.1257,79.9401,199.6527
+O, =_3, =, 1.0, OR,       102.6946,130.7904,130.2395,163.7246
+O, e_5, e, 1.0, ORR,       171.2575,113.7246,237.4251,193.0659
+O, \sigma_7, \sigma, 1.0, ORRSup,       255.6886,60.7305,319.1617,118.2156
+O, _8, \sqrt, 1.0, ORRSupR,       325.1497,17.3174,488.0240,119.4132
+O, 2_10, 2, 1.0, ORRSupRInside,       353.5928,70.6108,397.6048,118.2156
+O, \Delta_11, \Delta, 1.0, ORRSupRInsideR,       399.1018,73.6048,443.1138,121.5090
+O, t_12, t, 1.0, ORRSupRInsideRR,       444.3114,60.1317,492.2156,126.2994
+
+u = e ^ { \sigma \sqrt { 2 \Delta t } } 
+
+# Relations from SRT:
+R, 2_10, \Delta_11, Right, 1.0
+R, =_3, e_5, Right, 1.0
+R, \Delta_11, t_12, Right, 1.0
+R, \sigma_7, _8, Right, 1.0
+R, _8, 2_10, Inside, 1.0
+R, _8, \Delta_11, Inside, 1.0
+R, e_5, \sigma_7, Sup, 1.0
+R, u_2, =_3, Right, 1.0

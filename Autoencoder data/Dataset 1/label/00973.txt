@@ -1,0 +1,19 @@
+# IUD, Formula02_2157_tru_norm
+# Objects(7):
+O, \alpha_3, \alpha, 1.0, O,       7.9928,12.1871,82.4532,103.9137
+O, i_5, i, 1.0, OSub,       111.9496,35.9281,143.6043,102.1151
+O, 1_6, 1, 1.0, OSubSub,       163.7482,69.0216,174.1799,103.9137
+O, \ldots_7, \ldots, 1.0, OR,       220.2230,55.7122,319.8633,66.8633
+O, \alpha_9, \alpha, 1.0, ORR,       395.4029,5.3525,454.7554,70.8201
+O, i_11, i, 1.0, ORRSub,       484.9712,19.7410,524.8993,87.7266
+O, k_12, k, 1.0, ORRSubSub,       543.2446,31.9712,593.0000,103.0000
+
+\alpha _ { i _ { 1 } } \ldots \alpha _ { i _ { k } } 
+
+# Relations from SRT:
+R, \alpha_3, \ldots_7, Right, 1.0
+R, \alpha_3, i_5, Sub, 1.0
+R, \alpha_9, i_11, Sub, 1.0
+R, \ldots_7, \alpha_9, Right, 1.0
+R, i_11, k_12, Sub, 1.0
+R, i_5, 1_6, Sub, 1.0

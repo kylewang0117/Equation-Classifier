@@ -1,0 +1,11 @@
+# IUD, Formula01_907_tru_norm
+# Objects(3):
+O, \alpha_2, \alpha, 1.0, O,       20.6329,9.4937,83.2911,101.8987
+O, n_4, n, 1.0, OSub,       106.7089,50.6329,168.1013,101.5823
+O, k_5, k, 1.0, OSubR,       176.6456,22.1519,240.5696,109.1772
+
+\alpha _ { n k } 
+
+# Relations from SRT:
+R, \alpha_2, n_4, Sub, 1.0
+R, n_4, k_5, Right, 1.0

@@ -1,0 +1,13 @@
+# IUD, Formula04_6138_tru_norm
+# Objects(4):
+O, s_2, s, 1.0, O,       8.1983,44.7592,62.5892,143.0595
+O, COMMA_3, COMMA, 1.0, OR,       113.0142,118.6969,140.4929,149.0085
+O, s_5, s, 1.0, ORR,       188.3683,58.0737,242.1926,153.2578
+O, \prime_6, \prime, 1.0, ORRSup,       264.0057,12.1813,285.5354,60.9065
+
+s , s ^ { \prime } 
+
+# Relations from SRT:
+R, COMMA_3, s_5, Right, 1.0
+R, s_2, COMMA_3, Right, 1.0
+R, s_5, \prime_6, Sup, 1.0

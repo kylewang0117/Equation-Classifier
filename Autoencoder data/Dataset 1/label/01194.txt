@@ -1,0 +1,11 @@
+# IUD, Formula02_355_tru_norm
+# Objects(3):
+O, \Delta_2, \Delta, 1.0, O,       8.8571,27.0000,94.7143,94.0000
+O, t_4, t, 1.0, OR,       119.5714,7.4286,168.1429,109.5714
+O, i_5, i, 1.0, ORSub,       172.2857,25.0000,210.8571,115.0000
+
+\Delta t _ { i } 
+
+# Relations from SRT:
+R, \Delta_2, t_4, Right, 1.0
+R, t_4, i_5, Sub, 1.0

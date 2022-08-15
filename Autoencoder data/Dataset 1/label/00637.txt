@@ -1,0 +1,13 @@
+# IUD, Formula01_9042_tru_norm
+# Objects(4):
+O, \phi_2, \phi, 1.0, O,       15.2575,14.3252,88.0000,218.0000
+O, 1_4, 1, 1.0, OSub,       99.5162,95.5539,114.9864,154.4336
+O, \ldots_5, \ldots, 1.0, OSubR,       131.1637,131.1131,271.8970,146.0325
+O, N_6, N, 1.0, OSubRR,       300.9688,69.1531,362.1409,160.3957
+
+\phi _ { 1 \ldots N } 
+
+# Relations from SRT:
+R, 1_4, \ldots_5, Right, 1.0
+R, \ldots_5, N_6, Right, 1.0
+R, \phi_2, 1_4, Sub, 1.0

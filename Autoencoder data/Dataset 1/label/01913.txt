@@ -1,0 +1,13 @@
+# IUD, Formula03_1745_tru_norm
+# Objects(4):
+O, w_2, w, 1.0, O,       16.6667,24.8889,166.6667,118.2222
+O, \leq_3, \leq, 1.0, OR,       236.1111,30.4444,315.5556,124.3333
+O, w_5, w, 1.0, ORR,       365.5556,32.6667,498.3333,132.6667
+O, \prime_6, \prime, 1.0, ORRSup,       516.6667,0.4444,532.2222,23.7778
+
+w \leq w ^ { \prime } 
+
+# Relations from SRT:
+R, \leq_3, w_5, Right, 1.0
+R, w_2, \leq_3, Right, 1.0
+R, w_5, \prime_6, Sup, 1.0

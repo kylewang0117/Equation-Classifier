@@ -1,0 +1,15 @@
+# IUD, Formula01_7925_tru_norm
+# Objects(5):
+O, V_2, V, 1.0, O,       16.1692,19.1443,127.1144,119.3930
+O, \sigma_4, \sigma, 1.0, OSub,       98.5075,83.5721,151.7413,127.8507
+O, COMMA_5, COMMA, 1.0, OSubR,       142.0398,117.9005,160.9453,141.7811
+O, \sigma_7, \sigma, 1.0, OSubRR,       184.3284,81.3333,229.3532,129.0945
+O, \prime_8, \prime, 1.0, OSubRRSup,       244.0299,70.1393,258.7065,97.2537
+
+V _ { \sigma , \sigma ^ { \prime } } 
+
+# Relations from SRT:
+R, COMMA_5, \sigma_7, Right, 1.0
+R, V_2, \sigma_4, Sub, 1.0
+R, \sigma_4, COMMA_5, Right, 1.0
+R, \sigma_7, \prime_8, Sup, 1.0

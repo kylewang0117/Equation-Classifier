@@ -1,0 +1,11 @@
+# IUD, Formula03_3522_tru_norm
+# Objects(3):
+O, c_2, c, 1.0, O,       17.9394,57.8283,67.9394,127.5253
+O, COMMA_3, COMMA, 1.0, OR,       105.5657,102.2727,117.9394,124.2424
+O, C_4, C, 1.0, ORR,       168.4444,22.2222,239.4040,137.3737
+
+c , C 
+
+# Relations from SRT:
+R, COMMA_3, C_4, Right, 1.0
+R, c_2, COMMA_3, Right, 1.0

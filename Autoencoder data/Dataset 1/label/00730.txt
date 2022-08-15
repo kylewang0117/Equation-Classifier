@@ -1,0 +1,13 @@
+# IUD, Formula03_2802_tru_norm
+# Objects(4):
+O, I_2, I, 1.0, O,       8.7143,20.1299,96.7013,162.0130
+O, \alpha_4, \alpha, 1.0, OSub,       110.0130,104.8701,169.7532,155.5195
+O, \beta_5, \beta, 1.0, OSubR,       178.5195,97.7273,241.8312,186.0390
+O, \gamma_6, \gamma, 1.0, OSubRR,       242.4805,103.2468,311.3117,175.9740
+
+I _ { \alpha \beta \gamma } 
+
+# Relations from SRT:
+R, I_2, \alpha_4, Sub, 1.0
+R, \alpha_4, \beta_5, Right, 1.0
+R, \beta_5, \gamma_6, Right, 1.0

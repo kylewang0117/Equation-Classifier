@@ -1,0 +1,671 @@
+1	Train\INKMLs\TestINKMLGT_2013\103_em_0.inkml	$P = a_nX^n + a_{n-1}X^{n-1}+\ldots + a_1X + a_0$
+2	Train\INKMLs\TestINKMLGT_2013\103_em_1.inkml	$e^v = c(1)$
+3	Train\INKMLs\TestINKMLGT_2013\103_em_10.inkml	$w_k( x ) = \frac{1}{d( x , x _k)^p}$
+4	Train\INKMLs\TestINKMLGT_2013\103_em_11.inkml	$T = T_{0} + \Delta T$
+5	Train\INKMLs\TestINKMLGT_2013\103_em_12.inkml	$(Gz)$
+6	Train\INKMLs\TestINKMLGT_2013\103_em_13.inkml	$m = \frac{A.k.R}{g}$
+7	Train\INKMLs\TestINKMLGT_2013\103_em_14.inkml	$u_n = u_p q^{n - p}$
+8	Train\INKMLs\TestINKMLGT_2013\103_em_15.inkml	$q = 36\pi \frac {v^2}{s^3}$
+9	Train\INKMLs\TestINKMLGT_2013\103_em_16.inkml	$(p_1, \ldots, p_N)$
+10	Train\INKMLs\TestINKMLGT_2013\103_em_17.inkml	$i=E( T_0)$
+11	Train\INKMLs\TestINKMLGT_2013\103_em_18.inkml	$B_1 = S_1(A_1)$
+12	Train\INKMLs\TestINKMLGT_2013\103_em_19.inkml	$q \times p$
+13	Train\INKMLs\TestINKMLGT_2013\103_em_2.inkml	$G(A) = E - g(F - f(A))$
+14	Train\INKMLs\TestINKMLGT_2013\103_em_20.inkml	$E_1, \ldots, E_k$
+15	Train\INKMLs\TestINKMLGT_2013\103_em_21.inkml	$r=M$
+16	Train\INKMLs\TestINKMLGT_2013\103_em_22.inkml	$B(t)-B(s)$
+17	Train\INKMLs\TestINKMLGT_2013\103_em_23.inkml	$\Delta x=x^{\prime}-x$
+18	Train\INKMLs\TestINKMLGT_2013\103_em_24.inkml	$y=s x + t$
+19	Train\INKMLs\TestINKMLGT_2013\103_em_25.inkml	$G M m / R^2$
+20	Train\INKMLs\TestINKMLGT_2013\103_em_26.inkml	$(T_{fus})$
+21	Train\INKMLs\TestINKMLGT_2013\103_em_27.inkml	$\frac{m+m^{\prime}}{n+n^{\prime}} \gt \frac{a}{b}$
+22	Train\INKMLs\TestINKMLGT_2013\103_em_28.inkml	$l=v t/2$
+23	Train\INKMLs\TestINKMLGT_2013\103_em_29.inkml	$\mu e \frac{N}{L^2}=R^{-1}$
+24	Train\INKMLs\TestINKMLGT_2013\103_em_3.inkml	$(E_{ij})$
+25	Train\INKMLs\TestINKMLGT_2013\103_em_5.inkml	$HR=\frac{P_{v}}{P_{v sat}}$
+26	Train\INKMLs\TestINKMLGT_2013\103_em_7.inkml	$\int_{1}^{+\infty} \frac{1}{t^2} \mathrm dt$
+27	Train\INKMLs\TestINKMLGT_2013\103_em_8.inkml	$\frac{1}{\sqrt{-2gy(1+{y^{\prime}}^2)}}=k$
+28	Train\INKMLs\TestINKMLGT_2013\103_em_9.inkml	$\mathrm d\left(x,y\right) = p\left(x-y\right)$
+29	Train\INKMLs\TestINKMLGT_2013\104_em_30.inkml	$dg = \frac{1}{|a|} da db$
+30	Train\INKMLs\TestINKMLGT_2013\104_em_31.inkml	$\int \mathrm dx = x + C$
+31	Train\INKMLs\TestINKMLGT_2013\104_em_32.inkml	$S^{\prime}P = r^{\prime}$
+32	Train\INKMLs\TestINKMLGT_2013\104_em_33.inkml	$a(v^2)= a$
+33	Train\INKMLs\TestINKMLGT_2013\104_em_34.inkml	$|x - u| \lt \frac{a}{4}$
+34	Train\INKMLs\TestINKMLGT_2013\104_em_35.inkml	$q\lt-1$
+35	Train\INKMLs\TestINKMLGT_2013\104_em_36.inkml	$\left| x - \frac{a}{b} \right| \leq \frac{1}{\sqrt 5 b^2}$
+36	Train\INKMLs\TestINKMLGT_2013\104_em_37.inkml	$I_A \leq I_B \leq I_C$
+37	Train\INKMLs\TestINKMLGT_2013\104_em_38.inkml	$u(t)-v(t)$
+38	Train\INKMLs\TestINKMLGT_2013\104_em_39.inkml	$S_{max}=P\frac{\alpha}{1-\alpha}$
+39	Train\INKMLs\TestINKMLGT_2013\104_em_40.inkml	$\gamma_1 = \frac{\mu_3}{\sigma^3}$
+40	Train\INKMLs\TestINKMLGT_2013\104_em_42.inkml	$T_{850}$
+41	Train\INKMLs\TestINKMLGT_2013\104_em_43.inkml	$TX_i=X_{i+1}$
+42	Train\INKMLs\TestINKMLGT_2013\104_em_44.inkml	$M_i(x_i,y_i)$
+43	Train\INKMLs\TestINKMLGT_2013\104_em_45.inkml	$P(X)P^\prime (X)=R(X)$
+44	Train\INKMLs\TestINKMLGT_2013\104_em_47.inkml	$u \in S$
+45	Train\INKMLs\TestINKMLGT_2013\104_em_48.inkml	$P(b/c)$
+46	Train\INKMLs\TestINKMLGT_2013\104_em_49.inkml	$(v_1, \ldots, v_n)$
+47	Train\INKMLs\TestINKMLGT_2013\104_em_50.inkml	$To = \sqrt{\frac {2H} g}$
+48	Train\INKMLs\TestINKMLGT_2013\104_em_51.inkml	$S_{n+1}=S_nS_{n-1}$
+49	Train\INKMLs\TestINKMLGT_2013\104_em_52.inkml	$s=1$
+50	Train\INKMLs\TestINKMLGT_2013\104_em_53.inkml	$L_0$
+51	Train\INKMLs\TestINKMLGT_2013\104_em_54.inkml	$\{x P(x)\}$
+52	Train\INKMLs\TestINKMLGT_2013\104_em_55.inkml	$G_{2k}$
+53	Train\INKMLs\TestINKMLGT_2013\104_em_56.inkml	$a_2 = \frac{P[x_0, x_1] - P[x_1, x_2]}{x0 - x2} = P[x_0, x_1, x_2]$
+54	Train\INKMLs\TestINKMLGT_2013\104_em_57.inkml	$y^{\prime}(a)$
+55	Train\INKMLs\TestINKMLGT_2013\104_em_58.inkml	$\sigma(0)=01$
+56	Train\INKMLs\TestINKMLGT_2013\104_em_59.inkml	$S_n = X_1 + X_2 + \ldots + X_n$
+57	Train\INKMLs\TestINKMLGT_2013\105_em_60.inkml	$c_1(\alpha -E) + c_2(\beta) = 0$
+58	Train\INKMLs\TestINKMLGT_2013\105_em_61.inkml	$P_{CV} = \frac{C}{45} + (\frac{P}{40})\times 1.6$
+59	Train\INKMLs\TestINKMLGT_2013\105_em_62.inkml	$f^{\prime}(x) = 2ax + b$
+60	Train\INKMLs\TestINKMLGT_2013\105_em_63.inkml	$\frac{1}{T} \int_{-T/2}^{T/2} P(t) e^{-i \frac{2n\pi}{T}} dt=c_n(P) (1)$
+61	Train\INKMLs\TestINKMLGT_2013\105_em_64.inkml	$1 + a(p)p^{-s} + a(p^2)p^{-2s} + \ldots$
+62	Train\INKMLs\TestINKMLGT_2013\105_em_65.inkml	${\sqrt{2} = \frac{p}{q}}$
+63	Train\INKMLs\TestINKMLGT_2013\105_em_66.inkml	$\int_{b}^{a} f(x) \mathrm dx = -\int_{a}^{b} f(x) \mathrm dx$
+64	Train\INKMLs\TestINKMLGT_2013\105_em_68.inkml	$\mathrm{card}(B^A) = 2^{\mathrm{card}(A)}$
+65	Train\INKMLs\TestINKMLGT_2013\105_em_69.inkml	$P_1=P^\prime$
+66	Train\INKMLs\TestINKMLGT_2013\105_em_70.inkml	$T(g)=0$
+67	Train\INKMLs\TestINKMLGT_2013\105_em_71.inkml	$\mu_n = E[X^n]$
+68	Train\INKMLs\TestINKMLGT_2013\105_em_72.inkml	$\sigma({A}_i)$
+69	Train\INKMLs\TestINKMLGT_2013\105_em_74.inkml	$\alpha= 2 \sqrt { \frac {l(u)}{L}}$
+70	Train\INKMLs\TestINKMLGT_2013\105_em_75.inkml	$v_3 = \frac{1}{4}(-1 - \sqrt{17}+\sqrt{34+2\sqrt17}) v_4 = \frac{1}{4}(-1 - \sqrt{17}-\sqrt{34+2\sqrt17})$
+71	Train\INKMLs\TestINKMLGT_2013\105_em_76.inkml	$\frac{2s^2}{5t}x^5 + sx^4 + tx^3 + \frac{t^2}{2s}x^2 + \frac{t^3}{8s^2}x + a_0 = 0$
+72	Train\INKMLs\TestINKMLGT_2013\105_em_77.inkml	$V_i-V_o$
+73	Train\INKMLs\TestINKMLGT_2013\105_em_78.inkml	$sp_{t} \lt 0$
+74	Train\INKMLs\TestINKMLGT_2013\105_em_79.inkml	$A = \{ a_0, \ldots , a_ {|A| } \}$
+75	Train\INKMLs\TestINKMLGT_2013\105_em_80.inkml	$S^{4m+1}$
+76	Train\INKMLs\TestINKMLGT_2013\105_em_81.inkml	$\frac{C_{pA}^kC_{qA}^{n-k}}{C_A^n}$
+77	Train\INKMLs\TestINKMLGT_2013\105_em_82.inkml	$T_N = 100$
+78	Train\INKMLs\TestINKMLGT_2013\105_em_83.inkml	$P(r)$
+79	Train\INKMLs\TestINKMLGT_2013\105_em_84.inkml	$H,H^{\prime},M$
+80	Train\INKMLs\TestINKMLGT_2013\105_em_85.inkml	$t_1= \frac{L}{c + V_p}$
+81	Train\INKMLs\TestINKMLGT_2013\105_em_86.inkml	$A^n+\ldots+c_0I_n$
+82	Train\INKMLs\TestINKMLGT_2013\105_em_87.inkml	$f = \frac{\sqrt{5}}{RC}$
+83	Train\INKMLs\TestINKMLGT_2013\105_em_88.inkml	$M(22)$
+84	Train\INKMLs\TestINKMLGT_2013\105_em_89.inkml	$P_f=p_c\times (1-o_i-o_t)+o_t$
+85	Train\INKMLs\TestINKMLGT_2013\106_em_100.inkml	$i.M$
+86	Train\INKMLs\TestINKMLGT_2013\106_em_101.inkml	$1 g = N_A u$
+87	Train\INKMLs\TestINKMLGT_2013\106_em_102.inkml	$H_4^{(0)} = {0xc3d2e1f0}$
+88	Train\INKMLs\TestINKMLGT_2013\106_em_103.inkml	$(s_1, \ldots, s_m )$
+89	Train\INKMLs\TestINKMLGT_2013\106_em_104.inkml	$z=|z|\mathrm{e}^{i\theta}$
+90	Train\INKMLs\TestINKMLGT_2013\106_em_105.inkml	$V.f(p) = NkT$
+91	Train\INKMLs\TestINKMLGT_2013\106_em_106.inkml	$\frac{1}{2{\pi}i}\int_{c-i\infty}^{c+i\infty}g(s)t^{s}=\pi(t)$
+92	Train\INKMLs\TestINKMLGT_2013\106_em_108.inkml	$P_{nmm}$
+93	Train\INKMLs\TestINKMLGT_2013\106_em_109.inkml	$p=\frac{2(N_0-N_t)}{2N_0}$
+94	Train\INKMLs\TestINKMLGT_2013\106_em_110.inkml	$c - w_i$
+95	Train\INKMLs\TestINKMLGT_2013\106_em_111.inkml	$k(p + q) = p.q - 1$
+96	Train\INKMLs\TestINKMLGT_2013\106_em_112.inkml	$L(v)L(u^{\prime})$
+97	Train\INKMLs\TestINKMLGT_2013\106_em_113.inkml	$a^{\prime} = \frac{a}{\sqrt 2}$
+98	Train\INKMLs\TestINKMLGT_2013\106_em_114.inkml	$\frac{(n+k-1)(n+k-2)\ldots(n+1)n}{k(k-1)\ldots 2\times 1}$
+99	Train\INKMLs\TestINKMLGT_2013\106_em_115.inkml	$R_d = R_f$
+100	Train\INKMLs\TestINKMLGT_2013\106_em_116.inkml	$(n+1)P_{n+1}(x)=(2n+1)xP_{n}(x) - nP_{n-1}(x)$
+101	Train\INKMLs\TestINKMLGT_2013\106_em_117.inkml	$\log 2 (4)$
+102	Train\INKMLs\TestINKMLGT_2013\106_em_118.inkml	$s = \frac{1}{2} + it$
+103	Train\INKMLs\TestINKMLGT_2013\106_em_119.inkml	$Ext$
+104	Train\INKMLs\TestINKMLGT_2013\106_em_90.inkml	$ a = \frac {v^2}{R}$
+105	Train\INKMLs\TestINKMLGT_2013\106_em_91.inkml	$y\times y^{\prime}-x\times x^{\prime}\geq 0$
+106	Train\INKMLs\TestINKMLGT_2013\106_em_93.inkml	$AB^2 + AC^2 = \frac {1 }{ 2} BC^2 + 2AI^2$
+107	Train\INKMLs\TestINKMLGT_2013\106_em_94.inkml	$4\pi^2aR$
+108	Train\INKMLs\TestINKMLGT_2013\106_em_95.inkml	$F(t) = {e}^{ht}$
+109	Train\INKMLs\TestINKMLGT_2013\106_em_96.inkml	$I_{1} = I_{1_{mi}} + \frac{V_e}{L_1} t$
+110	Train\INKMLs\TestINKMLGT_2013\106_em_97.inkml	$P^iP_i = m^2 c^2 \frac{V^iV_i}{(\sqrt{V^jV_j} )^2} = m^2c^2$
+111	Train\INKMLs\TestINKMLGT_2013\106_em_99.inkml	$P_o ( \cos \theta ) = 1$
+112	Train\INKMLs\TestINKMLGT_2013\114_em_125.inkml	$f(\sigma+it)$
+113	Train\INKMLs\TestINKMLGT_2013\115_em_127.inkml	$Aire = (64/81)\times  d^2$
+114	Train\INKMLs\TestINKMLGT_2013\115_em_128.inkml	$Li_s (z)$
+115	Train\INKMLs\TestINKMLGT_2013\115_em_129.inkml	$u(b)$
+116	Train\INKMLs\TestINKMLGT_2013\115_em_130.inkml	$N = (n-1)\times  10^6$
+117	Train\INKMLs\TestINKMLGT_2013\115_em_131.inkml	$v^je_j$
+118	Train\INKMLs\TestINKMLGT_2013\115_em_132.inkml	$L_0, L_1, \ldots$
+119	Train\INKMLs\TestINKMLGT_2013\115_em_133.inkml	${f=F/(R T)}$
+120	Train\INKMLs\TestINKMLGT_2013\115_em_134.inkml	$\Delta H^0$
+121	Train\INKMLs\TestINKMLGT_2013\115_em_135.inkml	${ E = \frac{1}{2} k T }$
+122	Train\INKMLs\TestINKMLGT_2013\115_em_136.inkml	$\frac{dA}{dt}= \{A,H\} =0$
+123	Train\INKMLs\TestINKMLGT_2013\115_em_137.inkml	$\sigma = \frac{1}{2}$
+124	Train\INKMLs\TestINKMLGT_2013\115_em_138.inkml	$T_{n}(T_{m}(X))=T_{mn}(X) $
+125	Train\INKMLs\TestINKMLGT_2013\115_em_139.inkml	$H_3(R)$
+126	Train\INKMLs\TestINKMLGT_2013\115_em_140.inkml	$v_p(n)$
+127	Train\INKMLs\TestINKMLGT_2013\115_em_142.inkml	$T_0(X)=1$
+128	Train\INKMLs\TestINKMLGT_2013\115_em_143.inkml	$\frac {V}{T} = \frac {nR}{p}$
+129	Train\INKMLs\TestINKMLGT_2013\115_em_144.inkml	$(BT_B)$
+130	Train\INKMLs\TestINKMLGT_2013\115_em_145.inkml	$f(H)$
+131	Train\INKMLs\TestINKMLGT_2013\115_em_146.inkml	$p \neq q$
+132	Train\INKMLs\TestINKMLGT_2013\115_em_147.inkml	$n = \frac{\sin(\theta_i)}{\sin(\theta_r)}$
+133	Train\INKMLs\TestINKMLGT_2013\115_em_148.inkml	$\Delta S_{1,2}$
+134	Train\INKMLs\TestINKMLGT_2013\115_em_149.inkml	$q=\sum_{i=1}^sl_i^2-\left(\sum_{i=s+1}^rl_i^2\right)$
+135	Train\INKMLs\TestINKMLGT_2013\115_em_150.inkml	$e_{s}+1,\ldots,e_r$
+136	Train\INKMLs\TestINKMLGT_2013\115_em_151.inkml	$Pa.s$
+137	Train\INKMLs\TestINKMLGT_2013\115_em_152.inkml	$u\mathrm dv= \mathrm d(uv)-v\mathrm du$
+138	Train\INKMLs\TestINKMLGT_2013\115_em_153.inkml	$g(z)=z.u(z)$
+139	Train\INKMLs\TestINKMLGT_2013\115_em_154.inkml	$b^{\prime}=\sum_{ij}\mu_{ij}a_{ij}$
+140	Train\INKMLs\TestINKMLGT_2013\115_em_155.inkml	$s=n + \alpha$
+141	Train\INKMLs\TestINKMLGT_2013\115_em_156.inkml	$u_n\gtM$
+142	Train\INKMLs\TestINKMLGT_2013\116_em_158.inkml	$\tan \gamma_H=\tan H \sin \phi$
+143	Train\INKMLs\TestINKMLGT_2013\116_em_159.inkml	$I^{-1}$
+144	Train\INKMLs\TestINKMLGT_2013\116_em_160.inkml	$M=(\alpha_{ik}.\beta_{jl})$
+145	Train\INKMLs\TestINKMLGT_2013\116_em_161.inkml	$[\frac{2u}{3}+\frac{v}{3},\frac{2v}{3}+\frac{u}{3}]$
+146	Train\INKMLs\TestINKMLGT_2013\116_em_162.inkml	$L(w)=\frac{m}{2}||w||^2-V(r)$
+147	Train\INKMLs\TestINKMLGT_2013\116_em_163.inkml	$H_5=X^5-10X^3+15X$
+148	Train\INKMLs\TestINKMLGT_2013\116_em_164.inkml	$g_1(x) =\frac { 1}{2} (f_1(x) + f_2(x) )= e^{ux}\cos(vx)$
+149	Train\INKMLs\TestINKMLGT_2013\116_em_165.inkml	$f^{\prime}\left(x\right)=n\left(1+x\right)^{n-1}-n$
+150	Train\INKMLs\TestINKMLGT_2013\116_em_166.inkml	$\lim_{x \rightarrow a}f(x) = l$
+151	Train\INKMLs\TestINKMLGT_2013\116_em_167.inkml	$2^{2^N}$
+152	Train\INKMLs\TestINKMLGT_2013\116_em_168.inkml	$M_k(n) = \frac{1}{2}n(n^k+1)$
+153	Train\INKMLs\TestINKMLGT_2013\116_em_169.inkml	$r^l Y_{l,m}$
+154	Train\INKMLs\TestINKMLGT_2013\116_em_170.inkml	$E = p c$
+155	Train\INKMLs\TestINKMLGT_2013\116_em_171.inkml	$i_A (t) = I_S \sqrt{2} \cos \alpha_S$
+156	Train\INKMLs\TestINKMLGT_2013\116_em_172.inkml	${E_{\theta_2}}$
+157	Train\INKMLs\TestINKMLGT_2013\116_em_173.inkml	$4m_{i+1}=4({x_{i+1}}^2+2x_i+1^2)+4{y_i}^2+8(x_i+1)-4y_i+5-4R^2$
+158	Train\INKMLs\TestINKMLGT_2013\116_em_174.inkml	$VdP = -nPdV$
+159	Train\INKMLs\TestINKMLGT_2013\116_em_175.inkml	$P\gtp+\frac{aq}{1-q}$
+160	Train\INKMLs\TestINKMLGT_2013\116_em_176.inkml	$\lim_{T \rightarrow \infty}x_T(t) = x(t)$
+161	Train\INKMLs\TestINKMLGT_2013\116_em_177.inkml	$R_g\ltq^{-1}\ltl_0$
+162	Train\INKMLs\TestINKMLGT_2013\116_em_178.inkml	$[XY]=[X^{\prime}Y^{\prime}]$
+163	Train\INKMLs\TestINKMLGT_2013\116_em_179.inkml	$E[X] = \mu E[(X-\mu)^2] = \sigma^2$
+164	Train\INKMLs\TestINKMLGT_2013\116_em_180.inkml	$\frac{P_i}{\gamma}+\frac{V_i^2}{2g}-\frac{P_v}{\gamma}$
+165	Train\INKMLs\TestINKMLGT_2013\116_em_181.inkml	$S_{20,w}$
+166	Train\INKMLs\TestINKMLGT_2013\116_em_182.inkml	$\Delta \theta = 0$
+167	Train\INKMLs\TestINKMLGT_2013\116_em_183.inkml	$E(P)$
+168	Train\INKMLs\TestINKMLGT_2013\116_em_184.inkml	$E = F_e \times l = \frac {1}{2} m v^2$
+169	Train\INKMLs\TestINKMLGT_2013\116_em_185.inkml	$y^2=-\sqrt{q}$
+170	Train\INKMLs\TestINKMLGT_2013\116_em_186.inkml	$\sigma_{F}( R )$
+171	Train\INKMLs\TestINKMLGT_2013\117_em_187.inkml	$\frac{V_o}{V_i}=-\frac{\alpha}{1-\alpha}$
+172	Train\INKMLs\TestINKMLGT_2013\117_em_188.inkml	$\left|V_s\right|=\frac{V_s}{V_e}$
+173	Train\INKMLs\TestINKMLGT_2013\117_em_189.inkml	$f(u_1) = u_2$
+174	Train\INKMLs\TestINKMLGT_2013\117_em_190.inkml	$\mu_i=d_i$
+175	Train\INKMLs\TestINKMLGT_2013\117_em_191.inkml	$q = w + x i + y j + z k$
+176	Train\INKMLs\TestINKMLGT_2013\117_em_192.inkml	$a = \frac{8 R}{\sqrt{3}}$
+177	Train\INKMLs\TestINKMLGT_2013\117_em_193.inkml	$u_{n+1}=f(u_n)$
+178	Train\INKMLs\TestINKMLGT_2013\117_em_194.inkml	$S _i= 0$
+179	Train\INKMLs\TestINKMLGT_2013\117_em_195.inkml	$X=R^2\frac{b_1-b_2}{a_1b_2-a_2b_1}$
+180	Train\INKMLs\TestINKMLGT_2013\117_em_196.inkml	$\phi_A = \frac {M_0 L }{ 3 EI}$
+181	Train\INKMLs\TestINKMLGT_2013\117_em_197.inkml	$x = \sqrt{|a|} \times i$
+182	Train\INKMLs\TestINKMLGT_2013\117_em_198.inkml	$Nu= 0.13(Pr.Gr)^{0.33}$
+183	Train\INKMLs\TestINKMLGT_2013\117_em_199.inkml	$v_1 = e^{\frac{-2i\pi}{9}}$
+184	Train\INKMLs\TestINKMLGT_2013\117_em_200.inkml	$1 + z = \frac{1}{\sqrt{1 - \frac{2 G M}{R c^2}}}$
+185	Train\INKMLs\TestINKMLGT_2013\117_em_201.inkml	$o \in Nil(A)$
+186	Train\INKMLs\TestINKMLGT_2013\117_em_202.inkml	$\Delta_r G^0_{T}$
+187	Train\INKMLs\TestINKMLGT_2013\117_em_203.inkml	$pV = Nk_BT$
+188	Train\INKMLs\TestINKMLGT_2013\117_em_204.inkml	$\sigma =\sqrt{\sigma ^2}$
+189	Train\INKMLs\TestINKMLGT_2013\117_em_205.inkml	$pgcd(n,P) = 1$
+190	Train\INKMLs\TestINKMLGT_2013\117_em_207.inkml	$S(f) = \frac{1}{R}sinc^2\frac{f}{2R}\sin^2\frac{\pi f}{2R}$
+191	Train\INKMLs\TestINKMLGT_2013\117_em_208.inkml	$|u_{n_0}-a|\lt\frac{1}{n}$
+192	Train\INKMLs\TestINKMLGT_2013\117_em_209.inkml	$R^{\prime} = \frac{R}{3}$
+193	Train\INKMLs\TestINKMLGT_2013\117_em_210.inkml	$F_{-n}(x)=-\frac 1{n-1}x^{-n+1} + Cste = -\frac1{n-1}\frac 1{x^{n-1}}$
+194	Train\INKMLs\TestINKMLGT_2013\117_em_211.inkml	$v_2 = {v_1}^2$
+195	Train\INKMLs\TestINKMLGT_2013\117_em_212.inkml	$M = \frac {P L }{ 4}$
+196	Train\INKMLs\TestINKMLGT_2013\117_em_213.inkml	$v-u$
+197	Train\INKMLs\TestINKMLGT_2013\117_em_214.inkml	$\int_a^b e^{M f(x)}dx$
+198	Train\INKMLs\TestINKMLGT_2013\117_em_215.inkml	$s_{j}(t)$
+199	Train\INKMLs\TestINKMLGT_2013\117_em_216.inkml	${f(x)=\sum_{k=1}^\infty \frac {\sin(2^k x)} {\sqrt{2}^k}}$
+200	Train\INKMLs\TestINKMLGT_2013\118_em_217.inkml	$V = f(p.d / T)$
+201	Train\INKMLs\TestINKMLGT_2013\118_em_218.inkml	$G/H_{G}$
+202	Train\INKMLs\TestINKMLGT_2013\118_em_219.inkml	$B(X,M)$
+203	Train\INKMLs\TestINKMLGT_2013\118_em_220.inkml	$A = \pi . Ra . Rb$
+204	Train\INKMLs\TestINKMLGT_2013\118_em_221.inkml	$2sp_{z}$
+205	Train\INKMLs\TestINKMLGT_2013\118_em_222.inkml	$E = \sqrt{p^2c^2 + m^2c^4}$
+206	Train\INKMLs\TestINKMLGT_2013\118_em_224.inkml	$C_{n+1}(E)=C_1 \left ( C_{n}(E)\right )$
+207	Train\INKMLs\TestINKMLGT_2013\118_em_225.inkml	$\frac{u-3}{2} + 4 \gt 5u$
+208	Train\INKMLs\TestINKMLGT_2013\118_em_226.inkml	${Red}$
+209	Train\INKMLs\TestINKMLGT_2013\118_em_227.inkml	$L_v = 3335 - 2,91T$
+210	Train\INKMLs\TestINKMLGT_2013\118_em_228.inkml	$r_C = \frac{2S}{a+b-c}$
+211	Train\INKMLs\TestINKMLGT_2013\118_em_229.inkml	$f(N) =\{0_L \}$
+212	Train\INKMLs\TestINKMLGT_2013\118_em_230.inkml	$1 = \frac{p e^{\frac {p}{q}}}{q}$
+213	Train\INKMLs\TestINKMLGT_2013\118_em_231.inkml	$A(0, R, \infty)$
+214	Train\INKMLs\TestINKMLGT_2013\118_em_232.inkml	$r^{\prime} = B^n x + \alpha - (B y + \beta)^n$
+215	Train\INKMLs\TestINKMLGT_2013\118_em_233.inkml	$\pi_0(G)$
+216	Train\INKMLs\TestINKMLGT_2013\118_em_234.inkml	$dV = yz dx +zx dy + xy dz$
+217	Train\INKMLs\TestINKMLGT_2013\118_em_235.inkml	$c(w)$
+218	Train\INKMLs\TestINKMLGT_2013\118_em_236.inkml	$L/\log(L)$
+219	Train\INKMLs\TestINKMLGT_2013\118_em_237.inkml	$||{ r} - { r}_2||$
+220	Train\INKMLs\TestINKMLGT_2013\118_em_238.inkml	$I=10$
+221	Train\INKMLs\TestINKMLGT_2013\118_em_239.inkml	$C^1(G)=G$
+222	Train\INKMLs\TestINKMLGT_2013\118_em_240.inkml	$I_d = I_i k_d \sin \theta$
+223	Train\INKMLs\TestINKMLGT_2013\118_em_241.inkml	$H_{2n}$
+224	Train\INKMLs\TestINKMLGT_2013\118_em_242.inkml	$\frac{\sin{\theta}}{v}= \mathrm{Cste}$
+225	Train\INKMLs\TestINKMLGT_2013\118_em_244.inkml	$||z - x|| \leq ||z - y|| + ||y - x||$
+226	Train\INKMLs\TestINKMLGT_2013\118_em_245.inkml	$S^1 \times R^{n-1}$
+227	Train\INKMLs\TestINKMLGT_2013\118_em_246.inkml	$I_{1_{max}}$
+228	Train\INKMLs\TestINKMLGT_2013\120_em_282.inkml	$R^{ij} - \frac{1}{2}g^{ij}R = 0$
+229	Train\INKMLs\TestINKMLGT_2013\120_em_283.inkml	$a_1 = \frac{M_2}{M_1 + M_2} a$
+230	Train\INKMLs\TestINKMLGT_2013\120_em_284.inkml	$u = Ri$
+231	Train\INKMLs\TestINKMLGT_2013\120_em_285.inkml	$u=x$
+232	Train\INKMLs\TestINKMLGT_2013\120_em_286.inkml	$x = \frac{m_{eau}}{m_{air sec}}$
+233	Train\INKMLs\TestINKMLGT_2013\120_em_287.inkml	$Imf$
+234	Train\INKMLs\TestINKMLGT_2013\120_em_288.inkml	$f(z)=a (z-z_0)+b+o(z-z_0)$
+235	Train\INKMLs\TestINKMLGT_2013\120_em_289.inkml	$\frac {\mu - 1}{\mu}$
+236	Train\INKMLs\TestINKMLGT_2013\120_em_290.inkml	$(\mu+1)$
+237	Train\INKMLs\TestINKMLGT_2013\120_em_291.inkml	$e ^ {a (-1 + 2w)} = w ^ {\frac{3 \sqrt{3} a}{\pi}}$
+238	Train\INKMLs\TestINKMLGT_2013\120_em_292.inkml	$(y-y^{calc})$
+239	Train\INKMLs\TestINKMLGT_2013\120_em_293.inkml	$p_A = u + c [L + \frac{1}{3}(a-b)]$
+240	Train\INKMLs\TestINKMLGT_2013\120_em_296.inkml	$|B-\beta|$
+241	Train\INKMLs\TestINKMLGT_2013\120_em_297.inkml	$P(X_1, \ldots, X_N) = \frac{e^{-\frac{E}{k_B T}}}{\int dX_1 dX_2 \ldots}$
+242	Train\INKMLs\TestINKMLGT_2013\120_em_298.inkml	$F((T))$
+243	Train\INKMLs\TestINKMLGT_2013\120_em_299.inkml	$u(ab^{-1} - cbb^{-1}d^{-1}) = 0$
+244	Train\INKMLs\TestINKMLGT_2013\120_em_300.inkml	$(2)$
+245	Train\INKMLs\TestINKMLGT_2013\121_em_302.inkml	$- (T_{700} - T_{d_{700}})$
+246	Train\INKMLs\TestINKMLGT_2013\121_em_303.inkml	$I_{moy}$
+247	Train\INKMLs\TestINKMLGT_2013\121_em_304.inkml	$B_N(a)=\sum_{k=N}^ \infty \frac{16^{N-k}}{8k+a}$
+248	Train\INKMLs\TestINKMLGT_2013\121_em_305.inkml	$k^2 = u.a^n + v$
+249	Train\INKMLs\TestINKMLGT_2013\121_em_306.inkml	$u_n = o(v_n)$
+250	Train\INKMLs\TestINKMLGT_2013\121_em_307.inkml	$C_V \gt 0$
+251	Train\INKMLs\TestINKMLGT_2013\121_em_308.inkml	$C(0, R)$
+252	Train\INKMLs\TestINKMLGT_2013\121_em_309.inkml	$S_2 = nS_1$
+253	Train\INKMLs\TestINKMLGT_2013\121_em_310.inkml	$1024 \times  (10 + 256^1 + 256^2 + 256^3) = 17 247 250 432$
+254	Train\INKMLs\TestINKMLGT_2013\121_em_311.inkml	$I_i = \sum_{j} w_{ij} V_j$
+255	Train\INKMLs\TestINKMLGT_2013\121_em_312.inkml	$x_{2}+v_{2}.\Delta t$
+256	Train\INKMLs\TestINKMLGT_2013\121_em_313.inkml	$\Delta w_{ij}=f(y_i)\times g(y_j)$
+257	Train\INKMLs\TestINKMLGT_2013\121_em_314.inkml	$E,F$
+258	Train\INKMLs\TestINKMLGT_2013\121_em_315.inkml	$\frac{S_{a}}{S_{r}}$
+259	Train\INKMLs\TestINKMLGT_2013\121_em_316.inkml	$u_{n+2} = u_n + u_{n+1}$
+260	Train\INKMLs\TestINKMLGT_2013\121_em_318.inkml	$\frac{P}{640}$
+261	Train\INKMLs\TestINKMLGT_2013\121_em_319.inkml	$|| y_n - y_m ||^2 = 2||y_n -x||^2 + 2||y_m -x||^2 - 4|| \frac{y_n + y_m}2 -x ||^2$
+262	Train\INKMLs\TestINKMLGT_2013\121_em_320.inkml	$V_i = \frac{v_i}{v} = \frac{p_i}{p}$
+263	Train\INKMLs\TestINKMLGT_2013\121_em_321.inkml	$e^{2 \pi i b yr/N} = 1$
+264	Train\INKMLs\TestINKMLGT_2013\121_em_322.inkml	$\mu=m_1-m$
+265	Train\INKMLs\TestINKMLGT_2013\121_em_323.inkml	$\beta^{\prime}(s)$
+266	Train\INKMLs\TestINKMLGT_2013\121_em_324.inkml	$M\times N$
+267	Train\INKMLs\TestINKMLGT_2013\121_em_325.inkml	$y \mathrm dx + x \mathrm dy = 0$
+268	Train\INKMLs\TestINKMLGT_2013\121_em_326.inkml	$f(1/s)$
+269	Train\INKMLs\TestINKMLGT_2013\121_em_327.inkml	$e = 6,11 \times e^{5417,7530 \times ( (1/273,16) - (1/T_d) ) }$
+270	Train\INKMLs\TestINKMLGT_2013\121_em_328.inkml	$u_L = L \frac{di}{dt}$
+271	Train\INKMLs\TestINKMLGT_2013\121_em_329.inkml	$H_{i-1}$
+272	Train\INKMLs\TestINKMLGT_2013\121_em_330.inkml	$S = \frac1{\frac {1}{E} - \frac {1}{P}}$
+273	Train\INKMLs\TestINKMLGT_2013\121_em_331.inkml	$E(s^2_{n}) = E(X)^2+V(X) - E(X)^2-\frac{1}{n}V(X)=\frac{n-1}{n}V(X)$
+274	Train\INKMLs\TestINKMLGT_2013\122_em_332.inkml	$|f(\frac{p}{q})|$
+275	Train\INKMLs\TestINKMLGT_2013\122_em_333.inkml	$\mu_p = \left ( \frac{L}{t_r} \right )\left ( \frac{L_t}{V} \right )$
+276	Train\INKMLs\TestINKMLGT_2013\122_em_334.inkml	$I_c=f(V_{ce})$
+277	Train\INKMLs\TestINKMLGT_2013\122_em_335.inkml	$\mu_0$
+278	Train\INKMLs\TestINKMLGT_2013\122_em_336.inkml	$\frac{m V^2}{2}$
+279	Train\INKMLs\TestINKMLGT_2013\122_em_337.inkml	$M(z)$
+280	Train\INKMLs\TestINKMLGT_2013\122_em_338.inkml	$p^{SA} \gt p^{AE}$
+281	Train\INKMLs\TestINKMLGT_2013\122_em_339.inkml	$n = \frac{L}{2} \sqrt{\frac{t}{c_o} }$
+282	Train\INKMLs\TestINKMLGT_2013\122_em_340.inkml	$u\neq v$
+283	Train\INKMLs\TestINKMLGT_2013\122_em_341.inkml	$E_0$
+284	Train\INKMLs\TestINKMLGT_2013\122_em_342.inkml	$H_6=X^6-15X^4+45X^2-15$
+285	Train\INKMLs\TestINKMLGT_2013\122_em_343.inkml	$\mu Pa$
+286	Train\INKMLs\TestINKMLGT_2013\122_em_344.inkml	$w = w( r,t)$
+287	Train\INKMLs\TestINKMLGT_2013\122_em_345.inkml	$G(k, F(k,M))= M$
+288	Train\INKMLs\TestINKMLGT_2013\122_em_346.inkml	$\left|a-\frac{p}{q}\right| \geq \frac{C}{q^d}$
+289	Train\INKMLs\TestINKMLGT_2013\122_em_347.inkml	$\Delta s^2 = c^2 \Delta t^2 - \left( \Delta x^2 + \Delta y^2 + \Delta z^2 \right) = c^2 \Delta t^2 -\Delta l^2$
+290	Train\INKMLs\TestINKMLGT_2013\122_em_348.inkml	$T_{ij} = P a^2 \gamma_{ij}$
+291	Train\INKMLs\TestINKMLGT_2013\122_em_349.inkml	$p = 2 \times l - q$
+292	Train\INKMLs\TestINKMLGT_2013\122_em_350.inkml	$L=2^{1/4} \mathrm{m}=118,9 \mathrm{cm}$
+293	Train\INKMLs\TestINKMLGT_2013\122_em_351.inkml	$j({q})$
+294	Train\INKMLs\TestINKMLGT_2013\122_em_352.inkml	$L = [0,1]$
+295	Train\INKMLs\TestINKMLGT_2013\122_em_353.inkml	$\sum_{i=1}^m N_i = n \sum_{i=1}^m p_i = 1$
+296	Train\INKMLs\TestINKMLGT_2013\122_em_354.inkml	$x =v_4+v_1$
+297	Train\INKMLs\TestINKMLGT_2013\122_em_355.inkml	$dB\left(V^\prime\right) = dB\left(V\right)$
+298	Train\INKMLs\TestINKMLGT_2013\122_em_356.inkml	$f^{\prime}\left(x\right)$
+299	Train\INKMLs\TestINKMLGT_2013\122_em_357.inkml	$y^{obs}$
+300	Train\INKMLs\TestINKMLGT_2013\122_em_358.inkml	$P_d(u)$
+301	Train\INKMLs\TestINKMLGT_2013\122_em_359.inkml	$P[X]=0 avec P[X]=X^3-3X+1$
+302	Train\INKMLs\TestINKMLGT_2013\122_em_360.inkml	$R = k[X_1 , \ldots, X_n ]$
+303	Train\INKMLs\TestINKMLGT_2013\122_em_361.inkml	$M(r)$
+304	Train\INKMLs\TestINKMLGT_2013\123_em_362.inkml	$M N = N M$
+305	Train\INKMLs\TestINKMLGT_2013\123_em_363.inkml	$l_1 = L_1 - \frac{M}{m}$
+306	Train\INKMLs\TestINKMLGT_2013\123_em_364.inkml	$S = \{ 1,s,s^2,s^3 ....... \}$
+307	Train\INKMLs\TestINKMLGT_2013\123_em_365.inkml	$N/M$
+308	Train\INKMLs\TestINKMLGT_2013\123_em_366.inkml	$HS_2$
+309	Train\INKMLs\TestINKMLGT_2013\123_em_367.inkml	$(2-s)(-1/2) +(n-1)(1-s/2) = 0$
+310	Train\INKMLs\TestINKMLGT_2013\123_em_368.inkml	$L_2^{(\alpha)}(x) = \frac{x^2}{2} - (\alpha + 2)x + \frac{(\alpha+2)(\alpha+1)}{2}$
+311	Train\INKMLs\TestINKMLGT_2013\123_em_369.inkml	$H=\frac{(fd)}{c}$
+312	Train\INKMLs\TestINKMLGT_2013\123_em_370.inkml	$V=\int_0^{x_1} 2S \mathrm dx$
+313	Train\INKMLs\TestINKMLGT_2013\123_em_371.inkml	$C_p=\frac{\gamma n R}{\gamma-1}$
+314	Train\INKMLs\TestINKMLGT_2013\123_em_373.inkml	$S_2=S_0+f_2$
+315	Train\INKMLs\TestINKMLGT_2013\123_em_374.inkml	$10^{-pH_i}$
+316	Train\INKMLs\TestINKMLGT_2013\123_em_375.inkml	$E_1 = E_0/(16 \pi^2)$
+317	Train\INKMLs\TestINKMLGT_2013\123_em_376.inkml	$N_{n-1}$
+318	Train\INKMLs\TestINKMLGT_2013\123_em_378.inkml	$V_m = G\times V$
+319	Train\INKMLs\TestINKMLGT_2013\123_em_379.inkml	$T(t) = \frac {\alpha^{\prime}(t)}{|| \alpha^{\prime}(t) ||}$
+320	Train\INKMLs\TestINKMLGT_2013\123_em_380.inkml	$R_{3\times3}^T$
+321	Train\INKMLs\TestINKMLGT_2013\123_em_381.inkml	$S_n=X_1+X_2+\ldots+X_n$
+322	Train\INKMLs\TestINKMLGT_2013\123_em_382.inkml	$P_{sat(T)}$
+323	Train\INKMLs\TestINKMLGT_2013\123_em_383.inkml	$C_t = N\times (G-1)\times C$
+324	Train\INKMLs\TestINKMLGT_2013\123_em_384.inkml	$y_0 = G(x_0)= \frac{1}{4}$
+325	Train\INKMLs\TestINKMLGT_2013\123_em_385.inkml	$\gamma=\frac{4 \pi^2 m V_0}{p_0 S^2 T^2}$
+326	Train\INKMLs\TestINKMLGT_2013\123_em_386.inkml	$\Delta F \lt 0$
+327	Train\INKMLs\TestINKMLGT_2013\123_em_387.inkml	$\lim_{x \rightarrow +\infty}f(x) = l$
+328	Train\INKMLs\TestINKMLGT_2013\123_em_388.inkml	$0 \lt \left( 1 - \frac{L}{R_1} \right) \left( 1 - \frac{L}{R_2} \right) \lt 1$
+329	Train\INKMLs\TestINKMLGT_2013\123_em_389.inkml	$z^2+w^2$
+330	Train\INKMLs\TestINKMLGT_2013\123_em_390.inkml	$T=1$
+331	Train\INKMLs\TestINKMLGT_2013\123_em_391.inkml	$P^{k-1}$
+332	Train\INKMLs\TestINKMLGT_2013\124_em_392.inkml	$(A_{N-1} \dots A_0) = N_k$
+333	Train\INKMLs\TestINKMLGT_2013\124_em_394.inkml	$\Delta t_i$
+334	Train\INKMLs\TestINKMLGT_2013\124_em_395.inkml	$m.\frac{d^2z}{dt^2}=q.{E_z}+q.(v_x.B_y-v_y.B_x)$
+335	Train\INKMLs\TestINKMLGT_2013\124_em_396.inkml	$E=\frac{a}{\frac bc}$
+336	Train\INKMLs\TestINKMLGT_2013\124_em_397.inkml	$d(A,(d))=|x_A - a|$
+337	Train\INKMLs\TestINKMLGT_2013\124_em_398.inkml	$L_0 = \int_0^{x_0} \sqrt {1 + \frac{9a^2}4 x} \mathrm d x$
+338	Train\INKMLs\TestINKMLGT_2013\124_em_399.inkml	$f(M)$
+339	Train\INKMLs\TestINKMLGT_2013\124_em_400.inkml	$|f(x)|\leq p(x)$
+340	Train\INKMLs\TestINKMLGT_2013\124_em_401.inkml	$HCN_{n,n}$
+341	Train\INKMLs\TestINKMLGT_2013\124_em_402.inkml	$N = 3$
+342	Train\INKMLs\TestINKMLGT_2013\124_em_403.inkml	$w_k^2 = |z|\mathrm{e}^{i\theta} \mathrm{e}^{2i\pi k} = z$
+343	Train\INKMLs\TestINKMLGT_2013\124_em_404.inkml	$\frac{m+m^{\prime}}{n+n^{\prime}} \lt \frac{a}{b}$
+344	Train\INKMLs\TestINKMLGT_2013\124_em_405.inkml	$(p+q) \times (p+q)$
+345	Train\INKMLs\TestINKMLGT_2013\124_em_406.inkml	$E_iE_j = 0$
+346	Train\INKMLs\TestINKMLGT_2013\124_em_407.inkml	$f = \frac{1}{T}$
+347	Train\INKMLs\TestINKMLGT_2013\124_em_408.inkml	$B(L(S)),B(R(S))$
+348	Train\INKMLs\TestINKMLGT_2013\124_em_409.inkml	$\sigma = \frac {F }{ S}$
+349	Train\INKMLs\TestINKMLGT_2013\124_em_410.inkml	$E_1, E_2, F_1, F_2$
+350	Train\INKMLs\TestINKMLGT_2013\124_em_411.inkml	$V_r = V_i$
+351	Train\INKMLs\TestINKMLGT_2013\124_em_412.inkml	$P = \sum_{k = 0}^p ak X^k$
+352	Train\INKMLs\TestINKMLGT_2013\124_em_413.inkml	$s = 1,26 .10^{-6} mol.L^{-1}$
+353	Train\INKMLs\TestINKMLGT_2013\124_em_414.inkml	$t_0 = \frac{2}{3(1+w)} \frac{1}{H_0}$
+354	Train\INKMLs\TestINKMLGT_2013\124_em_415.inkml	$\sigma=1$
+355	Train\INKMLs\TestINKMLGT_2013\124_em_416.inkml	$H(X,Y) \geq H(X)$
+356	Train\INKMLs\TestINKMLGT_2013\124_em_417.inkml	$\frac {\Delta V} {V_0}$
+357	Train\INKMLs\TestINKMLGT_2013\124_em_418.inkml	$S=0$
+358	Train\INKMLs\TestINKMLGT_2013\124_em_419.inkml	$y_i^{ac}$
+359	Train\INKMLs\TestINKMLGT_2013\124_em_420.inkml	$F_u = M_{u u} M_v + M_{u v} M_u$
+360	Train\INKMLs\TestINKMLGT_2013\124_em_421.inkml	$(SM)$
+361	Train\INKMLs\TestINKMLGT_2013\125_em_422.inkml	$q(x)=p(x+a)$
+362	Train\INKMLs\TestINKMLGT_2013\125_em_423.inkml	$(p,q) \gt (p^{\prime},q^{\prime})$
+363	Train\INKMLs\TestINKMLGT_2013\125_em_424.inkml	$VA = 	\sum_{i}VA(F_{i})$
+364	Train\INKMLs\TestINKMLGT_2013\125_em_427.inkml	$\left( M_i^j \right)$
+365	Train\INKMLs\TestINKMLGT_2013\125_em_428.inkml	$G_u = 2 M_{u v} M_v$
+366	Train\INKMLs\TestINKMLGT_2013\125_em_429.inkml	$(M_1M_3)$
+367	Train\INKMLs\TestINKMLGT_2013\125_em_430.inkml	$L(X^n)=2^n$
+368	Train\INKMLs\TestINKMLGT_2013\125_em_431.inkml	$L_{\mu} = L_1$
+369	Train\INKMLs\TestINKMLGT_2013\125_em_432.inkml	$E ^2-p^2 c^2 = m^2 c^4=0$
+370	Train\INKMLs\TestINKMLGT_2013\125_em_433.inkml	$(v, r)$
+371	Train\INKMLs\TestINKMLGT_2013\125_em_434.inkml	$L(E,F)$
+372	Train\INKMLs\TestINKMLGT_2013\125_em_435.inkml	$q \in E$
+373	Train\INKMLs\TestINKMLGT_2013\125_em_436.inkml	$v_{LG}$
+374	Train\INKMLs\TestINKMLGT_2013\125_em_437.inkml	$Id_A$
+375	Train\INKMLs\TestINKMLGT_2013\125_em_438.inkml	$w ^ \alpha = \frac{2}{\sqrt{3}} ( \cos ( \frac{\alpha \pi}{3} + \frac{\pi}{6} ) + w \sin \frac{\alpha \pi}{3} )$
+376	Train\INKMLs\TestINKMLGT_2013\125_em_439.inkml	$c.s^2$
+377	Train\INKMLs\TestINKMLGT_2013\125_em_440.inkml	$L = a$
+378	Train\INKMLs\TestINKMLGT_2013\125_em_441.inkml	$u = g \frac tv$
+379	Train\INKMLs\TestINKMLGT_2013\125_em_442.inkml	$1/v^2$
+380	Train\INKMLs\TestINKMLGT_2013\125_em_444.inkml	$dE=uI\times dt$
+381	Train\INKMLs\TestINKMLGT_2013\125_em_445.inkml	$P_1 = P_0 \frac {S_1} {S_0}$
+382	Train\INKMLs\TestINKMLGT_2013\125_em_446.inkml	$T_0, T_1, \ldots, T_{r-2}, 1$
+383	Train\INKMLs\TestINKMLGT_2013\125_em_447.inkml	$I=a.A$
+384	Train\INKMLs\TestINKMLGT_2013\125_em_448.inkml	$M\rightarrow N$
+385	Train\INKMLs\TestINKMLGT_2013\125_em_449.inkml	$\Delta_{r}H$
+386	Train\INKMLs\TestINKMLGT_2013\125_em_450.inkml	$u \in E, v \in E, w \in E$
+387	Train\INKMLs\TestINKMLGT_2013\125_em_451.inkml	$\pm w( r, t)$
+388	Train\INKMLs\TestINKMLGT_2013\126_em_452.inkml	$||f||^2 = \frac {1}{4} a_0^2 +\frac {1}{2} \sum_{n=1}^{+\infty}(a_n^2+b_n^2)$
+389	Train\INKMLs\TestINKMLGT_2013\126_em_453.inkml	$\Delta d = c.\Delta t$
+390	Train\INKMLs\TestINKMLGT_2013\126_em_454.inkml	$G=10 \log \left( {\frac{V_{s}}{V_{e}}} \right)^2 \mathrm{dB}$
+391	Train\INKMLs\TestINKMLGT_2013\126_em_455.inkml	$(PA)$
+392	Train\INKMLs\TestINKMLGT_2013\126_em_456.inkml	$N - G$
+393	Train\INKMLs\TestINKMLGT_2013\126_em_457.inkml	$\mathrm ds^2 = \mathrm dr^2 + r^2\mathrm d\theta^2 + \mathrm dz^2$
+394	Train\INKMLs\TestINKMLGT_2013\126_em_458.inkml	$GL_m$
+395	Train\INKMLs\TestINKMLGT_2013\126_em_459.inkml	$u_{N+1},v_{N+1}$
+396	Train\INKMLs\TestINKMLGT_2013\126_em_460.inkml	$(E_{0})$
+397	Train\INKMLs\TestINKMLGT_2013\126_em_461.inkml	$-X_t\mathrm dt$
+398	Train\INKMLs\TestINKMLGT_2013\126_em_462.inkml	$uu^{\prime}+vv^{\prime}+ww^{\prime} = 0$
+399	Train\INKMLs\TestINKMLGT_2013\126_em_463.inkml	$a^{p/q}$
+400	Train\INKMLs\TestINKMLGT_2013\126_em_464.inkml	$a = p/q$
+401	Train\INKMLs\TestINKMLGT_2013\126_em_465.inkml	$a,b,c,a^{\prime},b^{\prime},c^{\prime}$
+402	Train\INKMLs\TestINKMLGT_2013\126_em_467.inkml	$\mathrm df(x)$
+403	Train\INKMLs\TestINKMLGT_2013\126_em_468.inkml	$S(A)=A^\prime$
+404	Train\INKMLs\TestINKMLGT_2013\126_em_469.inkml	$a^L_1x_1+a^L_2x_2=L$
+405	Train\INKMLs\TestINKMLGT_2013\126_em_470.inkml	$a_n(f,S)$
+406	Train\INKMLs\TestINKMLGT_2013\126_em_471.inkml	$F_n(x)=\frac 1{n+1}x^n + Cste$
+407	Train\INKMLs\TestINKMLGT_2013\126_em_472.inkml	$(k_2,l_2)$
+408	Train\INKMLs\TestINKMLGT_2013\126_em_473.inkml	$d(u,v)=\sum_{n=0}^\infty 2^{-n}\frac {p_n(v-u)}{1+p_n(v-u)}$
+409	Train\INKMLs\TestINKMLGT_2013\126_em_474.inkml	$P(v_y^2)$
+410	Train\INKMLs\TestINKMLGT_2013\126_em_475.inkml	$V = C \sqrt{{RS}}$
+411	Train\INKMLs\TestINKMLGT_2013\126_em_476.inkml	$G,H$
+412	Train\INKMLs\TestINKMLGT_2013\126_em_477.inkml	$T x_n$
+413	Train\INKMLs\TestINKMLGT_2013\126_em_478.inkml	$R_1\gt0$
+414	Train\INKMLs\TestINKMLGT_2013\126_em_479.inkml	$sp_{t}$
+415	Train\INKMLs\TestINKMLGT_2013\126_em_480.inkml	$B = (2q+1)f(x_n) - (1+q)^2 f(x_{n-1}) + q^2 f(x_{n-2})$
+416	Train\INKMLs\TestINKMLGT_2013\126_em_481.inkml	$r_2 - r_1 = R$
+417	Train\INKMLs\TestINKMLGT_2013\127_em_482.inkml	$2 + 2^{4-\frac{k}{2}} + o(1)$
+418	Train\INKMLs\TestINKMLGT_2013\127_em_483.inkml	$R_A = \frac {P b }{ L }$
+419	Train\INKMLs\TestINKMLGT_2013\127_em_484.inkml	$\frac{8\pi r}{q(r)}$
+420	Train\INKMLs\TestINKMLGT_2013\127_em_485.inkml	$\left| q\right| \gt1$
+421	Train\INKMLs\TestINKMLGT_2013\127_em_486.inkml	$S_n = 12 S_{n-1} - 18 S_{n-2}$
+422	Train\INKMLs\TestINKMLGT_2013\127_em_487.inkml	$I(t) = I\sqrt{2}\cos{(wt+\phi)}$
+423	Train\INKMLs\TestINKMLGT_2013\127_em_488.inkml	$A = n R^2 \cos \left(\frac{\alpha}{2}\right) \sin\left(\frac{\alpha}{2}\right)$
+424	Train\INKMLs\TestINKMLGT_2013\127_em_489.inkml	$dx^{\mu}$
+425	Train\INKMLs\TestINKMLGT_2013\127_em_490.inkml	$s_i^2 =1$
+426	Train\INKMLs\TestINKMLGT_2013\127_em_491.inkml	$u_1,u_2,\ldots,u_N$
+427	Train\INKMLs\TestINKMLGT_2013\127_em_492.inkml	$P = (Vce.Ic + Vbe.Ib).RC$
+428	Train\INKMLs\TestINKMLGT_2013\127_em_493.inkml	$t = \frac {v \sin \theta} {g} \pm \frac {\sqrt{\left(v \sin \theta\right)^2 + 2 g y_0}} {g}$
+429	Train\INKMLs\TestINKMLGT_2013\127_em_494.inkml	$Li(x) \lt \pi(x)$
+430	Train\INKMLs\TestINKMLGT_2013\127_em_495.inkml	$x(k,L)$
+431	Train\INKMLs\TestINKMLGT_2013\127_em_496.inkml	$\phi(w) = u_1 ^T w$
+432	Train\INKMLs\TestINKMLGT_2013\127_em_497.inkml	$\mathrm{Var}[X_i] = \frac{\alpha_i (\alpha_0-\alpha_i)}{\alpha_0^2 (\alpha_0+1)}$
+433	Train\INKMLs\TestINKMLGT_2013\127_em_498.inkml	$H_n/T$
+434	Train\INKMLs\TestINKMLGT_2013\127_em_499.inkml	$C_S = R(b, a)$
+435	Train\INKMLs\TestINKMLGT_2013\127_em_500.inkml	$T_{f,x}$
+436	Train\INKMLs\TestINKMLGT_2013\127_em_501.inkml	$\frac{\mathrm d}{\mathrm dt}$
+437	Train\INKMLs\TestINKMLGT_2013\127_em_502.inkml	$E_p = \frac{1}{2} k x^2 - F x$
+438	Train\INKMLs\TestINKMLGT_2013\127_em_503.inkml	$\int_{a}^{b} X_t \mathrm dB_t$
+439	Train\INKMLs\TestINKMLGT_2013\127_em_505.inkml	$L(S) = \sum_{i=1}^{n} d\left(f(a_{i-1}),f(a_i)\right)$
+440	Train\INKMLs\TestINKMLGT_2013\127_em_506.inkml	$L^2\left(I, R,\mu \right)$
+441	Train\INKMLs\TestINKMLGT_2013\127_em_507.inkml	$v, u_1, u_2$
+442	Train\INKMLs\TestINKMLGT_2013\127_em_508.inkml	$2S+1$
+443	Train\INKMLs\TestINKMLGT_2013\127_em_509.inkml	$g(\theta) = G(\theta) - G$
+444	Train\INKMLs\TestINKMLGT_2013\127_em_510.inkml	$S = \frac1{\frac {1}{P} - \frac {1}{E}}$
+445	Train\INKMLs\TestINKMLGT_2013\127_em_511.inkml	$g^{\prime}(b) = \frac {1}{ b}$
+446	Train\INKMLs\TestINKMLGT_2013\128_em_512.inkml	$\sigma \in [\sigma_1,\sigma_2]$
+447	Train\INKMLs\TestINKMLGT_2013\128_em_513.inkml	$E \rightarrow E/F$
+448	Train\INKMLs\TestINKMLGT_2013\128_em_514.inkml	$r=\frac{|P_1-P_3|}{2\sin(\theta)}$
+449	Train\INKMLs\TestINKMLGT_2013\128_em_515.inkml	$||x+y||^2 =||x||^2 + ||y||^2$
+450	Train\INKMLs\TestINKMLGT_2013\128_em_516.inkml	$g_{vv}$
+451	Train\INKMLs\TestINKMLGT_2013\128_em_517.inkml	$P( E)$
+452	Train\INKMLs\TestINKMLGT_2013\128_em_518.inkml	$\left\{ H,A \right\}$
+453	Train\INKMLs\TestINKMLGT_2013\128_em_519.inkml	$M(R)$
+454	Train\INKMLs\TestINKMLGT_2013\128_em_520.inkml	$tw(G)$
+455	Train\INKMLs\TestINKMLGT_2013\128_em_521.inkml	$TN = \frac{n}{p}.{1000}$
+456	Train\INKMLs\TestINKMLGT_2013\128_em_522.inkml	$2^\frac { N}{2}$
+457	Train\INKMLs\TestINKMLGT_2013\128_em_523.inkml	$(S,T)$
+458	Train\INKMLs\TestINKMLGT_2013\128_em_524.inkml	$q_ip_j$
+459	Train\INKMLs\TestINKMLGT_2013\128_em_525.inkml	$d \times (-d^{\prime}) = (- dd^{\prime})$
+460	Train\INKMLs\TestINKMLGT_2013\128_em_526.inkml	$v(x)$
+461	Train\INKMLs\TestINKMLGT_2013\128_em_527.inkml	$\frac{V_ts}{V_m}$
+462	Train\INKMLs\TestINKMLGT_2013\128_em_528.inkml	$y^{\prime} = f(x)g(y)$
+463	Train\INKMLs\TestINKMLGT_2013\128_em_529.inkml	$T_{\mathrm{moy}}=10$
+464	Train\INKMLs\TestINKMLGT_2013\128_em_530.inkml	$\frac{1}{p^{\prime}} - \frac{1}{p} - C = 0$
+465	Train\INKMLs\TestINKMLGT_2013\128_em_531.inkml	$E^{\prime} = E - FG$
+466	Train\INKMLs\TestINKMLGT_2013\128_em_532.inkml	$E = dg$
+467	Train\INKMLs\TestINKMLGT_2013\128_em_536.inkml	$f(v,t)=w$
+468	Train\INKMLs\TestINKMLGT_2013\128_em_537.inkml	$d \in EIC$
+469	Train\INKMLs\TestINKMLGT_2013\128_em_538.inkml	$0 + 0 = Toto$
+470	Train\INKMLs\TestINKMLGT_2013\128_em_539.inkml	$f_2(M)=0$
+471	Train\INKMLs\TestINKMLGT_2013\128_em_541.inkml	$Nsyn$
+472	Train\INKMLs\TestINKMLGT_2013\129_em_542.inkml	$\sqrt [3] a $
+473	Train\INKMLs\TestINKMLGT_2013\129_em_543.inkml	$\sum _{i=0}^{10} x_i$
+474	Train\INKMLs\TestINKMLGT_2013\129_em_544.inkml	$\sqrt [x] y$
+475	Train\INKMLs\TestINKMLGT_2013\ritm_420_0.inkml	$ 548834 = 5 ^ {6} + 4 ^ {6} + 8 ^ {6} + 3 ^ {6} + 4 ^ 6 $
+476	Train\INKMLs\TestINKMLGT_2013\ritm_421_0.inkml	$ \cos x + \sqrt {- 1} \sin x $
+477	Train\INKMLs\TestINKMLGT_2013\ritm_422_0.inkml	$ + 7 \times 9 ^ {5} + 7 \times 9 ^ {4} + 7 \times 9 ^ {3} + 7 \times 9 ^ {2} + 7 \times 9 $
+478	Train\INKMLs\TestINKMLGT_2013\ritm_423_0.inkml	$ \lambda e ^ {- \lambda e} $
+479	Train\INKMLs\TestINKMLGT_2013\ritm_423_1.inkml	$ \frac {\tan \frac {a - b} {2}} {\tan \frac {a + b} {2}} = \frac {\tan \frac {\alpha - \beta} {2}} {\tan \frac {\alpha + \beta} {2}} $
+480	Train\INKMLs\TestINKMLGT_2013\ritm_423_2.inkml	$ \frac {\alpha + \beta} {2} $
+481	Train\INKMLs\TestINKMLGT_2013\ritm_425_0.inkml	$ \cos 5 x = 16 \cos ^ {5} x - 20 \cos ^ {3} x + 5 $
+482	Train\INKMLs\TestINKMLGT_2013\ritm_426_0.inkml	$Segmentation$
+483	Train\INKMLs\TestINKMLGT_2013\ritm_427_0.inkml	$ \cos c = \cos a \cos b + \sin a \sin 1 b \cos \gamma $
+484	Train\INKMLs\TestINKMLGT_2013\ritm_427_1.inkml	$ \sum x _ n $
+485	Train\INKMLs\TestINKMLGT_2013\ritm_429_0.inkml	$ lim _ {\times \rightarrow + \infty} (\sqrt {x 2 + 4 x + 1} - \sqrt {x ^ 2 + x + 1}) $
+486	Train\INKMLs\TestINKMLGT_2013\rit_420b_0.inkml	$ t = t ^ {\prime} = 0 $
+487	Train\INKMLs\TestINKMLGT_2013\rit_420_0.inkml	$ s (f) $
+488	Train\INKMLs\TestINKMLGT_2013\rit_420_1.inkml	$ i ^ {\prime} \lt 0 $
+489	Train\INKMLs\TestINKMLGT_2013\rit_420_2.inkml	$ M (0) $
+490	Train\INKMLs\TestINKMLGT_2013\rit_420_3.inkml	$ 9 ^ {9 ^ {9 ^ {9 ^ {9 ^ {9}}}}} $
+491	Train\INKMLs\TestINKMLGT_2013\rit_42100_0.inkml	$ b _ {14} $
+492	Train\INKMLs\TestINKMLGT_2013\rit_42100_1.inkml	$ \cos x - \sqrt {- 1} \sin x $
+493	Train\INKMLs\TestINKMLGT_2013\rit_42100_2.inkml	$ \frac {\sqrt {4}} {2} $
+494	Train\INKMLs\TestINKMLGT_2013\rit_42100_3.inkml	$ \frac {2 \pm \sqrt {2}} {4} $
+495	Train\INKMLs\TestINKMLGT_2013\rit_42100_4.inkml	$ 3 y ^ {3} $
+496	Train\INKMLs\TestINKMLGT_2013\rit_42105_0.inkml	$ a + 6 \sqrt {2} $
+497	Train\INKMLs\TestINKMLGT_2013\rit_42105_1.inkml	$ \frac {1} {4} a a + b b $
+498	Train\INKMLs\TestINKMLGT_2013\rit_42105_2.inkml	$ x ^ {5} + x + a $
+499	Train\INKMLs\TestINKMLGT_2013\rit_42105_3.inkml	$ \frac {a} {4} $
+500	Train\INKMLs\TestINKMLGT_2013\rit_42105_4.inkml	$ x \times \frac {a} {6} + y $
+501	Train\INKMLs\TestINKMLGT_2013\rit_4210_0.inkml	$ \sin 9 - \cos 9 $
+502	Train\INKMLs\TestINKMLGT_2013\rit_4210_1.inkml	$ \frac {b h} {b + 2 h} $
+503	Train\INKMLs\TestINKMLGT_2013\rit_4210_2.inkml	$ b \times h $
+504	Train\INKMLs\TestINKMLGT_2013\rit_4210_3.inkml	$ \frac {\pm \infty} {\pm \infty} $
+505	Train\INKMLs\TestINKMLGT_2013\rit_4210_4.inkml	$ \frac {9} {7} $
+506	Train\INKMLs\TestINKMLGT_2013\rit_42110_0.inkml	$ - \sqrt {y} $
+507	Train\INKMLs\TestINKMLGT_2013\rit_42110_1.inkml	$ \int ^ {b} _ {a} x + y d y $
+508	Train\INKMLs\TestINKMLGT_2013\rit_42110_2.inkml	$ \sqrt {14} $
+509	Train\INKMLs\TestINKMLGT_2013\rit_42110_3.inkml	$ \sum z ^ {n} $
+510	Train\INKMLs\TestINKMLGT_2013\rit_42110_4.inkml	$ \tan z = \frac {\sin z} {\cos z} $
+511	Train\INKMLs\TestINKMLGT_2013\rit_42115_0.inkml	$ z _ {1} + z _ {2} + z _ {3} $
+512	Train\INKMLs\TestINKMLGT_2013\rit_42115_1.inkml	$ \lim _ {x \rightarrow \infty} x _ n $
+513	Train\INKMLs\TestINKMLGT_2013\rit_42115_2.inkml	$ x ! ^ y \times y ! ^ x $
+514	Train\INKMLs\TestINKMLGT_2013\rit_42115_3.inkml	$ \beta _ {15} $
+515	Train\INKMLs\TestINKMLGT_2013\rit_42115_4.inkml	$ \frac {1} {z} $
+516	Train\INKMLs\TestINKMLGT_2013\rit_42120_0.inkml	$ \cos ^ {2} \theta _ {1} $
+517	Train\INKMLs\TestINKMLGT_2013\rit_42120_1.inkml	$ \frac {1} {\cos ^ {2} \times} $
+518	Train\INKMLs\TestINKMLGT_2013\rit_42120_2.inkml	$ \lim _ {x \rightarrow + \infty} \log _ {a} x = + \infty $
+519	Train\INKMLs\TestINKMLGT_2013\rit_42120_3.inkml	$ \sin 2 x = 2 \sin x \cos x $
+520	Train\INKMLs\TestINKMLGT_2013\rit_42120_4.inkml	$ \lim _ {x \rightarrow + \infty} \frac {e ^ {x}} {x} $
+521	Train\INKMLs\TestINKMLGT_2013\rit_42125_0.inkml	$ \frac {- 1} {sin ^ {2} x} $
+522	Train\INKMLs\TestINKMLGT_2013\rit_42125_1.inkml	$ 1 + \tan ^ {2} x $
+523	Train\INKMLs\TestINKMLGT_2013\rit_42125_2.inkml	$ z \rightarrow z ^ {n} $
+524	Train\INKMLs\TestINKMLGT_2013\rit_42125_3.inkml	$ \frac {z ^ {3} - 2 z + 1} {z ^ {5} + 3 z - 1} $
+525	Train\INKMLs\TestINKMLGT_2013\rit_42125_4.inkml	$ lim _ {x \rightarrow + \infty} \log _ {a} x = - \infty $
+526	Train\INKMLs\TestINKMLGT_2013\rit_42130_0.inkml	$ \frac {5} {3} $
+527	Train\INKMLs\TestINKMLGT_2013\rit_42130_1.inkml	$ lim _ {x \rightarrow 3} x ^ {2} = 9 $
+528	Train\INKMLs\TestINKMLGT_2013\rit_42130_2.inkml	$ \frac {5 \pi} {7} $
+529	Train\INKMLs\TestINKMLGT_2013\rit_42130_3.inkml	$ lim _ {x \rightarrow + \infty} \sqrt {x} = + \infty $
+530	Train\INKMLs\TestINKMLGT_2013\rit_42130_4.inkml	$ \int ^ {b} _ {a} x + z d z $
+531	Train\INKMLs\TestINKMLGT_2013\rit_42135_0.inkml	$ \times \rightarrow \infty $
+532	Train\INKMLs\TestINKMLGT_2013\rit_42135_1.inkml	$ \exists x \forall y (x R y) $
+533	Train\INKMLs\TestINKMLGT_2013\rit_42135_2.inkml	$ L = \int ^ {\infty} _ {0} L _ {\lambda} d \lambda $
+534	Train\INKMLs\TestINKMLGT_2013\rit_42140_0.inkml	$ \forall a \in F $
+535	Train\INKMLs\TestINKMLGT_2013\rit_42140_1.inkml	$ \frac {\pi ^ {2}} {6} B ^ {2} $
+536	Train\INKMLs\TestINKMLGT_2013\rit_42140_2.inkml	$ a \neq b \neq c $
+537	Train\INKMLs\TestINKMLGT_2013\rit_42140_3.inkml	$ \pi - \theta $
+538	Train\INKMLs\TestINKMLGT_2013\rit_42140_4.inkml	$ \beta \geq a $
+539	Train\INKMLs\TestINKMLGT_2013\rit_42145_0.inkml	$ \sum a _ {n} $
+540	Train\INKMLs\TestINKMLGT_2013\rit_42145_1.inkml	$ \cos ^ {n} \theta $
+541	Train\INKMLs\TestINKMLGT_2013\rit_42145_2.inkml	$ + \frac {\pi} {3} $
+542	Train\INKMLs\TestINKMLGT_2013\rit_42145_3.inkml	$ n \neq 6 $
+543	Train\INKMLs\TestINKMLGT_2013\rit_42145_4.inkml	$ \sum c _ {n} $
+544	Train\INKMLs\TestINKMLGT_2013\rit_42150_0.inkml	$ 3 ^ {3 ^ {3}} + 3 $
+545	Train\INKMLs\TestINKMLGT_2013\rit_42150_1.inkml	$ 12 / (4 / 3) \neq (12 / 4) / 3 $
+546	Train\INKMLs\TestINKMLGT_2013\rit_42150_2.inkml	$ \theta + \frac {\pi} {2} $
+547	Train\INKMLs\TestINKMLGT_2013\rit_42150_3.inkml	$ \frac {\pi} {7} $
+548	Train\INKMLs\TestINKMLGT_2013\rit_42150_4.inkml	$ x ^ {3} - 3 x ^ {2} \sqrt {3} - 3 x + \sqrt {3} $
+549	Train\INKMLs\TestINKMLGT_2013\rit_42155_0.inkml	$ x ^ {3} - 3 - \sqrt {3} $
+550	Train\INKMLs\TestINKMLGT_2013\rit_42155_1.inkml	$ x ^ {2} + y ^ {2} $
+551	Train\INKMLs\TestINKMLGT_2013\rit_42155_2.inkml	$ \beta _ {2 n} $
+552	Train\INKMLs\TestINKMLGT_2013\rit_42155_3.inkml	$ x ^ {3} + 1 $
+553	Train\INKMLs\TestINKMLGT_2013\rit_4215_0.inkml	$ x + h $
+554	Train\INKMLs\TestINKMLGT_2013\rit_4215_1.inkml	$ \frac {b h} {2} $
+555	Train\INKMLs\TestINKMLGT_2013\rit_4215_2.inkml	$ \frac {2} {3} h $
+556	Train\INKMLs\TestINKMLGT_2013\rit_4215_3.inkml	$ \frac {9} {5} $
+557	Train\INKMLs\TestINKMLGT_2013\rit_4215_4.inkml	$ \log \log n $
+558	Train\INKMLs\TestINKMLGT_2013\rit_42160_0.inkml	$ \sin 5 x = 16 \sin ^ {5} x - 20 \sin ^ {3} x + 5 \sin x $
+559	Train\INKMLs\TestINKMLGT_2013\rit_42160_1.inkml	$ \int \limits ^ {b} _ {a} z + y d y $
+560	Train\INKMLs\TestINKMLGT_2013\rit_42160_2.inkml	$ \pm \sqrt {- 1} $
+561	Train\INKMLs\TestINKMLGT_2013\rit_42160_3.inkml	$ \frac {2} {\frac {1} {x} + \frac {1} {y}} $
+562	Train\INKMLs\TestINKMLGT_2013\rit_42160_4.inkml	$ \int \frac {1} {y} + \frac {1} {1 - y} d y = \int d x $
+563	Train\INKMLs\TestINKMLGT_2013\rit_42165_0.inkml	$ x ^ {2} + y ^ {2} + z ^ {2} $
+564	Train\INKMLs\TestINKMLGT_2013\rit_42165_1.inkml	$ \cos c = \cos a \cos b + \sin a \sin b $
+565	Train\INKMLs\TestINKMLGT_2013\rit_42165_2.inkml	$ \sin \lbrack a + b \rbrack = \sin a \cos b + \cos a \sin b $
+566	Train\INKMLs\TestINKMLGT_2013\rit_42170_0.inkml	$ x ^ {4} - 4 x ^ {3} - 14 x ^ {2} - 4 x + 1 $
+567	Train\INKMLs\TestINKMLGT_2013\rit_42170_1.inkml	$ x ^ {4} - 4 x ^ {2} + 2 + \sqrt {2} $
+568	Train\INKMLs\TestINKMLGT_2013\rit_42170_2.inkml	$ sin [x + y] = [sin x \cos y + \cos x sin y] $
+569	Train\INKMLs\TestINKMLGT_2013\rit_42170_3.inkml	$ \frac {\log _ {2} x} {\log _ {2} e} + \frac {\log _ {2} x} {\log _ {2} 10} $
+570	Train\INKMLs\TestINKMLGT_2013\rit_42170_4.inkml	$ \sum \limits _ {n \geq 0} a _ {n + 1} (n + 1) z ^ {n} $
+571	Train\INKMLs\TestINKMLGT_2013\rit_42175_0.inkml	$ \sum _ {k} 2 ^ {- k} $
+572	Train\INKMLs\TestINKMLGT_2013\rit_42175_1.inkml	$ \sum _ {n \geq 0} n 2 ^ {n} z ^ {n} $
+573	Train\INKMLs\TestINKMLGT_2013\rit_42175_2.inkml	$ \sum _ {n \geq _ {0}} \frac {1} {x _ n} $
+574	Train\INKMLs\TestINKMLGT_2013\rit_42175_3.inkml	$ \sum x ^ n $
+575	Train\INKMLs\TestINKMLGT_2013\rit_42180_0.inkml	$ \int d x $
+576	Train\INKMLs\TestINKMLGT_2013\rit_42180_1.inkml	$ \int _ {1} ^ {2} x d x $
+577	Train\INKMLs\TestINKMLGT_2013\rit_42180_2.inkml	$ \int _ {2} ^ {5} x ^ {2} d x $
+578	Train\INKMLs\TestINKMLGT_2013\rit_42180_3.inkml	$ \int \frac {1} {\sqrt {a x ^ 2 + b x + c}} d x $
+579	Train\INKMLs\TestINKMLGT_2013\rit_42185_0.inkml	$ lim _ {x \rightarrow 0} \frac {\cos (2 x) - 1} {x ^ {3} + 5 x ^ {2}} $
+580	Train\INKMLs\TestINKMLGT_2013\rit_42185_1.inkml	$ lim \limits _ {a \rightarrow + \infty} \int ^ {a} _ {0} \frac {\sin (x)} {x} d x $
+581	Train\INKMLs\TestINKMLGT_2013\rit_42185_2.inkml	$ lim x _ {x \rightarrow a} b = b $
+582	Train\INKMLs\TestINKMLGT_2013\rit_42185_3.inkml	$ 10 ^ {n !} $
+583	Train\INKMLs\TestINKMLGT_2013\rit_42190_0.inkml	$ \int ^ {1} _ {0} \int ^ {1} _ {0} \frac {1} {1 + x ^ {2} y ^ {2}} d x d y $
+584	Train\INKMLs\TestINKMLGT_2013\rit_42190_1.inkml	$ P (2 + Y) = 4 Y ^ {3} + 17 Y ^ {2} + 23 Y $
+585	Train\INKMLs\TestINKMLGT_2013\rit_42190_2.inkml	$ \phi ^ {3} + 3 \phi ^ {2} + 18 \phi + 5 + 12 $
+586	Train\INKMLs\TestINKMLGT_2013\rit_42190_3.inkml	$ \sqrt {1 + \frac {1} {\sqrt {2}}} + \sqrt {1 - \frac {1} {\sqrt {2}}} $
+587	Train\INKMLs\TestINKMLGT_2013\rit_42190_4.inkml	$ \sqrt {- 1} \times \sqrt {- 1} $
+588	Train\INKMLs\TestINKMLGT_2013\rit_42195_0.inkml	$ \forall x \exists y x + y = 0 $
+589	Train\INKMLs\TestINKMLGT_2013\rit_4220_0.inkml	$ a + h $
+590	Train\INKMLs\TestINKMLGT_2013\rit_4220_1.inkml	$ 9 \times 9 $
+591	Train\INKMLs\TestINKMLGT_2013\rit_4220_2.inkml	$ \sqrt {13 h} $
+592	Train\INKMLs\TestINKMLGT_2013\rit_4220_3.inkml	$ \frac {9} {4} $
+593	Train\INKMLs\TestINKMLGT_2013\rit_4220_4.inkml	$ - \frac {h ^ {2} _ {3} + h ^ {2} _ {2}} {h _ {3}} = \frac {h _ {3}} {h _ {3} h _ {0} - h _ {2} h _ {1}} $
+594	Train\INKMLs\TestINKMLGT_2013\rit_4225_0.inkml	$ 5 div 3 \neq 3 div 5 $
+595	Train\INKMLs\TestINKMLGT_2013\rit_4225_1.inkml	$ a div b $
+596	Train\INKMLs\TestINKMLGT_2013\rit_4225_2.inkml	$ 8 \sqrt {3} $
+597	Train\INKMLs\TestINKMLGT_2013\rit_4225_3.inkml	$ \frac {56} {8} $
+598	Train\INKMLs\TestINKMLGT_2013\rit_4225_4.inkml	$ 7 ^ {7 ^ {7}} $
+599	Train\INKMLs\TestINKMLGT_2013\rit_4230_0.inkml	$ \frac {7} {6} $
+600	Train\INKMLs\TestINKMLGT_2013\rit_4230_1.inkml	$ \sin x \times \cos x $
+601	Train\INKMLs\TestINKMLGT_2013\rit_4230_2.inkml	$ \frac {3} {7} $
+602	Train\INKMLs\TestINKMLGT_2013\rit_4230_3.inkml	$ \frac {6} {3} $
+603	Train\INKMLs\TestINKMLGT_2013\rit_4230_4.inkml	$ \tan x = \frac {\sin x} {\cos x} $
+604	Train\INKMLs\TestINKMLGT_2013\rit_4235_0.inkml	$ \frac {7} {5} $
+605	Train\INKMLs\TestINKMLGT_2013\rit_4235_1.inkml	$ - \sin x $
+606	Train\INKMLs\TestINKMLGT_2013\rit_4235_2.inkml	$ 6 \frac {\sqrt {3}} {4} $
+607	Train\INKMLs\TestINKMLGT_2013\rit_4235_3.inkml	$ \frac {5} {6} $
+608	Train\INKMLs\TestINKMLGT_2013\rit_4235_4.inkml	$ \frac {\sqrt {3}} {3} $
+609	Train\INKMLs\TestINKMLGT_2013\rit_4240_0.inkml	$ 57753336 $
+610	Train\INKMLs\TestINKMLGT_2013\rit_4240_1.inkml	$ \tan \theta = \frac {\sin \theta} {\cos \theta} $
+611	Train\INKMLs\TestINKMLGT_2013\rit_4240_2.inkml	$ \sin ^ {2} \theta $
+612	Train\INKMLs\TestINKMLGT_2013\rit_4240_3.inkml	$ 4 \sqrt {3} $
+613	Train\INKMLs\TestINKMLGT_2013\rit_4240_4.inkml	$ \frac {\sqrt {3}} {4} $
+614	Train\INKMLs\TestINKMLGT_2013\rit_4245_0.inkml	$ \frac {b !} {b} $
+615	Train\INKMLs\TestINKMLGT_2013\rit_4245_1.inkml	$ \tan \frac {\theta} {2} $
+616	Train\INKMLs\TestINKMLGT_2013\rit_4245_2.inkml	$ 6 + 3 \sqrt {3} $
+617	Train\INKMLs\TestINKMLGT_2013\rit_4245_3.inkml	$ 7 \sqrt {7} - 3 \sqrt {3} $
+618	Train\INKMLs\TestINKMLGT_2013\rit_4245_4.inkml	$ 2 \sin x + \tan x $
+619	Train\INKMLs\TestINKMLGT_2013\rit_4250_0.inkml	$ \log _ {a} x $
+620	Train\INKMLs\TestINKMLGT_2013\rit_4250_1.inkml	$ b ^ {x} $
+621	Train\INKMLs\TestINKMLGT_2013\rit_4250_2.inkml	$ \sqrt {28} $
+622	Train\INKMLs\TestINKMLGT_2013\rit_4250_3.inkml	$ \sqrt {18} $
+623	Train\INKMLs\TestINKMLGT_2013\rit_4250_4.inkml	$ \log _ {2} x $
+624	Train\INKMLs\TestINKMLGT_2013\rit_4255_0.inkml	$ \log _ {a} a $
+625	Train\INKMLs\TestINKMLGT_2013\rit_4255_1.inkml	$ \sqrt {x +} y \leq \sqrt {x} + \sqrt {y} $
+626	Train\INKMLs\TestINKMLGT_2013\rit_4255_2.inkml	$ x \rightarrow b $
+627	Train\INKMLs\TestINKMLGT_2013\rit_4255_3.inkml	$ \sqrt {x y z} $
+628	Train\INKMLs\TestINKMLGT_2013\rit_4255_4.inkml	$ b \leq x $
+629	Train\INKMLs\TestINKMLGT_2013\rit_425_0.inkml	$ 9 ! ^ 9 $
+630	Train\INKMLs\TestINKMLGT_2013\rit_425_1.inkml	$ \frac {h - y} {h} $
+631	Train\INKMLs\TestINKMLGT_2013\rit_425_2.inkml	$ \frac {3} {5} h $
+632	Train\INKMLs\TestINKMLGT_2013\rit_425_3.inkml	$ h \rightarrow x $
+633	Train\INKMLs\TestINKMLGT_2013\rit_425_4.inkml	$ h \rightarrow \infty $
+634	Train\INKMLs\TestINKMLGT_2013\rit_4260_0.inkml	$ \sqrt {a + b} $
+635	Train\INKMLs\TestINKMLGT_2013\rit_4260_1.inkml	$ \frac {8 \sqrt {2}} {3} $
+636	Train\INKMLs\TestINKMLGT_2013\rit_4260_2.inkml	$ x + 4 $
+637	Train\INKMLs\TestINKMLGT_2013\rit_4260_3.inkml	$ x ^ {y} + y ^ {x} $
+638	Train\INKMLs\TestINKMLGT_2013\rit_4260_4.inkml	$ \frac {1} {8} $
+639	Train\INKMLs\TestINKMLGT_2013\rit_4265_0.inkml	$ 4 ^ {4 ^ {4}} + 3 $
+640	Train\INKMLs\TestINKMLGT_2013\rit_4265_1.inkml	$ x + y $
+641	Train\INKMLs\TestINKMLGT_2013\rit_4265_2.inkml	$ \frac {x} {x} $
+642	Train\INKMLs\TestINKMLGT_2013\rit_4265_3.inkml	$ a x + b y $
+643	Train\INKMLs\TestINKMLGT_2013\rit_4270_0.inkml	$ x \leq y $
+644	Train\INKMLs\TestINKMLGT_2013\rit_4270_1.inkml	$ a x + b $
+645	Train\INKMLs\TestINKMLGT_2013\rit_4270_2.inkml	$ \frac {a} {b} $
+646	Train\INKMLs\TestINKMLGT_2013\rit_4270_3.inkml	$ \frac {b} {a} $
+647	Train\INKMLs\TestINKMLGT_2013\rit_4275_0.inkml	$ a b + b a $
+648	Train\INKMLs\TestINKMLGT_2013\rit_4275_1.inkml	$ \int ^ {b} _ {a} \phi $
+649	Train\INKMLs\TestINKMLGT_2013\rit_4275_2.inkml	$ \frac {3} {4} $
+650	Train\INKMLs\TestINKMLGT_2013\rit_4275_3.inkml	$ \frac {2 x - 8} {4 x - 8} $
+651	Train\INKMLs\TestINKMLGT_2013\rit_4275_4.inkml	$ \frac {a \vtop {\hbox {\sqrt {}} \hbox {3}}} {4} $
+652	Train\INKMLs\TestINKMLGT_2013\rit_4280_0.inkml	$ \frac {91} {48} $
+653	Train\INKMLs\TestINKMLGT_2013\rit_4280_1.inkml	$ x ^ {3} + a x + b $
+654	Train\INKMLs\TestINKMLGT_2013\rit_4280_2.inkml	$ \sqrt {\sqrt {2}} $
+655	Train\INKMLs\TestINKMLGT_2013\rit_4280_3.inkml	$ a \rightarrow b $
+656	Train\INKMLs\TestINKMLGT_2013\rit_4280_4.inkml	$ \sqrt {x ^ {2} + 6 x} + 4 $
+657	Train\INKMLs\TestINKMLGT_2013\rit_4285_0.inkml	$ \cos x + 1 $
+658	Train\INKMLs\TestINKMLGT_2013\rit_4285_1.inkml	$ \sqrt {a} \pm \sqrt {b} = \sqrt {a + b \pm 2 \sqrt {a b}} $
+659	Train\INKMLs\TestINKMLGT_2013\rit_4285_2.inkml	$ \sum b _ {n} $
+660	Train\INKMLs\TestINKMLGT_2013\rit_4285_3.inkml	$ b \leq a $
+661	Train\INKMLs\TestINKMLGT_2013\rit_4285_4.inkml	$ a \leq b $
+662	Train\INKMLs\TestINKMLGT_2013\rit_4290_0.inkml	$ x ^ {3} + y ^ {3} $
+663	Train\INKMLs\TestINKMLGT_2013\rit_4290_1.inkml	$ a \leq x \leq 6 $
+664	Train\INKMLs\TestINKMLGT_2013\rit_4290_2.inkml	$ \sqrt {1 + x ^ {4}} $
+665	Train\INKMLs\TestINKMLGT_2013\rit_4290_3.inkml	$ \frac {n ^ {4}} {8} $
+666	Train\INKMLs\TestINKMLGT_2013\rit_4290_4.inkml	$ \sqrt {3 + \sqrt {2}} $
+667	Train\INKMLs\TestINKMLGT_2013\rit_4295_0.inkml	$ 523 + 487 $
+668	Train\INKMLs\TestINKMLGT_2013\rit_4295_1.inkml	$ \sqrt {5 + 2 \sqrt {6}} $
+669	Train\INKMLs\TestINKMLGT_2013\rit_4295_2.inkml	$Segmentation$
+670	Train\INKMLs\TestINKMLGT_2013\rit_4295_3.inkml	$Segmentation$
+671	Train\INKMLs\TestINKMLGT_2013\rit_4295_4.inkml	$ a \sqrt {3} $

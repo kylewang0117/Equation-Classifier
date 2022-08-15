@@ -1,0 +1,986 @@
+1	valid\TestEM2014GT_INKMLs\18_em_0.inkml	$x_k xx_k + y_k yx_k $
+2	valid\TestEM2014GT_INKMLs\18_em_1.inkml	$\sqrt{48} $
+3	valid\TestEM2014GT_INKMLs\18_em_10.inkml	$26$
+4	valid\TestEM2014GT_INKMLs\18_em_11.inkml	$q_t=2q$
+5	valid\TestEM2014GT_INKMLs\18_em_12.inkml	$\frac{pe^t}{1-(1-p) e^t}\!$
+6	valid\TestEM2014GT_INKMLs\18_em_13.inkml	$4^2+4^2+\frac{4}{4}$
+7	valid\TestEM2014GT_INKMLs\18_em_14.inkml	$\frac{dy}{dx} = \frac{1}{\frac{dx}{dy}}$
+8	valid\TestEM2014GT_INKMLs\18_em_15.inkml	$k = 1000000000$
+9	valid\TestEM2014GT_INKMLs\18_em_16.inkml	$m\geq2$
+10	valid\TestEM2014GT_INKMLs\18_em_17.inkml	$u(t)=\frac{u(0)}{1-tu(0)}$
+11	valid\TestEM2014GT_INKMLs\18_em_18.inkml	$\theta_3=\theta_1+\theta_2$
+12	valid\TestEM2014GT_INKMLs\18_em_19.inkml	$y \neq x$
+13	valid\TestEM2014GT_INKMLs\18_em_2.inkml	$C_1y_1^{(n-1)}+C_2y_2^{(n-1)}+\ldots+C_ny_n^{(n-1)}=0$
+14	valid\TestEM2014GT_INKMLs\18_em_20.inkml	$\frac1p + \frac1q=1 \!$
+15	valid\TestEM2014GT_INKMLs\18_em_21.inkml	$1011\ 1110\ 1110\ 0101_2$
+16	valid\TestEM2014GT_INKMLs\18_em_22.inkml	$p_1^{\gamma_1}p_2^{\gamma_2}\cdots p_n^{\gamma_n}$
+17	valid\TestEM2014GT_INKMLs\18_em_23.inkml	$\frac{18 \div 6}{24 \div 6} = \frac{3}{4}$
+18	valid\TestEM2014GT_INKMLs\18_em_24.inkml	$\frac{7529536}{15625}$
+19	valid\TestEM2014GT_INKMLs\18_em_3.inkml	$q_1, q_2, \ldots , q_m$
+20	valid\TestEM2014GT_INKMLs\18_em_4.inkml	$e^{-n} \!$
+21	valid\TestEM2014GT_INKMLs\18_em_5.inkml	$\int g = \lim_{n \rightarrow \infty} \int g_n \!$
+22	valid\TestEM2014GT_INKMLs\18_em_6.inkml	$g(b)-g(a)=b-a$
+23	valid\TestEM2014GT_INKMLs\18_em_7.inkml	$\sin^2\theta$
+24	valid\TestEM2014GT_INKMLs\18_em_8.inkml	$x_{LLL}\leq x_{LL}$
+25	valid\TestEM2014GT_INKMLs\18_em_9.inkml	$\frac{a}{b+\sqrt{c}}$
+26	valid\TestEM2014GT_INKMLs\20_em_25.inkml	$\sin \left(x+y\right)=\sin x \cos y + \cos x \sin y$
+27	valid\TestEM2014GT_INKMLs\20_em_26.inkml	$\frac{9}{9 + \sqrt{9}}$
+28	valid\TestEM2014GT_INKMLs\20_em_27.inkml	$R_o=\frac{\left( \frac{\beta + 1}{\beta} \right)r_e+ \left(\beta + 2 +\frac{2}{\beta}\right)r_{o}}{2 + \frac{2}${\beta}}$
+29	valid\TestEM2014GT_INKMLs\20_em_28.inkml	$1.379194171$
+30	valid\TestEM2014GT_INKMLs\20_em_29.inkml	$(-\infty,\infty) \!$
+31	valid\TestEM2014GT_INKMLs\20_em_30.inkml	$I_\mathrm{S}$
+32	valid\TestEM2014GT_INKMLs\20_em_31.inkml	$XX^{-1} = X^{-1}X = I$
+33	valid\TestEM2014GT_INKMLs\20_em_32.inkml	$\frac{\pi}{3}$
+34	valid\TestEM2014GT_INKMLs\20_em_33.inkml	$R_\mathrm{a} = \frac{R_1R_2 + R_2R_3 + R_3R_1}{R_2}$
+35	valid\TestEM2014GT_INKMLs\20_em_34.inkml	$\sin(a+b)$
+36	valid\TestEM2014GT_INKMLs\20_em_35.inkml	$\mu \geq 0$
+37	valid\TestEM2014GT_INKMLs\20_em_36.inkml	$e_5-5e_4$
+38	valid\TestEM2014GT_INKMLs\20_em_37.inkml	$\frac{3 \times 3^2}{2} + \frac{5 \times (-5)^2}{2} = \frac{3 \times {v_1}^2}{2} + \frac{5 \times {v_2}^2}{2}$
+39	valid\TestEM2014GT_INKMLs\20_em_38.inkml	$Y_{t+1}$
+40	valid\TestEM2014GT_INKMLs\20_em_39.inkml	$n^2 + n - n$
+41	valid\TestEM2014GT_INKMLs\20_em_40.inkml	$\sqrt{4x^5+x}$
+42	valid\TestEM2014GT_INKMLs\20_em_41.inkml	$9/5$
+43	valid\TestEM2014GT_INKMLs\20_em_42.inkml	$17$
+44	valid\TestEM2014GT_INKMLs\20_em_43.inkml	$(648+648)^\frac{1}{4}+8$
+45	valid\TestEM2014GT_INKMLs\20_em_44.inkml	$8cm$
+46	valid\TestEM2014GT_INKMLs\20_em_45.inkml	$\sqrt{C_n}$
+47	valid\TestEM2014GT_INKMLs\20_em_46.inkml	$\frac{d_1-2}{d_1}\;\frac{d_2}{d_2+2}\!$
+48	valid\TestEM2014GT_INKMLs\20_em_47.inkml	$5395$
+49	valid\TestEM2014GT_INKMLs\20_em_48.inkml	$f(1.99)=3.99219201$
+50	valid\TestEM2014GT_INKMLs\20_em_49.inkml	$6 ft$
+51	valid\TestEM2014GT_INKMLs\23_em_50.inkml	$d^{-7}$
+52	valid\TestEM2014GT_INKMLs\23_em_51.inkml	$n = p_1^{e_1}p_2^{e_2} \ldots p_m^{e_m}$
+53	valid\TestEM2014GT_INKMLs\23_em_52.inkml	$2p$
+54	valid\TestEM2014GT_INKMLs\23_em_53.inkml	$\frac{1}{3} + \frac{1}{3}$
+55	valid\TestEM2014GT_INKMLs\23_em_54.inkml	$\beta_0 = 1000$
+56	valid\TestEM2014GT_INKMLs\23_em_55.inkml	$\sqrt{113}$
+57	valid\TestEM2014GT_INKMLs\23_em_56.inkml	$9 + 2$
+58	valid\TestEM2014GT_INKMLs\23_em_57.inkml	$\sqrt{3^2+2^2}=\sqrt{13}$
+59	valid\TestEM2014GT_INKMLs\23_em_58.inkml	$z^d+z$
+60	valid\TestEM2014GT_INKMLs\23_em_59.inkml	$\sum_{r=1}^n ar^b = a\sum_{r=1}^n r^b$
+61	valid\TestEM2014GT_INKMLs\23_em_60.inkml	$\frac{2}{3} + \frac{1}{9} = (\frac{7}{9})$
+62	valid\TestEM2014GT_INKMLs\23_em_61.inkml	$\cos2\alpha$
+63	valid\TestEM2014GT_INKMLs\23_em_62.inkml	$t^2 + t + x$
+64	valid\TestEM2014GT_INKMLs\23_em_63.inkml	$F \ = \sqrt{F_x^2+F_y^2}$
+65	valid\TestEM2014GT_INKMLs\23_em_64.inkml	$\log_e x$
+66	valid\TestEM2014GT_INKMLs\23_em_65.inkml	$f(n-1)$
+67	valid\TestEM2014GT_INKMLs\23_em_66.inkml	$z^3 + z = z$
+68	valid\TestEM2014GT_INKMLs\23_em_67.inkml	$2\left((x+2)^2 -4 +1\right)$
+69	valid\TestEM2014GT_INKMLs\23_em_68.inkml	$\frac{q-p}{\sqrt{pq}}$
+70	valid\TestEM2014GT_INKMLs\23_em_69.inkml	$X \leq 15$
+71	valid\TestEM2014GT_INKMLs\23_em_70.inkml	$\alpha+\beta = \beta+\alpha$
+72	valid\TestEM2014GT_INKMLs\23_em_71.inkml	$cT^{\prime}$
+73	valid\TestEM2014GT_INKMLs\23_em_72.inkml	$\sum_{i=1}^n x_n=\sum_{i=1}^n y_n$
+74	valid\TestEM2014GT_INKMLs\23_em_73.inkml	$B_{m+1}$
+75	valid\TestEM2014GT_INKMLs\26_em_75.inkml	$1-2a+b-2ab=1-2b+a-2ab$
+76	valid\TestEM2014GT_INKMLs\26_em_76.inkml	$-mp$
+77	valid\TestEM2014GT_INKMLs\26_em_77.inkml	$x^ie_i=\sum_i x^ie_i$
+78	valid\TestEM2014GT_INKMLs\26_em_78.inkml	$169$
+79	valid\TestEM2014GT_INKMLs\26_em_79.inkml	$-a+b+c$
+80	valid\TestEM2014GT_INKMLs\26_em_80.inkml	$\frac{319}{28}=11.39$
+81	valid\TestEM2014GT_INKMLs\26_em_81.inkml	$-2 x+\sin (2 x+2)-2$
+82	valid\TestEM2014GT_INKMLs\26_em_82.inkml	$\frac{1}{2}t^2u(t)$
+83	valid\TestEM2014GT_INKMLs\26_em_83.inkml	$\ d_t = \frac{a(t)-a(t-1)}{a(t)}$
+84	valid\TestEM2014GT_INKMLs\26_em_84.inkml	$S_{\infty}=\lim_{n \rightarrow \infty}\frac{a(1-r^n)}{1-r}= \frac{a}{1-r}$
+85	valid\TestEM2014GT_INKMLs\26_em_85.inkml	$\log_ug \!$
+86	valid\TestEM2014GT_INKMLs\26_em_86.inkml	$\log_a x$
+87	valid\TestEM2014GT_INKMLs\26_em_87.inkml	$\int x\cos (x) dx = x\sin (x) - \int \sin (x) dx$
+88	valid\TestEM2014GT_INKMLs\26_em_88.inkml	$v^2-{v_v}^2=v_v^2$
+89	valid\TestEM2014GT_INKMLs\26_em_89.inkml	$x^2 + y^2 = l_1^2 + l_2^2 + 2 l_1 l_2 c_2$
+90	valid\TestEM2014GT_INKMLs\26_em_90.inkml	$\int\frac{19}{\sqrt{9x-38}}dx$
+91	valid\TestEM2014GT_INKMLs\26_em_91.inkml	$k[a^{-1}]$
+92	valid\TestEM2014GT_INKMLs\26_em_92.inkml	$-\frac{11\pi}{8}$
+93	valid\TestEM2014GT_INKMLs\26_em_93.inkml	$4\times4+4-4 \!$
+94	valid\TestEM2014GT_INKMLs\26_em_94.inkml	$\left[\frac {1}{2} \sin ^2 (1) \right] - \left[\frac {1}{2} \sin ^2 (0) \right]$
+95	valid\TestEM2014GT_INKMLs\26_em_95.inkml	$\sqrt{a} \sqrt{b} = \sqrt{ab}$
+96	valid\TestEM2014GT_INKMLs\26_em_96.inkml	$4+4+\frac{4}{4}$
+97	valid\TestEM2014GT_INKMLs\26_em_97.inkml	$\sqrt{-4} = \sqrt{-1}\sqrt{4}$
+98	valid\TestEM2014GT_INKMLs\26_em_98.inkml	$(\sqrt{2}x+2)(x+3)$
+99	valid\TestEM2014GT_INKMLs\26_em_99.inkml	$\ $10,000 + $1,000 = $11,000$
+100	valid\TestEM2014GT_INKMLs\27_em_100.inkml	$\sqrt{45}$
+101	valid\TestEM2014GT_INKMLs\27_em_101.inkml	$1 + \sqrt{5} = x_1 + y_1\sqrt{5}$
+102	valid\TestEM2014GT_INKMLs\27_em_102.inkml	$\lim_{a \rightarrow \infty} f(a) \!$
+103	valid\TestEM2014GT_INKMLs\27_em_103.inkml	$\exists y \exists x F$
+104	valid\TestEM2014GT_INKMLs\27_em_104.inkml	$w = q_H - q_C$
+105	valid\TestEM2014GT_INKMLs\27_em_105.inkml	${(a - 2x)(a + 2x)}$
+106	valid\TestEM2014GT_INKMLs\27_em_106.inkml	$\alpha^2 + \beta^2 = (\alpha+\beta)^2-2\alpha\beta$
+107	valid\TestEM2014GT_INKMLs\27_em_107.inkml	$\int kx^n dx = k \int x^n dx$
+108	valid\TestEM2014GT_INKMLs\27_em_108.inkml	$0+A$
+109	valid\TestEM2014GT_INKMLs\27_em_109.inkml	$f^{(i+k)}(0)=f^{(i)}(0)f^{(k)}(0)$
+110	valid\TestEM2014GT_INKMLs\27_em_110.inkml	$(29)-2(16)+(3)=29-32+3=0$
+111	valid\TestEM2014GT_INKMLs\27_em_111.inkml	$x^2 - y^2 = x^2 +2xy + y^2 - 2xy - 2y^2$
+112	valid\TestEM2014GT_INKMLs\27_em_112.inkml	$\mathrm{M}_3$
+113	valid\TestEM2014GT_INKMLs\27_em_113.inkml	$x = \frac {af(b) - bf(a)} {f(b) - f(a)}$
+114	valid\TestEM2014GT_INKMLs\27_em_114.inkml	$\int { \sin 2 \theta } d \theta$
+115	valid\TestEM2014GT_INKMLs\27_em_115.inkml	$7\sqrt{2}$
+116	valid\TestEM2014GT_INKMLs\27_em_116.inkml	$v_7 + v_3 + v_4- v_8 = 0$
+117	valid\TestEM2014GT_INKMLs\27_em_117.inkml	$\cos \theta \sin \theta +  \theta +  \theta^2$
+118	valid\TestEM2014GT_INKMLs\27_em_118.inkml	$\sqrt{32} + \sqrt{32}$
+119	valid\TestEM2014GT_INKMLs\27_em_119.inkml	$6778$
+120	valid\TestEM2014GT_INKMLs\27_em_120.inkml	${\sqrt{15}}$
+121	valid\TestEM2014GT_INKMLs\27_em_121.inkml	$1 - z + z^2 - z^3 + z^4 - z^5 + \ldots$
+122	valid\TestEM2014GT_INKMLs\27_em_122.inkml	$\pm \sqrt[x] b$
+123	valid\TestEM2014GT_INKMLs\27_em_123.inkml	$\int 2x^{-2}  dx$
+124	valid\TestEM2014GT_INKMLs\27_em_124.inkml	$a \div b$
+125	valid\TestEM2014GT_INKMLs\28_em_125.inkml	$\frac{2}{\sqrt{2+\sqrt{2}}}$
+126	valid\TestEM2014GT_INKMLs\28_em_126.inkml	$\frac{\sum_{k=1}^N k^2}{a}$
+127	valid\TestEM2014GT_INKMLs\28_em_127.inkml	$X,X_t$
+128	valid\TestEM2014GT_INKMLs\28_em_128.inkml	$\frac{x^2}{9}-\frac{y^2}{49}=1$
+129	valid\TestEM2014GT_INKMLs\28_em_129.inkml	$-\frac 1 {\sqrt 2} (\frac b {\sqrt 2} - 0 )$
+130	valid\TestEM2014GT_INKMLs\28_em_130.inkml	$\log{x} + \log{y} = \log{xy} \!$
+131	valid\TestEM2014GT_INKMLs\28_em_131.inkml	$zy + 2zy + 2z + 2y$
+132	valid\TestEM2014GT_INKMLs\28_em_132.inkml	$S/V$
+133	valid\TestEM2014GT_INKMLs\28_em_133.inkml	$3=\frac{3}{2}(3^1-1)=3$
+134	valid\TestEM2014GT_INKMLs\28_em_134.inkml	$\frac{n_{A}}{n}$
+135	valid\TestEM2014GT_INKMLs\28_em_135.inkml	$e_2-2e_1$
+136	valid\TestEM2014GT_INKMLs\28_em_136.inkml	$\pi_{t+1}$
+137	valid\TestEM2014GT_INKMLs\28_em_137.inkml	$3, 4, 5, 6, \ldots$
+138	valid\TestEM2014GT_INKMLs\28_em_138.inkml	$\mathrm{R^0_0}\!$
+139	valid\TestEM2014GT_INKMLs\28_em_139.inkml	$xyx+xy+yx+y=x^2y+xy+xy+y$
+140	valid\TestEM2014GT_INKMLs\28_em_140.inkml	$3(-5)^2+3(-5-2)-(-5)(2)^2$
+141	valid\TestEM2014GT_INKMLs\28_em_141.inkml	$\frac{2AB}{A + B}$
+142	valid\TestEM2014GT_INKMLs\28_em_142.inkml	$\frac{44467}{38973}$
+143	valid\TestEM2014GT_INKMLs\28_em_143.inkml	$[ [S] ]=[S]$
+144	valid\TestEM2014GT_INKMLs\28_em_144.inkml	$\sum_{i}{ k}_{i }$
+145	valid\TestEM2014GT_INKMLs\28_em_145.inkml	$f(x)=\frac{\infty}{\infty}$
+146	valid\TestEM2014GT_INKMLs\28_em_146.inkml	$\frac{199}{11}$
+147	valid\TestEM2014GT_INKMLs\28_em_147.inkml	$[B]$
+148	valid\TestEM2014GT_INKMLs\28_em_148.inkml	$x(t) = x_1(t) + x_2(t)$
+149	valid\TestEM2014GT_INKMLs\28_em_149.inkml	$\frac{1}{x+y} - \frac{1}{x-y} = \frac{-2y}{x^2-y^2}$
+150	valid\TestEM2014GT_INKMLs\29_em_150.inkml	${60}^o\!$
+151	valid\TestEM2014GT_INKMLs\29_em_151.inkml	$\!\mathrm{Pa}$
+152	valid\TestEM2014GT_INKMLs\29_em_152.inkml	$\sqrt{-n} = i\sqrt{n} \!$
+153	valid\TestEM2014GT_INKMLs\29_em_153.inkml	$(a-b)^2=a^2-2ab+b^2$
+154	valid\TestEM2014GT_INKMLs\29_em_154.inkml	$\frac{4z-5}{(z-1)(z-2)}$
+155	valid\TestEM2014GT_INKMLs\29_em_155.inkml	$z^5 + z = z$
+156	valid\TestEM2014GT_INKMLs\29_em_156.inkml	$(2,2,2,0)$
+157	valid\TestEM2014GT_INKMLs\29_em_157.inkml	$y = y \prime$
+158	valid\TestEM2014GT_INKMLs\29_em_158.inkml	$\alpha^4+\alpha^6+\alpha^7+\alpha^9$
+159	valid\TestEM2014GT_INKMLs\29_em_159.inkml	$18$
+160	valid\TestEM2014GT_INKMLs\29_em_160.inkml	$\sum a_j x_j$
+161	valid\TestEM2014GT_INKMLs\29_em_161.inkml	$f(z_0)=\lim_{z\rightarrow z_0} f(z)$
+162	valid\TestEM2014GT_INKMLs\29_em_162.inkml	$\frac{f \prime (x)}{g \prime (x)}$
+163	valid\TestEM2014GT_INKMLs\29_em_163.inkml	$C_t = C + C = 2C$
+164	valid\TestEM2014GT_INKMLs\29_em_164.inkml	$\cos \pi z$
+165	valid\TestEM2014GT_INKMLs\29_em_165.inkml	$7x^{7-1}+4x^{4-1}+1x^{1-1}$
+166	valid\TestEM2014GT_INKMLs\29_em_166.inkml	$\int \frac{3x+1}{x^2+x} dx$
+167	valid\TestEM2014GT_INKMLs\29_em_167.inkml	$\cos(nx)=2\cos(x)\cos[(n-1)x]-\cos[(n-2)x]$
+168	valid\TestEM2014GT_INKMLs\29_em_169.inkml	$\frac{df}{dx} = \frac{1}{\frac{dx}{df}}$
+169	valid\TestEM2014GT_INKMLs\29_em_170.inkml	$E(t)\leq E(0)$
+170	valid\TestEM2014GT_INKMLs\29_em_171.inkml	$\lim_{t \rightarrow c} a_1(t) = a_1$
+171	valid\TestEM2014GT_INKMLs\29_em_172.inkml	$n \geq 0$
+172	valid\TestEM2014GT_INKMLs\29_em_173.inkml	$\frac{x^2+13x+40}{2x^3+27x^2+111x+140}$
+173	valid\TestEM2014GT_INKMLs\29_em_174.inkml	$\lim \frac{|a_{n+1}x|}{|a_n|} <1$
+174	valid\TestEM2014GT_INKMLs\31_em_175.inkml	$\lim_{x \rightarrow c} f(x) = f(c)$
+175	valid\TestEM2014GT_INKMLs\31_em_176.inkml	$\left (\frac{\pi}{\sqrt{2}} \right)$
+176	valid\TestEM2014GT_INKMLs\31_em_177.inkml	$\alpha^{-1}$
+177	valid\TestEM2014GT_INKMLs\31_em_178.inkml	$q+w\;$
+178	valid\TestEM2014GT_INKMLs\31_em_180.inkml	$x^5+y^5-5xy+1=0$
+179	valid\TestEM2014GT_INKMLs\31_em_181.inkml	$\frac{az^{-1} }{ (1-a z^{-1})^2 }$
+180	valid\TestEM2014GT_INKMLs\31_em_182.inkml	$(Y)(1) = (Y)(\frac{Y}{Y})$
+181	valid\TestEM2014GT_INKMLs\31_em_183.inkml	$\sqrt{9}\times\sqrt{5}$
+182	valid\TestEM2014GT_INKMLs\31_em_184.inkml	$\frac{\sqrt{81}\times\sqrt{2}}{\sqrt{100}\times\sqrt{2}}$
+183	valid\TestEM2014GT_INKMLs\31_em_185.inkml	$-P\left ( V_2-V_1 \right )\;$
+184	valid\TestEM2014GT_INKMLs\31_em_187.inkml	$50$
+185	valid\TestEM2014GT_INKMLs\31_em_188.inkml	$\tan a = \frac {\sin a}{\cos a}$
+186	valid\TestEM2014GT_INKMLs\31_em_189.inkml	$x.y$
+187	valid\TestEM2014GT_INKMLs\31_em_190.inkml	$\frac{1}{25}y^2-\frac{8}{25}y$
+188	valid\TestEM2014GT_INKMLs\31_em_191.inkml	$\sum_{j=1}^m a_j e_j$
+189	valid\TestEM2014GT_INKMLs\31_em_192.inkml	$\int_{a}^x f(x)dx$
+190	valid\TestEM2014GT_INKMLs\31_em_193.inkml	$r_i+dr_i,p_i+dp_i$
+191	valid\TestEM2014GT_INKMLs\31_em_194.inkml	$\frac{b^{2x}}{b^y}$
+192	valid\TestEM2014GT_INKMLs\31_em_195.inkml	$1 \times 2 \times 3 \times 4 \times 5 \times 6 = 720$
+193	valid\TestEM2014GT_INKMLs\31_em_196.inkml	$\frac{3 + 9 + 7 + 3 + 6 + 10 + 4}{7} = 6$
+194	valid\TestEM2014GT_INKMLs\31_em_197.inkml	$x^2-xy+xy-y^2$
+195	valid\TestEM2014GT_INKMLs\31_em_198.inkml	$\lim_{x \rightarrow -\infty} p_2(x)>0 \!$
+196	valid\TestEM2014GT_INKMLs\31_em_199.inkml	$\log a + \log b = \log ab$
+197	valid\TestEM2014GT_INKMLs\32_em_200.inkml	$\frac{\pi}{8}$
+198	valid\TestEM2014GT_INKMLs\32_em_201.inkml	$\sum_{k=1}^n (ca_k) = c \sum_{i=1}^n (a_k)$
+199	valid\TestEM2014GT_INKMLs\32_em_202.inkml	$3N-3-2 = 3N-5$
+200	valid\TestEM2014GT_INKMLs\32_em_203.inkml	$l-1$
+201	valid\TestEM2014GT_INKMLs\32_em_204.inkml	$\pm \sqrt x$
+202	valid\TestEM2014GT_INKMLs\32_em_205.inkml	$(a + bi) - (c + di) = (a - c) + (b - d)i$
+203	valid\TestEM2014GT_INKMLs\32_em_206.inkml	$[[S]]$
+204	valid\TestEM2014GT_INKMLs\32_em_207.inkml	$\int {  -\cos \phi } d \phi$
+205	valid\TestEM2014GT_INKMLs\32_em_208.inkml	$b_\mathrm{u}$
+206	valid\TestEM2014GT_INKMLs\32_em_209.inkml	$\frac{f}{a} = \frac{b}{f}$
+207	valid\TestEM2014GT_INKMLs\32_em_210.inkml	$\frac{1-2p}{\sqrt{np(1-p)}}$
+208	valid\TestEM2014GT_INKMLs\32_em_211.inkml	$H_{cl}$
+209	valid\TestEM2014GT_INKMLs\32_em_212.inkml	$q-\sqrt{2}$
+210	valid\TestEM2014GT_INKMLs\32_em_213.inkml	$\sqrt a \times \sqrt b = \sqrt {ab}$
+211	valid\TestEM2014GT_INKMLs\32_em_214.inkml	$\int c dx$
+212	valid\TestEM2014GT_INKMLs\32_em_215.inkml	$\!\mathrm{m}^3$
+213	valid\TestEM2014GT_INKMLs\32_em_216.inkml	$g(y) - g(x)$
+214	valid\TestEM2014GT_INKMLs\32_em_217.inkml	$\sqrt{-1}$
+215	valid\TestEM2014GT_INKMLs\32_em_218.inkml	$g^2=gg=e$
+216	valid\TestEM2014GT_INKMLs\32_em_219.inkml	$E_1 < E < E_2$
+217	valid\TestEM2014GT_INKMLs\32_em_220a.inkml	$d = (24z^5+48cz^3+8z^3+24c^2z+16cz)$
+218	valid\TestEM2014GT_INKMLs\32_em_220b.inkml	$8z^7+29cz^5+29c^2z^3$
+219	valid\TestEM2014GT_INKMLs\32_em_220c.inkml	$4c^3+6c^2+2c+1$
+220	valid\TestEM2014GT_INKMLs\32_em_221.inkml	$n\geq N$
+221	valid\TestEM2014GT_INKMLs\32_em_222.inkml	$\frac {da}{dc} = \frac {c}{a}$
+222	valid\TestEM2014GT_INKMLs\32_em_223.inkml	$(\pi)$
+223	valid\TestEM2014GT_INKMLs\32_em_224.inkml	$z=\sqrt{3}(\sqrt{2}+i)$
+224	valid\TestEM2014GT_INKMLs\34_em_225.inkml	$\!x^3+\!3x^2y+\!3xy^2+\!y^3$
+225	valid\TestEM2014GT_INKMLs\34_em_226.inkml	$t-s$
+226	valid\TestEM2014GT_INKMLs\34_em_227.inkml	$6588$
+227	valid\TestEM2014GT_INKMLs\34_em_228.inkml	$-y - 5(1)$
+228	valid\TestEM2014GT_INKMLs\34_em_229.inkml	$1 / t$
+229	valid\TestEM2014GT_INKMLs\34_em_230.inkml	$(a+b)^2=a^2+2ab+b^2$
+230	valid\TestEM2014GT_INKMLs\34_em_231.inkml	$q_{eq}=1-p_{eq}$
+231	valid\TestEM2014GT_INKMLs\34_em_232.inkml	${t_{\theta}}^{-1}=t_{-\theta}$
+232	valid\TestEM2014GT_INKMLs\34_em_233.inkml	$f(5)=25=f(-5)$
+233	valid\TestEM2014GT_INKMLs\34_em_234.inkml	$\int^{\pi}_{0}\left(\sin(t)-t\right)dt=2-\frac{1}{2}\pi^2$
+234	valid\TestEM2014GT_INKMLs\34_em_235.inkml	$1 - w$
+235	valid\TestEM2014GT_INKMLs\34_em_236.inkml	$\frac{1}{25}[y^2-8y+16-16]$
+236	valid\TestEM2014GT_INKMLs\34_em_237.inkml	$\frac{(n+1)((n+1)+1)}{2}$
+237	valid\TestEM2014GT_INKMLs\34_em_238.inkml	$x_1+x_2+\cdots+x_n\neq 0$
+238	valid\TestEM2014GT_INKMLs\34_em_239.inkml	$\Delta x\Delta k \geq 1/2$
+239	valid\TestEM2014GT_INKMLs\34_em_240.inkml	$\cos(3x)=4\cos^{3}(x)-3\cos(x)$
+240	valid\TestEM2014GT_INKMLs\34_em_241.inkml	$\phi \left( \phi \left( n \right) \right)$
+241	valid\TestEM2014GT_INKMLs\34_em_242.inkml	$\frac{x^2}{x^2}\frac{x+1}{x+2}$
+242	valid\TestEM2014GT_INKMLs\34_em_243.inkml	$\frac{1}{\sqrt{ \pi}} \sqrt{\pi}=1$
+243	valid\TestEM2014GT_INKMLs\34_em_244.inkml	$\frac{10}{3} = 3.333333333333333\ldots$
+244	valid\TestEM2014GT_INKMLs\34_em_245.inkml	$r \rightarrow\infty$
+245	valid\TestEM2014GT_INKMLs\34_em_246.inkml	${v} = (v_x v_y v_z)$
+246	valid\TestEM2014GT_INKMLs\34_em_247.inkml	$\left( \sum_{k=1}^n a_k \right)^{\frac{1}{2}} \leq \sum_{k=1}^n a_k^{\frac{1}{2}} \!$
+247	valid\TestEM2014GT_INKMLs\34_em_248.inkml	$q_i+a$
+248	valid\TestEM2014GT_INKMLs\34_em_249.inkml	$\frac{2}{n \pi}\left(1 - \cos(n \pi)\right)$
+249	valid\TestEM2014GT_INKMLs\35_em_0.inkml	$299\ 792\ 458$
+250	valid\TestEM2014GT_INKMLs\35_em_1.inkml	$\mathrm{EPE}$
+251	valid\TestEM2014GT_INKMLs\35_em_10.inkml	$g_{ab}$
+252	valid\TestEM2014GT_INKMLs\35_em_11.inkml	$B  =  C_1 + C_2 + \ldots + C_n$
+253	valid\TestEM2014GT_INKMLs\35_em_12.inkml	$\int{\frac{1}{p}} dp = \int{\frac{z}{a}} dt$
+254	valid\TestEM2014GT_INKMLs\35_em_13.inkml	$(x \times x \times x) \times (x \times x)$
+255	valid\TestEM2014GT_INKMLs\35_em_14.inkml	$x^3 (  x - ( 2x + 3 ) (2x - 3) )$
+256	valid\TestEM2014GT_INKMLs\35_em_15.inkml	$1 \times 1 + 1 \times 2 + 2 \times 2$
+257	valid\TestEM2014GT_INKMLs\35_em_16.inkml	$\sum_{m=1}^\infty\sum_{n=1}^\infty\frac{m^2n}{3^m\left(m3^n+n3^m\right)}$
+258	valid\TestEM2014GT_INKMLs\35_em_17.inkml	$x^2+x+1$
+259	valid\TestEM2014GT_INKMLs\35_em_18.inkml	$\pi\int^1_0 x  dx$
+260	valid\TestEM2014GT_INKMLs\35_em_19.inkml	$2\div3$
+261	valid\TestEM2014GT_INKMLs\35_em_2.inkml	${(x + 2y)(x^2 - 2xy + 4y^2)}$
+262	valid\TestEM2014GT_INKMLs\35_em_20.inkml	$\sqrt{38}$
+263	valid\TestEM2014GT_INKMLs\35_em_21.inkml	$- \sin \theta$
+264	valid\TestEM2014GT_INKMLs\35_em_22.inkml	$x - \pi(x)$
+265	valid\TestEM2014GT_INKMLs\35_em_23.inkml	$y =  y_o + m (x - x_o)$
+266	valid\TestEM2014GT_INKMLs\35_em_24.inkml	$\sqrt{(\frac{\Delta x}{x})^2 + (\frac{\Delta y}{y})^2}$
+267	valid\TestEM2014GT_INKMLs\35_em_3.inkml	$\beta(F)$
+268	valid\TestEM2014GT_INKMLs\35_em_4.inkml	$w_1+w_2$
+269	valid\TestEM2014GT_INKMLs\35_em_5.inkml	$E / [E, E]$
+270	valid\TestEM2014GT_INKMLs\35_em_6.inkml	${15} \div {5} = 3$
+271	valid\TestEM2014GT_INKMLs\35_em_7.inkml	$\sin(-45) = -\sin 45$
+272	valid\TestEM2014GT_INKMLs\35_em_8.inkml	$\lim_{z \rightarrow z_0} f(z) = k$
+273	valid\TestEM2014GT_INKMLs\35_em_9.inkml	$\sin(\theta) = \sin\theta$
+274	valid\TestEM2014GT_INKMLs\36_em_25.inkml	$\frac{a^2}{a+\sqrt{a}}$
+275	valid\TestEM2014GT_INKMLs\36_em_26.inkml	$\sum_{n=1}^{5} (2n+1)$
+276	valid\TestEM2014GT_INKMLs\36_em_27.inkml	$f_d = \frac{A_{max}-A}{A_{max}-A_{min}}$
+277	valid\TestEM2014GT_INKMLs\36_em_28.inkml	$12 \div 3$
+278	valid\TestEM2014GT_INKMLs\36_em_29.inkml	$C_1y_1+C_2y_2$
+279	valid\TestEM2014GT_INKMLs\36_em_30.inkml	$\tan \gamma_{i}$
+280	valid\TestEM2014GT_INKMLs\36_em_31.inkml	$\frac{\sqrt{162}}{\sqrt{200}}$
+281	valid\TestEM2014GT_INKMLs\36_em_32.inkml	$\lim_{x \rightarrow 0} f(x)$
+282	valid\TestEM2014GT_INKMLs\36_em_33.inkml	$\beta_0(1)+\beta_1(i)+\beta_2(j)+\beta_3(k)$
+283	valid\TestEM2014GT_INKMLs\36_em_34.inkml	$\sqrt{2}\sqrt{2} = 2$
+284	valid\TestEM2014GT_INKMLs\36_em_35.inkml	$z_1 z_2 \!$
+285	valid\TestEM2014GT_INKMLs\36_em_36.inkml	$L_t = L + L = 2L$
+286	valid\TestEM2014GT_INKMLs\36_em_37.inkml	$-f(-x)$
+287	valid\TestEM2014GT_INKMLs\36_em_38.inkml	$24\pi$
+288	valid\TestEM2014GT_INKMLs\36_em_39.inkml	$\frac{(3)(3+1)}{2} = 6 = 1 + 2 + 3$
+289	valid\TestEM2014GT_INKMLs\36_em_40.inkml	$\frac{15!}{10!5!}$
+290	valid\TestEM2014GT_INKMLs\36_em_41.inkml	$y=C_1y_1+C_2y_2+\ldots+C_ny_n$
+291	valid\TestEM2014GT_INKMLs\36_em_42.inkml	$m \times p$
+292	valid\TestEM2014GT_INKMLs\36_em_43.inkml	$(x^\prime,t^\prime)$
+293	valid\TestEM2014GT_INKMLs\36_em_44.inkml	$p\geq 1$
+294	valid\TestEM2014GT_INKMLs\36_em_45.inkml	$x+(-x)\geq0+(-x)$
+295	valid\TestEM2014GT_INKMLs\36_em_46.inkml	$x\neq 4$
+296	valid\TestEM2014GT_INKMLs\36_em_47.inkml	$70^o$
+297	valid\TestEM2014GT_INKMLs\36_em_48.inkml	$\sum_k j[k]$
+298	valid\TestEM2014GT_INKMLs\36_em_49.inkml	$1.6946961$
+299	valid\TestEM2014GT_INKMLs\37_em_0.inkml	$g_\theta = g  \sin\theta$
+300	valid\TestEM2014GT_INKMLs\37_em_1.inkml	$p_1=-p_2+p_5-p_6$
+301	valid\TestEM2014GT_INKMLs\37_em_10.inkml	$\frac{X}{V}$
+302	valid\TestEM2014GT_INKMLs\37_em_11.inkml	$w^{-2}$
+303	valid\TestEM2014GT_INKMLs\37_em_12.inkml	$u(x_b)=u_b(x_b)$
+304	valid\TestEM2014GT_INKMLs\37_em_13.inkml	$80^o$
+305	valid\TestEM2014GT_INKMLs\37_em_14.inkml	$\lim_{x \rightarrow 0} f(x) = 0$
+306	valid\TestEM2014GT_INKMLs\37_em_15.inkml	$u\geq 0$
+307	valid\TestEM2014GT_INKMLs\37_em_16.inkml	$8\sqrt{5}$
+308	valid\TestEM2014GT_INKMLs\37_em_17.inkml	$a\sqrt b \pm c\sqrt b = \left( {a \pm c} \right)\sqrt b$
+309	valid\TestEM2014GT_INKMLs\37_em_18.inkml	$\frac{x \times x \times x \times x}{x \times x} = x \times x = x^2$
+310	valid\TestEM2014GT_INKMLs\37_em_19.inkml	$-\frac{\sqrt{2-\sqrt{2}}}{2}$
+311	valid\TestEM2014GT_INKMLs\37_em_2.inkml	$\left(\frac{1}{n \pi} - \frac{\cos(n \pi)}{n \pi}\right) + \left(\frac{1}{n \pi} - \frac{\cos(n \pi)}{n \pi}\right)$
+312	valid\TestEM2014GT_INKMLs\37_em_20.inkml	$0.9 - 0.9 = 0$
+313	valid\TestEM2014GT_INKMLs\37_em_21.inkml	$(I-T)^{-1}=I+T+T^2+T^3$
+314	valid\TestEM2014GT_INKMLs\37_em_22.inkml	$\int X(x) e^{- a x } a^x dx$
+315	valid\TestEM2014GT_INKMLs\37_em_23.inkml	$\sum p_i = \sum p_f$
+316	valid\TestEM2014GT_INKMLs\37_em_24.inkml	$\lim_{n\rightarrow\infty}\frac{2}{n}\sum_{i=1}^n\frac{4i^2}{n^2}$
+317	valid\TestEM2014GT_INKMLs\37_em_25.inkml	$\sqrt[x] b$
+318	valid\TestEM2014GT_INKMLs\37_em_26.inkml	$\int_a^b f(x) dx = \int_a^b g(x) dx \!$
+319	valid\TestEM2014GT_INKMLs\37_em_27.inkml	$\alpha, \beta$
+320	valid\TestEM2014GT_INKMLs\37_em_28.inkml	$\sum F_z = 0$
+321	valid\TestEM2014GT_INKMLs\37_em_29.inkml	$\sum F_x$
+322	valid\TestEM2014GT_INKMLs\37_em_3.inkml	$t-6$
+323	valid\TestEM2014GT_INKMLs\37_em_30.inkml	$f(f(x)) = g(g(x))$
+324	valid\TestEM2014GT_INKMLs\37_em_31.inkml	$M = E-e\sin E$
+325	valid\TestEM2014GT_INKMLs\37_em_32.inkml	$a_0+a_1x+a_2x^2+\cdots
+326	valid\TestEM2014GT_INKMLs\37_em_4.inkml	$(a_1\ b_1)(a_1\ b_2)=(a_1\ b_2)(b_1\ b_2)$
+327	valid\TestEM2014GT_INKMLs\37_em_5.inkml	$\frac{\sqrt{2+\sqrt{2}}}{2}$
+328	valid\TestEM2014GT_INKMLs\37_em_6.inkml	$y^\prime (x)$
+329	valid\TestEM2014GT_INKMLs\37_em_7.inkml	$\cos 6 \theta$
+330	valid\TestEM2014GT_INKMLs\37_em_8.inkml	$\tan(3x)=\frac{3\tan(x)-\tan^{3}(x)}{1-3\tan^{2}(x)}$
+331	valid\TestEM2014GT_INKMLs\37_em_9.inkml	$y < b$
+332	valid\TestEM2014GT_INKMLs\500_em_108.inkml	$s\geq 1$
+333	valid\TestEM2014GT_INKMLs\500_em_109.inkml	$b_\mathrm{L}$
+334	valid\TestEM2014GT_INKMLs\500_em_110.inkml	$x=\sum_{i}x_{i}$
+335	valid\TestEM2014GT_INKMLs\501_em_0.inkml	$\int\frac{1}{(ax^2+bx+c)^n}  dx$
+336	valid\TestEM2014GT_INKMLs\501_em_1.inkml	${\sqrt{50}}$
+337	valid\TestEM2014GT_INKMLs\501_em_10.inkml	$P_t=R_t-I_t=(1+i)P_{t-1}+(R_t-R_{t-1})$
+338	valid\TestEM2014GT_INKMLs\501_em_11.inkml	$ F = \{ \{L_{1,1}, \ldots, L_{1,{n_1}}\}, \ldots , \{L_{k,1}, \ldots, L_{k,{n_k}}\} \} $
+339	valid\TestEM2014GT_INKMLs\501_em_12.inkml	$ \frac{T_H^{\frac{f}{2}}V_2}{T_H^{\frac{f}{2}}V_1} = \frac{T_C^{\frac{f}{2}}V_3}{T_C^{\frac{f}{2}}V_4}$
+340	valid\TestEM2014GT_INKMLs\501_em_13.inkml	$y<y\prime $
+341	valid\TestEM2014GT_INKMLs\501_em_14.inkml	$2\pi n!e=2\pi n!+\frac{2\pi n!}{2}+\frac{2\pi n!}{3!}+\frac{2\pi n!}{4!}+\ldots$
+342	valid\TestEM2014GT_INKMLs\501_em_15.inkml	$\frac{29302}{75803} = \frac{7\times 7\times 13\times 46} {7\times 7\times 13\times 119} = \frac{46}{119} $
+343	valid\TestEM2014GT_INKMLs\501_em_16.inkml	$N_{XY}$
+344	valid\TestEM2014GT_INKMLs\501_em_17.inkml	$ \mu \pm \sigma $
+345	valid\TestEM2014GT_INKMLs\501_em_18.inkml	$ \frac{2GMr - 2r^3 \pm r\sqrt{4r^4 - 8GMr^2 + 4G^2M^2 - 4r^4 + 4GMr^2}}{2(r^2 - GM)}$
+346	valid\TestEM2014GT_INKMLs\501_em_19.inkml	$\tan(5x)=\frac{5\tan(x)-10\tan^{3}(x)+\tan^{5}(x)}{1-10\tan^{2}(x)+5\tan^{4}(x)}$
+347	valid\TestEM2014GT_INKMLs\501_em_2.inkml	$m_i, v_i, f_i$
+348	valid\TestEM2014GT_INKMLs\501_em_20.inkml	$q = (x_q, y_q, z_q, w_q)$
+349	valid\TestEM2014GT_INKMLs\501_em_21.inkml	$\theta \rightarrow 0 \!$
+350	valid\TestEM2014GT_INKMLs\501_em_22.inkml	$\forall\gamma\in X$
+351	valid\TestEM2014GT_INKMLs\501_em_23.inkml	$\phi > 0$
+352	valid\TestEM2014GT_INKMLs\501_em_24.inkml	$\log v = b \log 2$
+353	valid\TestEM2014GT_INKMLs\501_em_3.inkml	$k_\mathrm{e}$
+354	valid\TestEM2014GT_INKMLs\501_em_4.inkml	$Sup E \leq Sup F$
+355	valid\TestEM2014GT_INKMLs\501_em_5.inkml	${\sqrt{50}}$
+356	valid\TestEM2014GT_INKMLs\501_em_6.inkml	$f(1.99999)=3.99999$
+357	valid\TestEM2014GT_INKMLs\501_em_7.inkml	$ SSE + SSAB + SSB + SSA $
+358	valid\TestEM2014GT_INKMLs\501_em_8.inkml	$ \sin \alpha \sin \beta = \frac{1}{2}[\cos( \alpha - \beta) - \cos( \alpha + \beta)] $
+359	valid\TestEM2014GT_INKMLs\501_em_9.inkml	$\int \sum_{j=0}^\infty a_jz^j dz = \sum_{j=1}^\infty \frac{a_{j-1}}{j}x^j$
+360	valid\TestEM2014GT_INKMLs\502_em_0.inkml	$63$
+361	valid\TestEM2014GT_INKMLs\502_em_1.inkml	$x^8+x^6+x^4+x^2+1$
+362	valid\TestEM2014GT_INKMLs\502_em_10.inkml	$\beta=1$
+363	valid\TestEM2014GT_INKMLs\502_em_11.inkml	$(1-2^{-s})(1+\frac{1}{2^s}+\frac{1}{3^s}+\frac{1}{4^s}+\frac{1}{5^s}+\ldots)$
+364	valid\TestEM2014GT_INKMLs\502_em_12.inkml	$R_\mathrm{L}$
+365	valid\TestEM2014GT_INKMLs\502_em_13.inkml	$e^x + 18x + 12$
+366	valid\TestEM2014GT_INKMLs\502_em_14.inkml	$p(\alpha )\;=\;\alpha^m+b_{m-2}\alpha^{m-1}+\ldots+b_3\alpha^4+b_1\alpha+b_0$
+367	valid\TestEM2014GT_INKMLs\502_em_15.inkml	$\theta_{i+1} = \theta_i - \alpha_i$
+368	valid\TestEM2014GT_INKMLs\502_em_16.inkml	$\sqrt{v^2-{v_v}^2}=\frac {{v_v}^2}{\sqrt{v^2-{v_v}^2}}$
+369	valid\TestEM2014GT_INKMLs\502_em_17.inkml	$\frac{d}{d\theta}e^{i\theta}=ie^{i\theta}$
+370	valid\TestEM2014GT_INKMLs\502_em_18.inkml	$9{\sqrt{2}}$
+371	valid\TestEM2014GT_INKMLs\502_em_19.inkml	$\frac{a}{b}+\frac{c}{b} = \frac{a+c}{b}$
+372	valid\TestEM2014GT_INKMLs\502_em_2.inkml	$492$
+373	valid\TestEM2014GT_INKMLs\502_em_20.inkml	$\int\frac{1}{y}\frac{dy}{dx}dx=\int adx$
+374	valid\TestEM2014GT_INKMLs\502_em_21.inkml	$a_0+3a_1+9a_2+27a_3=0$
+375	valid\TestEM2014GT_INKMLs\502_em_22.inkml	$2x { ( 9x + 1) } { ( 3x + 1 ) } ^3$
+376	valid\TestEM2014GT_INKMLs\502_em_23.inkml	$0+0+0+0+0+0 = 0$
+377	valid\TestEM2014GT_INKMLs\502_em_24.inkml	$61 \leq x \leq 69$
+378	valid\TestEM2014GT_INKMLs\502_em_3.inkml	${(x - 2)[(x^2 - x) + (5x - 5)]}$
+379	valid\TestEM2014GT_INKMLs\502_em_4.inkml	$\frac{-\infty}{\infty}$
+380	valid\TestEM2014GT_INKMLs\502_em_5.inkml	$z = \cos{\theta} + j\sin{\theta}$
+381	valid\TestEM2014GT_INKMLs\502_em_6.inkml	$u(x, y) = B \sin(n \pi x)\left(e^{n \pi y} - e^{-n \pi y}\right)$
+382	valid\TestEM2014GT_INKMLs\502_em_7.inkml	$\sum_{k=1}^{n} a_k + \sum_{k=1}^{n} b_k$
+383	valid\TestEM2014GT_INKMLs\502_em_8.inkml	$\int_{-\infty}^\infty e^{-w^2}dw = \sqrt{\pi}$
+384	valid\TestEM2014GT_INKMLs\502_em_9.inkml	$\beta=1$
+385	valid\TestEM2014GT_INKMLs\503_em_25.inkml	$\sum Y_i$
+386	valid\TestEM2014GT_INKMLs\503_em_26.inkml	$\lim_{z \rightarrow z_0} f(z)$
+387	valid\TestEM2014GT_INKMLs\503_em_27.inkml	$\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$
+388	valid\TestEM2014GT_INKMLs\503_em_28.inkml	$y^{\frac{1}{b}} \leq x^{\frac{1}{b}}$
+389	valid\TestEM2014GT_INKMLs\503_em_29.inkml	$\sin \phi + c$
+390	valid\TestEM2014GT_INKMLs\503_em_30.inkml	$\frac{-6x}{-6} <  \frac{18}{-6}$
+391	valid\TestEM2014GT_INKMLs\503_em_31.inkml	$-\frac{15\pi}{8}$
+392	valid\TestEM2014GT_INKMLs\503_em_32.inkml	$F \neq H$
+393	valid\TestEM2014GT_INKMLs\503_em_33.inkml	$\mu_{eff}=\mu_0\mu_r$
+394	valid\TestEM2014GT_INKMLs\503_em_34.inkml	$\frac{\sin(k)}{k}$
+395	valid\TestEM2014GT_INKMLs\504_em_35.inkml	$\left(x \times x\right) \times \left(x \times x\right) \times \left(x \times x\right)=x \times x \times x \times x \times x \times x$
+396	valid\TestEM2014GT_INKMLs\504_em_36.inkml	$\frac{112 \div 2}{126 \div 2} = \frac{56}{63}$
+397	valid\TestEM2014GT_INKMLs\504_em_37.inkml	$|y_2 - y_1|$
+398	valid\TestEM2014GT_INKMLs\504_em_38.inkml	$-\frac{\sin(n \pi)}{n \pi} + \frac{\sin(n \pi)}{n \pi}$
+399	valid\TestEM2014GT_INKMLs\504_em_39.inkml	$\frac{\sqrt{27}}{\sqrt[3]{9}}$
+400	valid\TestEM2014GT_INKMLs\504_em_40.inkml	$2^{n-1}+2^{n-2}\cdots 2+1=2^{n}-1$
+401	valid\TestEM2014GT_INKMLs\504_em_41.inkml	$-j = -\sqrt{-1}$
+402	valid\TestEM2014GT_INKMLs\504_em_42.inkml	$\frac{1}{1 - z} = 1 + x + x^2 + \ldots + x^n + \ldots$
+403	valid\TestEM2014GT_INKMLs\504_em_43.inkml	$2 \times 3 \times 4 \times x^2 \times x \times y \times y^3 \times z \times z^2$
+404	valid\TestEM2014GT_INKMLs\504_em_44.inkml	$8_{16}$
+405	valid\TestEM2014GT_INKMLs\504_em_45.inkml	$5x^2 + 2x + 3x + 5 + 7$
+406	valid\TestEM2014GT_INKMLs\504_em_46.inkml	$e^{2x}$
+407	valid\TestEM2014GT_INKMLs\505_em_47.inkml	$\ 5 + 3 = (1 + 1 + 1 + 1 + 1) + (1 + 1 +1)  = 8$
+408	valid\TestEM2014GT_INKMLs\505_em_48.inkml	$(a-x)(d-x)-bc=x^2-(a+d)x+(ad-bc)$
+409	valid\TestEM2014GT_INKMLs\505_em_49.inkml	${1\sqrt{7}+2\sqrt{7}}$
+410	valid\TestEM2014GT_INKMLs\505_em_50.inkml	$\tan(-\theta)=-\tan(\theta)$
+411	valid\TestEM2014GT_INKMLs\505_em_51.inkml	$|x^{\frac{1}{n}} - c^{\frac{1}{n}}| = \frac{|x^{\frac{1}{n}} - c^{\frac{1}{n}}||x^{\frac{n-1}{n}} + x^{\frac{n-2}{n}}c^{\frac{1}{n}} + \cdots + x^{\frac{1}{n}}c^{\frac{n-2}{n}}|}{|x^{\frac{n-1}{n}} + x^{\frac{n-2}{n}}c^{\frac{1}{n}} + \cdots + x^{\frac{1}{n}}c^{\frac{n-2}{n}} + c^{\frac{n-1}{n}}|}$
+412	valid\TestEM2014GT_INKMLs\505_em_52.inkml	$or1$
+413	valid\TestEM2014GT_INKMLs\505_em_53.inkml	$\sigma_x = \sqrt{\sigma_x^2}$
+414	valid\TestEM2014GT_INKMLs\505_em_54.inkml	$\sum_{n=1}^{k}x_nz_n$
+415	valid\TestEM2014GT_INKMLs\505_em_55.inkml	$\int \frac{dv}{v}=\int 2dx$
+416	valid\TestEM2014GT_INKMLs\505_em_56.inkml	$\frac 1 {\sqrt 2} + \frac 1 {\sqrt 2} i$
+417	valid\TestEM2014GT_INKMLs\506_em_57.inkml	$\frac{4}{4}+\frac{4}{4}$
+418	valid\TestEM2014GT_INKMLs\506_em_58.inkml	$\cos \left(x-y\right)=\cos x \cos y + \sin x \sin y$
+419	valid\TestEM2014GT_INKMLs\506_em_59.inkml	$y \in B$
+420	valid\TestEM2014GT_INKMLs\506_em_60.inkml	$bag_1$
+421	valid\TestEM2014GT_INKMLs\506_em_61.inkml	$\sqrt{\sqrt{\sqrt{4^{4!}}}}$
+422	valid\TestEM2014GT_INKMLs\506_em_62.inkml	$a^2+a=a^2+a+1-1=-1$
+423	valid\TestEM2014GT_INKMLs\506_em_63.inkml	${\sqrt{x}}{\sqrt{y}}={{\sqrt{x}{y}}}$
+424	valid\TestEM2014GT_INKMLs\506_em_64.inkml	${\sqrt{7}+2\sqrt{7}}$
+425	valid\TestEM2014GT_INKMLs\506_em_65.inkml	$x+\pi y+6\pi z=3\pi$
+426	valid\TestEM2014GT_INKMLs\506_em_66.inkml	$2 \leq A \leq 4$
+427	valid\TestEM2014GT_INKMLs\506_em_67.inkml	$\lim_{n\rightarrow\infty}\frac{8}{n^3}\sum_{i=1}^ni^2$
+428	valid\TestEM2014GT_INKMLs\507_em_68.inkml	$3x^3 e^{3x}$
+429	valid\TestEM2014GT_INKMLs\507_em_69.inkml	$c = \frac{w}{2} - \frac{w^2}{4}$
+430	valid\TestEM2014GT_INKMLs\507_em_70.inkml	$-\infty \leq x \leq \infty$
+431	valid\TestEM2014GT_INKMLs\507_em_71.inkml	$\sum_{n=1}^{10000} (10001-n)^{-2}$
+432	valid\TestEM2014GT_INKMLs\507_em_72.inkml	$\frac{1}{3}(b-a)(b^2+ab+a^2)$
+433	valid\TestEM2014GT_INKMLs\507_em_73.inkml	$a(t)=\int a^{(1)}dt=\int a^{(1)}_0dt$
+434	valid\TestEM2014GT_INKMLs\507_em_74.inkml	$\cos 4 \theta + i \sin 4 \theta = { ( \cos \theta + i \sin \theta ) }^4$
+435	valid\TestEM2014GT_INKMLs\507_em_75.inkml	$\left[ b \right]$
+436	valid\TestEM2014GT_INKMLs\507_em_76.inkml	$4\times4+4+4 \!$
+437	valid\TestEM2014GT_INKMLs\507_em_77.inkml	$\sqrt[3]{(2)(9)(12)} = \sqrt[3]{216} = 6$
+438	valid\TestEM2014GT_INKMLs\508_em_78.inkml	$2^2{b_2} + 2{b_1} + b_0$
+439	valid\TestEM2014GT_INKMLs\508_em_79.inkml	$\frac{{a^2}-a\sqrt{a}} {a-1}$
+440	valid\TestEM2014GT_INKMLs\508_em_80.inkml	$\mathrm{M}_2$
+441	valid\TestEM2014GT_INKMLs\508_em_81.inkml	$c_1+c_2+c_3$
+442	valid\TestEM2014GT_INKMLs\508_em_82.inkml	$-abx-b^2y+a^2y+abz=0$
+443	valid\TestEM2014GT_INKMLs\508_em_83.inkml	$(a_1 b_3 - a_3 b_1)$
+444	valid\TestEM2014GT_INKMLs\508_em_84.inkml	$z = a + bj$
+445	valid\TestEM2014GT_INKMLs\508_em_85.inkml	$9.8$
+446	valid\TestEM2014GT_INKMLs\508_em_86.inkml	$\sqrt{45} = \sqrt{ 9 \times 5} = 3 \sqrt{5}$
+447	valid\TestEM2014GT_INKMLs\508_em_87.inkml	$v_v=v \sin \theta \;$
+448	valid\TestEM2014GT_INKMLs\508_em_88.inkml	$f(a)f(b)=f(a+b)$
+449	valid\TestEM2014GT_INKMLs\509_em_89.inkml	$(21 + 7j) \div 7 = 21 \div 7 + 7j \div 7 = 3 + j$
+450	valid\TestEM2014GT_INKMLs\509_em_90.inkml	$\pm\sqrt{6}$
+451	valid\TestEM2014GT_INKMLs\509_em_91.inkml	$\mu < 6$
+452	valid\TestEM2014GT_INKMLs\509_em_92.inkml	$\lim_{x \rightarrow \infty} p_k(x) = \infty \!$
+453	valid\TestEM2014GT_INKMLs\509_em_93.inkml	$\left|S\right|$
+454	valid\TestEM2014GT_INKMLs\509_em_94.inkml	$b_1B_1 + b_2B_2 + b_3B_3$
+455	valid\TestEM2014GT_INKMLs\509_em_95.inkml	$e_{PVT}$
+456	valid\TestEM2014GT_INKMLs\509_em_96.inkml	$x,y,z,t$
+457	valid\TestEM2014GT_INKMLs\509_em_97.inkml	$(d - 1)(d + 1) \!$
+458	valid\TestEM2014GT_INKMLs\509_em_98.inkml	$\sigma_p = \sqrt {\sigma_p^2}$
+459	valid\TestEM2014GT_INKMLs\509_em_99.inkml	$\int\frac{x\;dx}{s^3} = -\frac{1}{s}$
+460	valid\TestEM2014GT_INKMLs\510_em_100.inkml	$\int \frac{dx}{x} + \int \frac{2}{x+1} dx$
+461	valid\TestEM2014GT_INKMLs\510_em_101.inkml	$\frac{6 \div 2}{10 \div 2} = \frac{3}{5}$
+462	valid\TestEM2014GT_INKMLs\510_em_102.inkml	$mv$
+463	valid\TestEM2014GT_INKMLs\510_em_103.inkml	$\int x \sin x  dx$
+464	valid\TestEM2014GT_INKMLs\510_em_104.inkml	$u^2 = {u_1}^2 + {u_2}^2 + {u_3}^2 \!$
+465	valid\TestEM2014GT_INKMLs\510_em_105.inkml	$\frac{4}{3}$
+466	valid\TestEM2014GT_INKMLs\510_em_106.inkml	$\sqrt{ab} = \sqrt{a}\sqrt{b}$
+467	valid\TestEM2014GT_INKMLs\510_em_107.inkml	$\sqrt{ab} = \sqrt{a}\sqrt{b}$
+468	valid\TestEM2014GT_INKMLs\511_em_250.inkml	$\mbox{ rot }$
+469	valid\TestEM2014GT_INKMLs\511_em_251.inkml	$ \frac{3}{7} - \frac{2}{7} = \frac{1}{7}$
+470	valid\TestEM2014GT_INKMLs\511_em_252.inkml	$n (-1)^n$
+471	valid\TestEM2014GT_INKMLs\511_em_253.inkml	$X_{fg}$
+472	valid\TestEM2014GT_INKMLs\511_em_254.inkml	$(-1)^3 - 1 = -1 - 1 = -2$
+473	valid\TestEM2014GT_INKMLs\511_em_255.inkml	$ [A]A$
+474	valid\TestEM2014GT_INKMLs\511_em_256.inkml	${(x^4 + 4x^2 + 4) - 4x^2}$
+475	valid\TestEM2014GT_INKMLs\511_em_257.inkml	$Hz$
+476	valid\TestEM2014GT_INKMLs\511_em_258.inkml	$\sum_{i=1}^n a_i$
+477	valid\TestEM2014GT_INKMLs\511_em_259.inkml	$\sin x+\sin y=2\sin \left( \frac{x+y}{2} \right) \cos \left( \frac{x-y}{2} \right) $
+478	valid\TestEM2014GT_INKMLs\511_em_260.inkml	$\int I dt$
+479	valid\TestEM2014GT_INKMLs\511_em_262.inkml	$\lim_{n\rightarrow\infty}\frac{x^3}{n^3}\frac{2n^3+3n^2+n}{6}$
+480	valid\TestEM2014GT_INKMLs\511_em_264.inkml	$(e^8-9)/9$
+481	valid\TestEM2014GT_INKMLs\511_em_265.inkml	$b_\mathrm{R}$
+482	valid\TestEM2014GT_INKMLs\511_em_266.inkml	$\mathrm{F^1_0}\!$
+483	valid\TestEM2014GT_INKMLs\511_em_267.inkml	$\frac{\sqrt{a}}{\sqrt{b}} = \sqrt{\frac{a}{b}}$
+484	valid\TestEM2014GT_INKMLs\511_em_268.inkml	$ \log(1+x) $
+485	valid\TestEM2014GT_INKMLs\511_em_269.inkml	$\sum_{k=2}^{100} (-1)^k \frac{1}{k^2}$
+486	valid\TestEM2014GT_INKMLs\511_em_270.inkml	$ \frac{1}{2} \int_{1}^{5}\cos(u)du $
+487	valid\TestEM2014GT_INKMLs\511_em_271.inkml	$f+g$
+488	valid\TestEM2014GT_INKMLs\511_em_272.inkml	$ \tan (- \theta)= -\tan \theta $
+489	valid\TestEM2014GT_INKMLs\511_em_273.inkml	$\ x = \beta$
+490	valid\TestEM2014GT_INKMLs\511_em_274.inkml	$x^8+x^4+1$
+491	valid\TestEM2014GT_INKMLs\512_em_275.inkml	$3m$
+492	valid\TestEM2014GT_INKMLs\512_em_276.inkml	$ y_{i+1} = y_i + \int_{x_i}^{x_{i+1}} f dx \!$
+493	valid\TestEM2014GT_INKMLs\512_em_277.inkml	$ab^2+a(b-c)-bc^2$
+494	valid\TestEM2014GT_INKMLs\512_em_278.inkml	$\sqrt{75}$
+495	valid\TestEM2014GT_INKMLs\512_em_279.inkml	$ \frac{z^{-1} (1 + 4 z^{-1} + z^{-2} )}{(1-z^{-1})^4} $
+496	valid\TestEM2014GT_INKMLs\512_em_280.inkml	$3.00000003$
+497	valid\TestEM2014GT_INKMLs\512_em_281.inkml	$\frac{p}{t}$
+498	valid\TestEM2014GT_INKMLs\512_em_282.inkml	$\sqrt[3]{x^2}$
+499	valid\TestEM2014GT_INKMLs\512_em_283.inkml	${x^2+2xy+y^2=(x+y)^2}$
+500	valid\TestEM2014GT_INKMLs\512_em_284.inkml	$ (6)(6)(6) = 216 $
+501	valid\TestEM2014GT_INKMLs\512_em_285.inkml	$X_n^2$
+502	valid\TestEM2014GT_INKMLs\512_em_286.inkml	$\frac {e^a} {e^b} = e^{a-b}$
+503	valid\TestEM2014GT_INKMLs\512_em_287.inkml	${{\sqrt{17}}\div{\sqrt{5}}}$
+504	valid\TestEM2014GT_INKMLs\512_em_288.inkml	$2 \mbox{ m}$
+505	valid\TestEM2014GT_INKMLs\512_em_289.inkml	$\frac{1}{8}$
+506	valid\TestEM2014GT_INKMLs\512_em_290.inkml	$2\sum_{x=1}^n x - \sum_{x=1}^n 1$
+507	valid\TestEM2014GT_INKMLs\512_em_291.inkml	$2.9999$
+508	valid\TestEM2014GT_INKMLs\512_em_292.inkml	$\int \left(\sin(t)-t\right)dt=-\cos(t)-\frac{1}{2}{t}^{2}$
+509	valid\TestEM2014GT_INKMLs\512_em_293.inkml	$\lim_{n\rightarrow\infty}\frac{4}{3}\frac{2n^2+3n+1}{n^2}$
+510	valid\TestEM2014GT_INKMLs\512_em_294.inkml	$4x = x+x+x+x$
+511	valid\TestEM2014GT_INKMLs\512_em_295.inkml	$ a,\ldots,f $
+512	valid\TestEM2014GT_INKMLs\512_em_296.inkml	$\mathrm{kg}$
+513	valid\TestEM2014GT_INKMLs\512_em_297.inkml	$ \mbox{all }z $
+514	valid\TestEM2014GT_INKMLs\512_em_298.inkml	$\frac{1}{5} + \frac{3}{5} = \frac{1+3}{5} = \frac{4}{5}$
+515	valid\TestEM2014GT_INKMLs\512_em_299.inkml	$p(1-p)$
+516	valid\TestEM2014GT_INKMLs\513_em_300.inkml	$\log_{a}xy = \log_{a}x + \log_{a}y $
+517	valid\TestEM2014GT_INKMLs\513_em_301.inkml	$\sin(-B) = -\sin B$
+518	valid\TestEM2014GT_INKMLs\513_em_302.inkml	$c\geq b$
+519	valid\TestEM2014GT_INKMLs\513_em_303.inkml	$\frac{2}{\sqrt{3} - 1} \times \frac{\sqrt{3}+1}{\sqrt{3}+1} = \frac{2\left(\sqrt{3}+ 1\right)}{3-1} = \sqrt{3}+1 $
+520	valid\TestEM2014GT_INKMLs\513_em_304.inkml	$\pi d\ = 2\pi r$
+521	valid\TestEM2014GT_INKMLs\513_em_305.inkml	$ \cos (\beta) $
+522	valid\TestEM2014GT_INKMLs\513_em_306.inkml	$R_\mathrm{f}$
+523	valid\TestEM2014GT_INKMLs\513_em_307.inkml	${x(x^2 - 2xy + 4y^2) + 2y(x^2 - 2xy + 4y^2)}$
+524	valid\TestEM2014GT_INKMLs\513_em_308.inkml	$[a][b]=[ab]$
+525	valid\TestEM2014GT_INKMLs\513_em_309.inkml	$(c+id) (c-id)$
+526	valid\TestEM2014GT_INKMLs\513_em_310.inkml	$8 + 7$
+527	valid\TestEM2014GT_INKMLs\513_em_311.inkml	$10^\frac{1}{10}$
+528	valid\TestEM2014GT_INKMLs\513_em_312.inkml	${ ( \cos \theta + i \sin \theta ) }^n = \cos n \theta + i \sin n \theta$
+529	valid\TestEM2014GT_INKMLs\513_em_313.inkml	$\mathrm{P_1}\!$
+530	valid\TestEM2014GT_INKMLs\513_em_314.inkml	$\int_{-1}^1 (f(z)-1/2)^2 dx$
+531	valid\TestEM2014GT_INKMLs\513_em_316.inkml	$\lim F_{x_n}(a) = F_x(a)$
+532	valid\TestEM2014GT_INKMLs\513_em_317.inkml	$\frac{7x}{7}  = \frac{14}{7}$
+533	valid\TestEM2014GT_INKMLs\513_em_318.inkml	$z-w\neq w-z$
+534	valid\TestEM2014GT_INKMLs\513_em_319.inkml	$x > A$
+535	valid\TestEM2014GT_INKMLs\513_em_320.inkml	$kN$
+536	valid\TestEM2014GT_INKMLs\513_em_321.inkml	$q_1, q_2, \ldots , q_m$
+537	valid\TestEM2014GT_INKMLs\513_em_322.inkml	$x_{LL}\leq x_{L}$
+538	valid\TestEM2014GT_INKMLs\513_em_323.inkml	$\sum \pi r^2 = \pi \sum r^2$
+539	valid\TestEM2014GT_INKMLs\513_em_324.inkml	$\sqrt {a } + \sqrt {b}$
+540	valid\TestEM2014GT_INKMLs\514_em_325.inkml	$\frac{x \times x \times x \times x \times x}{x \times x \times x}$
+541	valid\TestEM2014GT_INKMLs\514_em_326.inkml	$\frac{1}{6}\int \frac{u^6}{2} du + \frac{1}{6} \int \frac{2u^5}{2}$
+542	valid\TestEM2014GT_INKMLs\514_em_327.inkml	$n \rightarrow \infty$
+543	valid\TestEM2014GT_INKMLs\514_em_328.inkml	$a^p + b^p = c^p$
+544	valid\TestEM2014GT_INKMLs\514_em_329.inkml	$(1-1)^3+1^3<\frac{1}{4}2^4<1^3+2^3$
+545	valid\TestEM2014GT_INKMLs\514_em_330.inkml	$\!\mathrm{kg}$
+546	valid\TestEM2014GT_INKMLs\514_em_331.inkml	$ a + (-b) = (-b) + a $
+547	valid\TestEM2014GT_INKMLs\514_em_332.inkml	$20x - 8y = 20$
+548	valid\TestEM2014GT_INKMLs\514_em_333.inkml	$\beta_{n+1}$
+549	valid\TestEM2014GT_INKMLs\514_em_334.inkml	$\sum_{n=1}^{10} (2n+1)- \sum_{n=1}^{4} (2n+1)$
+550	valid\TestEM2014GT_INKMLs\514_em_335.inkml	$\frac{\sqrt{2-\sqrt{2}}}{2}$
+551	valid\TestEM2014GT_INKMLs\514_em_336.inkml	$\mathrm{d}s$
+552	valid\TestEM2014GT_INKMLs\514_em_337.inkml	$\!VV^{-1}$
+553	valid\TestEM2014GT_INKMLs\514_em_338.inkml	$8z^7 + 24cz^5 + 24c^2z^3 + 8cz^3 + 8c^3z + 8c^2z$
+554	valid\TestEM2014GT_INKMLs\514_em_339.inkml	$ \frac{f(a) - f(b)}{a-b}$
+555	valid\TestEM2014GT_INKMLs\514_em_340.inkml	$-1001y=-999$
+556	valid\TestEM2014GT_INKMLs\514_em_341.inkml	$\tan \alpha_i$
+557	valid\TestEM2014GT_INKMLs\514_em_342.inkml	$\sqrt {x} = \frac {x} {\sqrt {x}}$
+558	valid\TestEM2014GT_INKMLs\514_em_343.inkml	$ -e^{x} \cos (x) + \int e^{x} \cos (x) dx$
+559	valid\TestEM2014GT_INKMLs\514_em_344.inkml	$H=H_1+H_2+\ldots$
+560	valid\TestEM2014GT_INKMLs\514_em_345.inkml	$\frac{\pm \infty}{\pm \infty}$
+561	valid\TestEM2014GT_INKMLs\514_em_346.inkml	$\!\mathrm{m}^2$
+562	valid\TestEM2014GT_INKMLs\514_em_347.inkml	$r=\lim \frac{|a_n|}{|a_{n+1}|}$
+563	valid\TestEM2014GT_INKMLs\514_em_348.inkml	$\frac{-2y}{x^2-y^2} = \frac{-2y}{x^2-y^2}$
+564	valid\TestEM2014GT_INKMLs\515_em_350.inkml	$\sin (\beta)  $
+565	valid\TestEM2014GT_INKMLs\515_em_351.inkml	$1 = 1(1)(1) $
+566	valid\TestEM2014GT_INKMLs\515_em_352.inkml	$AA^T = A^TA$
+567	valid\TestEM2014GT_INKMLs\515_em_353.inkml	$a(b+k)=ab+ak$
+568	valid\TestEM2014GT_INKMLs\515_em_354.inkml	$4\sqrt{3}$
+569	valid\TestEM2014GT_INKMLs\515_em_355.inkml	$\frac{1}{1}-\frac{1}{n+1}=\frac{n}{n+1}$
+570	valid\TestEM2014GT_INKMLs\515_em_356.inkml	$x \rightarrow 0 \!$
+571	valid\TestEM2014GT_INKMLs\515_em_357.inkml	$x_i \leq x \leq x_{i+1} \!$
+572	valid\TestEM2014GT_INKMLs\515_em_358.inkml	$f(t)g(t)$
+573	valid\TestEM2014GT_INKMLs\515_em_359.inkml	$(4/3,2/3,4/3)$
+574	valid\TestEM2014GT_INKMLs\515_em_360.inkml	$\mathrm{C}^{\alpha}$
+575	valid\TestEM2014GT_INKMLs\515_em_361.inkml	${\sqrt{7}+2\sqrt{7}}={1\sqrt{7}+2\sqrt{7}}={3\sqrt{7}}$
+576	valid\TestEM2014GT_INKMLs\515_em_362.inkml	$v \geq 0$
+577	valid\TestEM2014GT_INKMLs\515_em_363.inkml	$\frac{d_2}{d_2-2}\!$
+578	valid\TestEM2014GT_INKMLs\515_em_364.inkml	$\sin x-\sin y=2\cos \left( \frac{x+y}{2} \right) $
+579	valid\TestEM2014GT_INKMLs\515_em_365.inkml	$\frac{16}{16} - \frac{1}{16}$
+580	valid\TestEM2014GT_INKMLs\515_em_366.inkml	$a_0 \ldots a_n $
+581	valid\TestEM2014GT_INKMLs\515_em_367.inkml	$(\tan x -3)(\tan x +1) = 0$
+582	valid\TestEM2014GT_INKMLs\515_em_368.inkml	$\mathrm{Im}$
+583	valid\TestEM2014GT_INKMLs\515_em_369.inkml	$a^2+ab+ba+b^2=a+b$
+584	valid\TestEM2014GT_INKMLs\515_em_370.inkml	$ x_{B5} $
+585	valid\TestEM2014GT_INKMLs\515_em_371.inkml	$\frac {1}{4\pi E_0}$
+586	valid\TestEM2014GT_INKMLs\515_em_372.inkml	$\int { -9e^{-3x}} dx$
+587	valid\TestEM2014GT_INKMLs\515_em_373.inkml	$\mathrm{R_1}$
+588	valid\TestEM2014GT_INKMLs\515_em_374.inkml	$\sin(\theta) + i\cos(\theta)$
+589	valid\TestEM2014GT_INKMLs\516_em_376.inkml	$2^{-4}$
+590	valid\TestEM2014GT_INKMLs\516_em_377.inkml	$ \frac{1}{2}x + \frac{1}{2} - \frac{1}{2} = \frac{1}{2}- \frac{1}{2} $
+591	valid\TestEM2014GT_INKMLs\516_em_378.inkml	$5j + 3j$
+592	valid\TestEM2014GT_INKMLs\516_em_379.inkml	$\lim_{n \rightarrow \infty} f_n(x) =0 \!$
+593	valid\TestEM2014GT_INKMLs\516_em_380.inkml	$4 + 4 - 4 + {\sqrt4}$
+594	valid\TestEM2014GT_INKMLs\516_em_382.inkml	$ 0 = X^3 + 2X^2 - X + 1 $
+595	valid\TestEM2014GT_INKMLs\516_em_383.inkml	$ r(x) $
+596	valid\TestEM2014GT_INKMLs\516_em_384.inkml	$x_k xy_k + y_k yy_k$
+597	valid\TestEM2014GT_INKMLs\516_em_385.inkml	$\int [g(x)]^n d[g(x)]$
+598	valid\TestEM2014GT_INKMLs\516_em_386.inkml	$\{a\}$
+599	valid\TestEM2014GT_INKMLs\516_em_387.inkml	$\ 5 - 3 = (1+1+1+1+1) - (1+1+1) = 2 $
+600	valid\TestEM2014GT_INKMLs\516_em_388.inkml	$\sqrt{\alpha^2 - \beta^2} t$
+601	valid\TestEM2014GT_INKMLs\516_em_389.inkml	$ 92.08553692\ldots \ $
+602	valid\TestEM2014GT_INKMLs\516_em_390.inkml	$\frac{a}{b}$
+603	valid\TestEM2014GT_INKMLs\516_em_392.inkml	$ -\sqrt{z-c} ,  +\sqrt{z-c} $
+604	valid\TestEM2014GT_INKMLs\516_em_393.inkml	$\!\mathrm{Nm}$
+605	valid\TestEM2014GT_INKMLs\516_em_394.inkml	$\int f(ax) dx = \frac{1}{a} \int f(x)  dx$
+606	valid\TestEM2014GT_INKMLs\516_em_395.inkml	$n\neq 0$
+607	valid\TestEM2014GT_INKMLs\516_em_396.inkml	$\left( \frac{a}{b} \right)^{n}=\frac{a^n}{b^n}$
+608	valid\TestEM2014GT_INKMLs\516_em_397.inkml	${v_1}^2 + 2v_1v_2 + {v_2}^2 = {v_1}^2 + {v_2}^2$
+609	valid\TestEM2014GT_INKMLs\516_em_398.inkml	$\sin \left(x-y\right)=\sin x \cos y - \cos x \sin y$
+610	valid\TestEM2014GT_INKMLs\516_em_399.inkml	$\frac{3}{8}$
+611	valid\TestEM2014GT_INKMLs\517_em_400.inkml	$\frac{a + b}{2}$
+612	valid\TestEM2014GT_INKMLs\517_em_401.inkml	$x(t)=x_0(t)$
+613	valid\TestEM2014GT_INKMLs\517_em_402.inkml	$\frac{p}{q}$
+614	valid\TestEM2014GT_INKMLs\517_em_403.inkml	$i_1 -i_2 - i_3 -i_0 = 0$
+615	valid\TestEM2014GT_INKMLs\517_em_404.inkml	$\mathrm{Pa}$
+616	valid\TestEM2014GT_INKMLs\517_em_405.inkml	$4 + 4 +\frac{4}{\sqrt4}$
+617	valid\TestEM2014GT_INKMLs\517_em_406.inkml	$\sum b_n$
+618	valid\TestEM2014GT_INKMLs\517_em_407.inkml	$\log_{b} a = \frac{\log_{c} a}{\log_{c} b}$
+619	valid\TestEM2014GT_INKMLs\517_em_408.inkml	$\theta_1, \ldots,   \theta_n$
+620	valid\TestEM2014GT_INKMLs\517_em_409.inkml	$1(1) = (1)( \frac{1}{1} )$
+621	valid\TestEM2014GT_INKMLs\517_em_410.inkml	$\mathrm{C}^{\beta}$
+622	valid\TestEM2014GT_INKMLs\517_em_411.inkml	$B + B = B$
+623	valid\TestEM2014GT_INKMLs\517_em_412.inkml	${(x^2 + 2x + 2)(x^2 - 2x + 2)}$
+624	valid\TestEM2014GT_INKMLs\517_em_413.inkml	$\frac{9 + 3\sqrt{65}}{-56}$
+625	valid\TestEM2014GT_INKMLs\518_em_414.inkml	$\lim_{z\rightarrow z_0} f(z)=f(z_0)$
+626	valid\TestEM2014GT_INKMLs\518_em_415.inkml	$lu_1$
+627	valid\TestEM2014GT_INKMLs\518_em_416.inkml	${x^3+8y^3}$
+628	valid\TestEM2014GT_INKMLs\518_em_417.inkml	$\frac{d}{dx}\sqrt{x}=\frac{1}{2\sqrt x}$
+629	valid\TestEM2014GT_INKMLs\518_em_418.inkml	$ r \! \times \! n $
+630	valid\TestEM2014GT_INKMLs\518_em_419.inkml	$ p^\alpha - p^{\alpha - 1} \ $
+631	valid\TestEM2014GT_INKMLs\518_em_420.inkml	$\frac{3 \div 3}{9 \div 3} = \frac{1}{3}$
+632	valid\TestEM2014GT_INKMLs\518_em_421.inkml	$\sum F_y$
+633	valid\TestEM2014GT_INKMLs\518_em_422.inkml	$a_n = a_{n}-2 + a_{n-1} + 1$
+634	valid\TestEM2014GT_INKMLs\518_em_423.inkml	$ u_{\mathrm{m}} $
+635	valid\TestEM2014GT_INKMLs\518_em_424.inkml	$2 \tan x$
+636	valid\TestEM2014GT_INKMLs\518_em_425.inkml	$\left (\sin(x)\right )^{2}+\left (\cos(x)\right )^{2}$
+637	valid\TestEM2014GT_INKMLs\518_em_426.inkml	$\pi \int_{-R}^R R^2dx-\pi\int_{-R}^R x^2dx$
+638	valid\TestEM2014GT_INKMLs\518_em_427.inkml	${\sqrt{7}+\sqrt{28}}$
+639	valid\TestEM2014GT_INKMLs\518_em_428.inkml	$1110\ 0011_2$
+640	valid\TestEM2014GT_INKMLs\518_em_429.inkml	$ \infty \times \infty = \infty $
+641	valid\TestEM2014GT_INKMLs\518_em_430.inkml	$\frac{4+4+4}{4}$
+642	valid\TestEM2014GT_INKMLs\518_em_431.inkml	$ax - by = 5t + by - by $
+643	valid\TestEM2014GT_INKMLs\518_em_432.inkml	$q\geq 1$
+644	valid\TestEM2014GT_INKMLs\518_em_433.inkml	$\mathrm{M}^n$
+645	valid\TestEM2014GT_INKMLs\518_em_434.inkml	$\sum_{r=1}^n r^2 = \frac{1}{6}n\left(2n+1\right)\left(n+1\right)$
+646	valid\TestEM2014GT_INKMLs\518_em_435.inkml	$e^\phi + \frac 2 {\phi^3} - 3 \phi$
+647	valid\TestEM2014GT_INKMLs\518_em_436.inkml	$E(c)$
+648	valid\TestEM2014GT_INKMLs\518_em_437.inkml	$ |x+y| \leq |x| + |y| $
+649	valid\TestEM2014GT_INKMLs\518_em_438.inkml	$\frac{2}{\sqrt{2-\sqrt{2}}}$
+650	valid\TestEM2014GT_INKMLs\519_em_439.inkml	$-k(ka_{i,j}+a_{i,j})+ka_{i,j}+a_{i,j}$
+651	valid\TestEM2014GT_INKMLs\519_em_440.inkml	$\frac{8993}{7873}$
+652	valid\TestEM2014GT_INKMLs\519_em_441.inkml	$\frac{1}{\tan\left(\theta\right)} = \frac{\cos\left(\theta\right)}{\sin\left(\theta\right)}$
+653	valid\TestEM2014GT_INKMLs\519_em_442.inkml	$t^{\prime}=t$
+654	valid\TestEM2014GT_INKMLs\519_em_443.inkml	$121 = 1x10^2 + 2x10^1 + 1x10^0 = 100 + 20 + 1$
+655	valid\TestEM2014GT_INKMLs\519_em_444.inkml	$x^{\frac{a}{b}} = \sqrt[b]{x^a} = {\sqrt[b]{x}}^a$
+656	valid\TestEM2014GT_INKMLs\519_em_445.inkml	$\!\mathrm{Ns}$
+657	valid\TestEM2014GT_INKMLs\519_em_447.inkml	$ \frac{252 - 2}{5} $
+658	valid\TestEM2014GT_INKMLs\519_em_448.inkml	$\left (  \left ( \frac{1}{4} \left ( 3 \right )^4 - 3 \left ( 3 \right )^2 \right ) - \left ( \frac{1}{4} \left ( 2 \right )^4 - 3 \left ( 2 \right )^2 \right )  \right )$
+659	valid\TestEM2014GT_INKMLs\519_em_450.inkml	$z\rightarrow -z$
+660	valid\TestEM2014GT_INKMLs\519_em_451.inkml	$x = 2 \times 3 \times 5 \times \ldots \times n \!$
+661	valid\TestEM2014GT_INKMLs\519_em_452.inkml	$- \frac {1} {6 x^6} + c$
+662	valid\TestEM2014GT_INKMLs\519_em_454.inkml	$\int f(x)-g(x)dx = \int f(x)dx- \int g(x)dx$
+663	valid\TestEM2014GT_INKMLs\519_em_456.inkml	$\sin 2a = 2 \sin a \cos a$
+664	valid\TestEM2014GT_INKMLs\519_em_457.inkml	$\sqrt{x-16}=\sqrt{7-16}=\sqrt{-9}$
+665	valid\TestEM2014GT_INKMLs\519_em_458.inkml	$\frac{ac + b}{c} $
+666	valid\TestEM2014GT_INKMLs\519_em_459.inkml	$ 1 = \frac{Y}{Y}$
+667	valid\TestEM2014GT_INKMLs\519_em_460.inkml	$2x+4y+8z-3x-7y-2z+4x$
+668	valid\TestEM2014GT_INKMLs\519_em_461.inkml	$\frac{\alpha}{2} - \frac{\alpha +1}{2} = \frac{1}{2}$
+669	valid\TestEM2014GT_INKMLs\519_em_462.inkml	$\sum_{r=1}^{n} r$
+670	valid\TestEM2014GT_INKMLs\519_em_463.inkml	$\mathrm{P_0}\!$
+671	valid\TestEM2014GT_INKMLs\520_em_464.inkml	$\forall \lambda \in [\lambda_0,\lambda_\infty ],\exists \lambda_i$
+672	valid\TestEM2014GT_INKMLs\520_em_465.inkml	$h(s)=\frac{1}{1+sT}$
+673	valid\TestEM2014GT_INKMLs\520_em_466.inkml	$\lambda (t) = \lambda_0 (1-e ^{-\frac{t}{\lambda}})$
+674	valid\TestEM2014GT_INKMLs\520_em_467.inkml	$\exists  h, h^2 = a^2 + b^2$
+675	valid\TestEM2014GT_INKMLs\RIT_2014_1.inkml	$ k \lt 1 $
+676	valid\TestEM2014GT_INKMLs\RIT_2014_10.inkml	$ A + A + B + B + C $
+677	valid\TestEM2014GT_INKMLs\RIT_2014_100.inkml	$ a \geq b $
+678	valid\TestEM2014GT_INKMLs\RIT_2014_101.inkml	$ \frac {1} {2} (1 - \sqrt {\frac {\gamma} {1 + \gamma _ {0}}}) $
+679	valid\TestEM2014GT_INKMLs\RIT_2014_102.inkml	$ m ^ {'} + N = \lbrack m ^ {'} \rbrack $
+680	valid\TestEM2014GT_INKMLs\RIT_2014_103.inkml	$ \frac {1 - 2 a} {1 + a} = \frac {1 - 2 b} {1 + b} $
+681	valid\TestEM2014GT_INKMLs\RIT_2014_104.inkml	$ - 2 \leq x \leq 2 $
+682	valid\TestEM2014GT_INKMLs\RIT_2014_105.inkml	$ \sin \theta _ {1} \sin \theta _ {2} $
+683	valid\TestEM2014GT_INKMLs\RIT_2014_106.inkml	$ \sin 6 \theta $
+684	valid\TestEM2014GT_INKMLs\RIT_2014_107.inkml	$ \sum \limits ^ {\infty} _ {n = 1} \frac {(- 1) ^ {n}} {\sin n} $
+685	valid\TestEM2014GT_INKMLs\RIT_2014_108.inkml	$ \frac {2 ^ {2} + 7} {2 ^ {5} 7 ^ {2}} $
+686	valid\TestEM2014GT_INKMLs\RIT_2014_109.inkml	$ e ^ {z} + \frac {z ^ {8}} {2} + \frac {6} {z ^ {3}} $
+687	valid\TestEM2014GT_INKMLs\RIT_2014_11.inkml	$ n _ {N} = N _ {N} $
+688	valid\TestEM2014GT_INKMLs\RIT_2014_110.inkml	$ f ^ {7} _ {a} $
+689	valid\TestEM2014GT_INKMLs\RIT_2014_111.inkml	$ p ^ {\beta _ {1}} _ {1} p ^ {\beta 2} _ {2} \ldots p ^ {\beta n} _ {n} $
+690	valid\TestEM2014GT_INKMLs\RIT_2014_112.inkml	$ s _ {1} $
+691	valid\TestEM2014GT_INKMLs\RIT_2014_113.inkml	$ \int \sin (x) \sin (2 x) d x $
+692	valid\TestEM2014GT_INKMLs\RIT_2014_114.inkml	$ i \neq 1 $
+693	valid\TestEM2014GT_INKMLs\RIT_2014_115.inkml	$ G _ {e q} $
+694	valid\TestEM2014GT_INKMLs\RIT_2014_116.inkml	$ \frac {a} {b + \sqrt {c}} = \frac {a} {b + \sqrt {c}} \times \frac {b - \sqrt {c}} {b - \sqrt {c}} $
+695	valid\TestEM2014GT_INKMLs\RIT_2014_117.inkml	$ \frac {1} {\lbrack (k + 1) \pi \rbrack} $
+696	valid\TestEM2014GT_INKMLs\RIT_2014_118.inkml	$ a \neq b $
+697	valid\TestEM2014GT_INKMLs\RIT_2014_119.inkml	$ n ^ {3} - n + 3 $
+698	valid\TestEM2014GT_INKMLs\RIT_2014_12.inkml	$ k _ {n + 1} = n ^ {2} + k ^ {2} _ {n} - k _ {n - 1} $
+699	valid\TestEM2014GT_INKMLs\RIT_2014_120.inkml	$ \sqrt {67} $
+700	valid\TestEM2014GT_INKMLs\RIT_2014_121.inkml	$ f (z) = z $
+701	valid\TestEM2014GT_INKMLs\RIT_2014_122.inkml	$ 18 z $
+702	valid\TestEM2014GT_INKMLs\RIT_2014_123.inkml	$ \int ^ {x _ {i}} _ {x _ {i - 1}} f (x) d x $
+703	valid\TestEM2014GT_INKMLs\RIT_2014_124.inkml	$ \pi e \sqrt {x} $
+704	valid\TestEM2014GT_INKMLs\RIT_2014_125.inkml	$ z + w $
+705	valid\TestEM2014GT_INKMLs\RIT_2014_126.inkml	$ \frac {1} {1 - z ^ {- 1}} $
+706	valid\TestEM2014GT_INKMLs\RIT_2014_127.inkml	$ q _ {=} q _ {1} q _ {2} $
+707	valid\TestEM2014GT_INKMLs\RIT_2014_128.inkml	$ F _ {2} = 2 ^ {2 ^ {2}} + 1 = 17 $
+708	valid\TestEM2014GT_INKMLs\RIT_2014_129.inkml	$ \int ^ {b} _ {2} f d \alpha $
+709	valid\TestEM2014GT_INKMLs\RIT_2014_13.inkml	$ \lbrack P \rbrack $
+710	valid\TestEM2014GT_INKMLs\RIT_2014_130.inkml	$ 8 - 7 $
+711	valid\TestEM2014GT_INKMLs\RIT_2014_131.inkml	$ \sqrt {91} $
+712	valid\TestEM2014GT_INKMLs\RIT_2014_132.inkml	$ 1 m $
+713	valid\TestEM2014GT_INKMLs\RIT_2014_133.inkml	$ 0 \leq x \leq 2 \Pi $
+714	valid\TestEM2014GT_INKMLs\RIT_2014_134.inkml	$ (a + x) - (b + y) = (a - b) $
+715	valid\TestEM2014GT_INKMLs\RIT_2014_135.inkml	$ b ^ {\log _ {b} X} = X $
+716	valid\TestEM2014GT_INKMLs\RIT_2014_136.inkml	$ F _ {1}, \ldots, F _ {k} $
+717	valid\TestEM2014GT_INKMLs\RIT_2014_137.inkml	$ 1 - d = (1 - \frac {d ^ {(m)}} {m}) ^ {m} $
+718	valid\TestEM2014GT_INKMLs\RIT_2014_138.inkml	$ \frac {\frac {\sqrt {3}} {2}} {\frac {1} {2}} = \sqrt {3} $
+719	valid\TestEM2014GT_INKMLs\RIT_2014_139.inkml	$ M _ {1} $
+720	valid\TestEM2014GT_INKMLs\RIT_2014_14.inkml	$ \sum f _ {x} = 0 $
+721	valid\TestEM2014GT_INKMLs\RIT_2014_140.inkml	$ \sum a _ {n} $
+722	valid\TestEM2014GT_INKMLs\RIT_2014_141.inkml	$ u d u = - \frac {d y} {2 y ^ {2}} $
+723	valid\TestEM2014GT_INKMLs\RIT_2014_142.inkml	$ \frac {1} {\sqrt {k + 1}} $
+724	valid\TestEM2014GT_INKMLs\RIT_2014_143.inkml	$ | x \parallel y | = | x y | $
+725	valid\TestEM2014GT_INKMLs\RIT_2014_144.inkml	$ y ^ {4} - 9 y ^ {2} - 18 + e ^ {y} $
+726	valid\TestEM2014GT_INKMLs\RIT_2014_145.inkml	$ \int \frac {d y} {d x} d x = \int (x ^ {2} + 7) d x $
+727	valid\TestEM2014GT_INKMLs\RIT_2014_146.inkml	$ a _ {11} a _ {22} - a _ {12} a _ {2 _ {1}} $
+728	valid\TestEM2014GT_INKMLs\RIT_2014_147.inkml	$ (a (b ^ {2})) + (d ^ {3}) $
+729	valid\TestEM2014GT_INKMLs\RIT_2014_148.inkml	$ \frac {5} {6} \neq \frac {4} {3} $
+730	valid\TestEM2014GT_INKMLs\RIT_2014_149.inkml	$ \frac {\sin z} {z} $
+731	valid\TestEM2014GT_INKMLs\RIT_2014_15.inkml	$ \sum \limits ^ {\infty} _ {n = 1} x _ {n} $
+732	valid\TestEM2014GT_INKMLs\RIT_2014_150.inkml	$ \cos \theta = \frac {e ^ {i \theta} + e ^ {- i \theta}} {2} $
+733	valid\TestEM2014GT_INKMLs\RIT_2014_151.inkml	$ 15 \pi $
+734	valid\TestEM2014GT_INKMLs\RIT_2014_152.inkml	$ 44 - \frac {4} {4} $
+735	valid\TestEM2014GT_INKMLs\RIT_2014_153.inkml	$ \log _ {b} b ^ {x} = X $
+736	valid\TestEM2014GT_INKMLs\RIT_2014_154.inkml	$ \frac {1} {9} $
+737	valid\TestEM2014GT_INKMLs\RIT_2014_155.inkml	$ y - z $
+738	valid\TestEM2014GT_INKMLs\RIT_2014_156.inkml	$ - 1 $
+739	valid\TestEM2014GT_INKMLs\RIT_2014_157.inkml	$ C H _ {2} = C H C H _ {2} C H _ {2} C H _ {3} $
+740	valid\TestEM2014GT_INKMLs\RIT_2014_158.inkml	$ \sum \limits ^ {\infty} _ {i = 1} \frac {1} {2} $
+741	valid\TestEM2014GT_INKMLs\RIT_2014_159.inkml	$ \frac {(X) (X) (X) (X) (X)} {(X)} $
+742	valid\TestEM2014GT_INKMLs\RIT_2014_16.inkml	$ \sqrt {2} + \sqrt {8} $
+743	valid\TestEM2014GT_INKMLs\RIT_2014_160.inkml	$ \sigma _ {a}, \sigma _ {m} $
+744	valid\TestEM2014GT_INKMLs\RIT_2014_161.inkml	$ x ^ {2} y ^ {3} + 2 x ^ {2} y + 4 x y ^ {3} + 8 x y $
+745	valid\TestEM2014GT_INKMLs\RIT_2014_162.inkml	$ \frac {\sum ^ {m} _ {i = 0} b ^ {i} s ^ {i}} {\sum ^ {n} _ {i = 0} a ^ {i} s ^ {i}} $
+746	valid\TestEM2014GT_INKMLs\RIT_2014_163.inkml	$ \frac {4 x ^ {2} - 9} {4 x ^ {2} + 12 x + 9} $
+747	valid\TestEM2014GT_INKMLs\RIT_2014_164.inkml	$ n - n _ {1} - \ldots - n _ {p _ {- 1}} $
+748	valid\TestEM2014GT_INKMLs\RIT_2014_165.inkml	$ p ^ {\beta _ {1}} _ {1} p ^ {\beta 2} _ {2} \ldots p ^ {\beta n} _ {n} $
+749	valid\TestEM2014GT_INKMLs\RIT_2014_166.inkml	$ \tan (3 a) = \frac {3 \tan a - \tan ^ {3} a} {1 - 3 \tan ^ {2} a} $
+750	valid\TestEM2014GT_INKMLs\RIT_2014_167.inkml	$ \sqrt {c ^ {2}} = \sqrt {810000 + 562500} $
+751	valid\TestEM2014GT_INKMLs\RIT_2014_168.inkml	$ 2 \pi n ! e = 2 \pi n ! + \frac {2 \pi n !} {2} + \frac {2 \pi n !} {3 !} + \frac {2 \pi n ^ {!}} {4 !} + \ldots $
+752	valid\TestEM2014GT_INKMLs\RIT_2014_169.inkml	$ \beta _ {j + 1} $
+753	valid\TestEM2014GT_INKMLs\RIT_2014_17.inkml	$ P _ {1} P _ {3} $
+754	valid\TestEM2014GT_INKMLs\RIT_2014_170.inkml	$ \sin x - \sin y = 2 \cos (\frac {x + y} {2}) \sin (\frac {x - y} {2}) $
+755	valid\TestEM2014GT_INKMLs\RIT_2014_171.inkml	$ \frac {((j)) ((j) + 1)} {2} + (j + 1) $
+756	valid\TestEM2014GT_INKMLs\RIT_2014_172.inkml	$ \frac {\sin (\pi) - \sin (0)} {\pi - 0} = 0 $
+757	valid\TestEM2014GT_INKMLs\RIT_2014_173.inkml	$ p _ {i} = \frac {q _ {i} + a} {\sum (q _ {i} + c)} $
+758	valid\TestEM2014GT_INKMLs\RIT_2014_174.inkml	$ \frac {7} {6} y _ {n} (- y _ {n + 1} + 2 y _ {n} - y _ {n - 1}) $
+759	valid\TestEM2014GT_INKMLs\RIT_2014_175.inkml	$ \cos (\sigma) > 1 - 2 (\frac {\sigma} {2}) ^ {2} = 1 - \frac {\sigma ^ {2}} {2} $
+760	valid\TestEM2014GT_INKMLs\RIT_2014_176.inkml	$ 18 z $
+761	valid\TestEM2014GT_INKMLs\RIT_2014_177.inkml	$ Y _ {1} + Y _ {2} + Y _ {3} + \ldots + Y _ {n} $
+762	valid\TestEM2014GT_INKMLs\RIT_2014_178.inkml	$ x ^ {\frac {p} {q}} = \sqrt {x ^ {p}} ABOVE {q} = \sqrt {x ^ {p}} ABOVE {q} $
+763	valid\TestEM2014GT_INKMLs\RIT_2014_179.inkml	$ y = 3 x + 7 + \frac {x + 8} {x} $
+764	valid\TestEM2014GT_INKMLs\RIT_2014_18.inkml	$ \int d _ {X} = \int g t d t $
+765	valid\TestEM2014GT_INKMLs\RIT_2014_180.inkml	$ \sqrt {a} \sqrt {- a} = \sqrt {- a ^ {2}} = j \sqrt {a ^ {2}} $
+766	valid\TestEM2014GT_INKMLs\RIT_2014_181.inkml	$ \lim \limits _ {b \rightarrow \infty} f (b) $
+767	valid\TestEM2014GT_INKMLs\RIT_2014_182.inkml	$ \sum \limits ^ {\infty} _ {i = 1} (a _ {i} - b _ {i}) ^ {2} $
+768	valid\TestEM2014GT_INKMLs\RIT_2014_183.inkml	$ \lim \limits _ {x \rightarrow \infty} p _ {2} (x) > 0 $
+769	valid\TestEM2014GT_INKMLs\RIT_2014_184.inkml	$ \lim \limits _ {b \rightarrow \infty} f (b) = 0 $
+770	valid\TestEM2014GT_INKMLs\RIT_2014_185.inkml	$ \lim \limits _ {n \rightarrow \infty} n \sin (\frac {2 ^ {\pi}} {n + 1}) - \lim \limits _ {n \rightarrow \infty} n \frac {2 \pi} {n + 1} - 2 \pi $
+771	valid\TestEM2014GT_INKMLs\RIT_2014_186.inkml	$ \sin (3 x) = - 4 \sin ^ {3} (x) + 3 \sin (x) $
+772	valid\TestEM2014GT_INKMLs\RIT_2014_187.inkml	$ 1 m $
+773	valid\TestEM2014GT_INKMLs\RIT_2014_188.inkml	$ \cos (x + y) - \cos x \cos y - \sin x \sin y $
+774	valid\TestEM2014GT_INKMLs\RIT_2014_189.inkml	$ \sqrt {648 + 648} ABOVE {4} + 8 $
+775	valid\TestEM2014GT_INKMLs\RIT_2014_19.inkml	$ 2 ^ {2 ^ {2 ^ {65536}}} - 3 $
+776	valid\TestEM2014GT_INKMLs\RIT_2014_190.inkml	$ B \sin (n \pi y) _ {=} \sin (\pi y) + \frac {1} {5} \sin (3 \pi y) $
+777	valid\TestEM2014GT_INKMLs\RIT_2014_191.inkml	$ x \lbrack \infty \rbrack = \lim \limits _ {z \rightarrow 1}} (z - 1) x (z) $
+778	valid\TestEM2014GT_INKMLs\RIT_2014_192.inkml	$ \frac {\log _ {b} x} {\log _ {b} a} $
+779	valid\TestEM2014GT_INKMLs\RIT_2014_193.inkml	$ E _ {t o t} = \sum \limits _ {n} E _ {n} $
+780	valid\TestEM2014GT_INKMLs\RIT_2014_194.inkml	$ x ^ {2} (x - 1) (x ^ {2} + x + 1) + (x ^ {2} + x + 1) $
+781	valid\TestEM2014GT_INKMLs\RIT_2014_195.inkml	$ \sqrt {\sqrt {x} ABOVE {n}} ABOVE {m} $
+782	valid\TestEM2014GT_INKMLs\RIT_2014_196.inkml	$ \int \sin ^ {2} x d x $
+783	valid\TestEM2014GT_INKMLs\RIT_2014_197.inkml	$ k _ {i} = \frac {x _ {i}} {\sum x _ {i}} $
+784	valid\TestEM2014GT_INKMLs\RIT_2014_198.inkml	$ | x \parallel y | = | x y | $
+785	valid\TestEM2014GT_INKMLs\RIT_2014_199.inkml	$ X _ {t _ {2}} - X _ {t _ {1}}, \ldots, X _ {t _ {n}} - X _ {t _ {n - 1}} $
+786	valid\TestEM2014GT_INKMLs\RIT_2014_2.inkml	$ \lim\limits _ {x \rightarrow c} f (x) = L $
+787	valid\TestEM2014GT_INKMLs\RIT_2014_20.inkml	$ \lbrack e \rbrack $
+788	valid\TestEM2014GT_INKMLs\RIT_2014_200.inkml	$ \lim \limits _ {n \rightarrow \infty} y _ {n} = 0 $
+789	valid\TestEM2014GT_INKMLs\RIT_2014_201.inkml	$ \cos 3 \theta = 4 \cos ^ {3} \theta - 3 \cos \theta $
+790	valid\TestEM2014GT_INKMLs\RIT_2014_202.inkml	$ c _ {1} x _ {1} + c _ {2} x _ {2} + \ldots + c _ {m} x _ {m} $
+791	valid\TestEM2014GT_INKMLs\RIT_2014_203.inkml	$ \frac {\pi r ^ {2}} {2 \pi} $
+792	valid\TestEM2014GT_INKMLs\RIT_2014_204.inkml	$ 47474 + 5272 = 52746 $
+793	valid\TestEM2014GT_INKMLs\RIT_2014_205.inkml	$ \sigma _ {a}, \sigma _ {m} $
+794	valid\TestEM2014GT_INKMLs\RIT_2014_206.inkml	$ (a - b) - c = a - (b + c) = a + (- b - c) $
+795	valid\TestEM2014GT_INKMLs\RIT_2014_207.inkml	$ \sum \limits ^ {n} _ {i = 1} \lbrack i ^ {k + 1} - (i - 1) ^ {k + 1} \rbrack = n ^ {k + 1} $
+796	valid\TestEM2014GT_INKMLs\RIT_2014_208.inkml	$ \sum \limits ^ {1} _ {k = 1} a _ {k} = a _ {1} $
+797	valid\TestEM2014GT_INKMLs\RIT_2014_209.inkml	$ \int 3 \sin x d x $
+798	valid\TestEM2014GT_INKMLs\RIT_2014_21.inkml	$ \sum \limits ^ {n + 1} _ {i = 1} i $
+799	valid\TestEM2014GT_INKMLs\RIT_2014_210.inkml	$ \frac {1} {4} + \frac {2} {5} = \frac {1 \times 5} {4 \times 5} + \frac {2 \times 4} {5 \times 4} = \frac {5} {20} + \frac {8} {20} $
+800	valid\TestEM2014GT_INKMLs\RIT_2014_211.inkml	$ \lim \limits _ {n \rightarrow \infty} \frac {2} {n} \sum \limits ^ {n} _ {i = 1} (\frac {2 i} {n}) ^ {2} $
+801	valid\TestEM2014GT_INKMLs\RIT_2014_212.inkml	$ t _ {0} \leq t \leq b $
+802	valid\TestEM2014GT_INKMLs\RIT_2014_213.inkml	$ \tan x - \tan y = \frac {\sin (x - y)} {\cos x \cos y} $
+803	valid\TestEM2014GT_INKMLs\RIT_2014_214.inkml	$ \sum \limits ^ {n + 1} _ {i = 1} i = \sum \limits ^ {n} _ {i = 1} i + (n + 1) = \frac {n (n + 1)} {2} + n + 1 $
+804	valid\TestEM2014GT_INKMLs\RIT_2014_215.inkml	$ (- \frac {1} {2} - \frac {\sqrt {3}} {2} i) (- \frac {1} {2} + \frac {\sqrt {3}} {2} i) $
+805	valid\TestEM2014GT_INKMLs\RIT_2014_216.inkml	$ \lim \limits _ {y \rightarrow x}} f (y) = f (x) $
+806	valid\TestEM2014GT_INKMLs\RIT_2014_217.inkml	$ v _ {\pm 1, \pm 2 _ {}, \pm 3} $
+807	valid\TestEM2014GT_INKMLs\RIT_2014_218.inkml	$ \frac {\sin A + \sin 3 A} {\cos A + \cos 3 A} = \tan 2 A $
+808	valid\TestEM2014GT_INKMLs\RIT_2014_219.inkml	$ m / q $
+809	valid\TestEM2014GT_INKMLs\RIT_2014_22.inkml	$ 3.00000001 $
+810	valid\TestEM2014GT_INKMLs\RIT_2014_220.inkml	$ x ^ {n - 1} + x ^ {n - 2} + \ldots + x ^ {2} + x + 1 $
+811	valid\TestEM2014GT_INKMLs\RIT_2014_221.inkml	$ A + B + B = A + B $
+812	valid\TestEM2014GT_INKMLs\RIT_2014_222.inkml	$ \frac {1} {(x + 1) (x + 2) ^ {2}} = \frac {1} {x + 1} \frac {1} {x + 2} - \frac {1} {(x + 2) ^ {2}} $
+813	valid\TestEM2014GT_INKMLs\RIT_2014_223.inkml	$ \sin (4 x) = 4 \sin (x) \cos ^ {3} (x) - 4 \sin ^ {3} (x) \cos (x) $
+814	valid\TestEM2014GT_INKMLs\RIT_2014_224.inkml	$ \pm \frac {0.05} {50} = \pm 0.001 $
+815	valid\TestEM2014GT_INKMLs\RIT_2014_225.inkml	$ d (x, y) + d (y _ {}, z) \geq d (x _ {}, z) $
+816	valid\TestEM2014GT_INKMLs\RIT_2014_226.inkml	$ b ^ {- 1} c ^ {- 1} = b ^ {- 1} a ^ {- 1} $
+817	valid\TestEM2014GT_INKMLs\RIT_2014_227.inkml	$ (x ^ {3} - 2 x ^ {2} y + 4 x y ^ {2}) + (2 x ^ {2} y - 4 x y ^ {2} + 8 y ^ {3}) $
+818	valid\TestEM2014GT_INKMLs\RIT_2014_228.inkml	$ \int u ^ {8} \frac {d u} {12} $
+819	valid\TestEM2014GT_INKMLs\RIT_2014_229.inkml	$ \frac {d} {d \theta} \sqrt {\theta} = \frac {1} {2 \sqrt {\theta}} $
+820	valid\TestEM2014GT_INKMLs\RIT_2014_23.inkml	$ 1 s ^ {2} 2 s ^ {2} 2 p ^ {1} $
+821	valid\TestEM2014GT_INKMLs\RIT_2014_230.inkml	$ (x ^ {2} + 2) ^ {2} - (2 x) ^ {2} $
+822	valid\TestEM2014GT_INKMLs\RIT_2014_231.inkml	$ 3 \sqrt {7} $
+823	valid\TestEM2014GT_INKMLs\RIT_2014_232.inkml	$ \sqrt {\frac {9.81} {l}} = \pi $
+824	valid\TestEM2014GT_INKMLs\RIT_2014_233.inkml	$ A ^ {T} $
+825	valid\TestEM2014GT_INKMLs\RIT_2014_234.inkml	$ \frac {1 - \sqrt {3}} {1 + \sqrt {3}} $
+826	valid\TestEM2014GT_INKMLs\RIT_2014_235.inkml	$ \lim \limits _ {x \rightarrow c} f (x) $
+827	valid\TestEM2014GT_INKMLs\RIT_2014_236.inkml	$ n \neq a $
+828	valid\TestEM2014GT_INKMLs\RIT_2014_237.inkml	$ y ^ {4} + y ^ {3} + y ^ {2} + 1 = 0 $
+829	valid\TestEM2014GT_INKMLs\RIT_2014_238.inkml	$ r ^ {- k} $
+830	valid\TestEM2014GT_INKMLs\RIT_2014_239.inkml	$ \frac {z ^ {- 1} (1 + z ^ {- 1})} {(1 - z ^ {- 1}) ^ {3}} $
+831	valid\TestEM2014GT_INKMLs\RIT_2014_24.inkml	$ \frac {n + 1 - 1} {n + 1} = \frac {n} {n + 1} $
+832	valid\TestEM2014GT_INKMLs\RIT_2014_240.inkml	$ | z - z _ {1} | = | z - z _ {2} | $
+833	valid\TestEM2014GT_INKMLs\RIT_2014_241.inkml	$ \sqrt {a} \sqrt {a} = a $
+834	valid\TestEM2014GT_INKMLs\RIT_2014_242.inkml	$ \{ a _ {1}, a _ { 2 }, a _ {3}, a _ {4} \} $
+835	valid\TestEM2014GT_INKMLs\RIT_2014_243.inkml	$ \sum \limits ^ {10} _ {n = 5} (2 _ {n} + 1) $
+836	valid\TestEM2014GT_INKMLs\RIT_2014_244.inkml	$ 1 x ^ {3} + 3 x ^ {2 _ {+}} 3 x + 1 $
+837	valid\TestEM2014GT_INKMLs\RIT_2014_245.inkml	$ b ^ {3} - 3 / 2 b $
+838	valid\TestEM2014GT_INKMLs\RIT_2014_246.inkml	$ 7588 $
+839	valid\TestEM2014GT_INKMLs\RIT_2014_247.inkml	$ 1 \pm \sqrt {2} $
+840	valid\TestEM2014GT_INKMLs\RIT_2014_248.inkml	$ \frac {2 - p} {\sqrt {1 - p}} $
+841	valid\TestEM2014GT_INKMLs\RIT_2014_249.inkml	$ N - 1 $
+842	valid\TestEM2014GT_INKMLs\RIT_2014_25.inkml	$ \sin (t) / \cos (t) = \sin (t) / \cos (t) $
+843	valid\TestEM2014GT_INKMLs\RIT_2014_250.inkml	$ R _ {r l} $
+844	valid\TestEM2014GT_INKMLs\RIT_2014_251.inkml	$ \frac {\sqrt {6} + \sqrt {2}} {4} $
+845	valid\TestEM2014GT_INKMLs\RIT_2014_252.inkml	$ \cos \alpha + i \sin \alpha $
+846	valid\TestEM2014GT_INKMLs\RIT_2014_253.inkml	$ (y ^ {\frac {1} {b}}) ^ {b} \leq (x ^ {\frac {1} {b}}) ^ {b} $
+847	valid\TestEM2014GT_INKMLs\RIT_2014_254.inkml	$ \frac {1} {2} \div \frac {3} {4} $
+848	valid\TestEM2014GT_INKMLs\RIT_2014_255.inkml	$ m _ {k} = p _ {k} - p _ {k - 1} $
+849	valid\TestEM2014GT_INKMLs\RIT_2014_256.inkml	$ c _ {1}, c _ {2 }, \ldots , c _ {m }, c _ {m + 1} $
+850	valid\TestEM2014GT_INKMLs\RIT_2014_257.inkml	$ \frac {11} {3} \sqrt {3} $
+851	valid\TestEM2014GT_INKMLs\RIT_2014_258.inkml	$ \frac {1} {2} \frac {1} {4} \frac {1} {8} \frac {1} {16} $
+852	valid\TestEM2014GT_INKMLs\RIT_2014_259.inkml	$ - \sum \limits _ {i} P _ {i} \log _ {n} P _ {i} $
+853	valid\TestEM2014GT_INKMLs\RIT_2014_26.inkml	$ a - \frac {3} {a} + \frac {1} {a ^ {2} + 1} $
+854	valid\TestEM2014GT_INKMLs\RIT_2014_260.inkml	$ \beta \neq 0 $
+855	valid\TestEM2014GT_INKMLs\RIT_2014_261.inkml	$ d \neq 0 $
+856	valid\TestEM2014GT_INKMLs\RIT_2014_262.inkml	$ 2 x ^ {2} + 8 x + 8 - 6 $
+857	valid\TestEM2014GT_INKMLs\RIT_2014_263.inkml	$ x _ {1} = a _ {11} y _ {1} + a _ {12} y _ {2} $
+858	valid\TestEM2014GT_INKMLs\RIT_2014_264.inkml	$ \frac {38 \sqrt {9 x - 38}} {9} + C $
+859	valid\TestEM2014GT_INKMLs\RIT_2014_265.inkml	$ u u _ {x} + u _ {y} + u _ {t} = y $
+860	valid\TestEM2014GT_INKMLs\RIT_2014_266.inkml	$ \sum \alpha = 3 p = - 21 $
+861	valid\TestEM2014GT_INKMLs\RIT_2014_267.inkml	$ \int ^ {c} _ {a} f + \int ^ {b} _ {c} f = \int ^ {b} _ {a} f $
+862	valid\TestEM2014GT_INKMLs\RIT_2014_268.inkml	$ \int \frac {1} {x} \sqrt {\frac {1 - x} {x}} d x $
+863	valid\TestEM2014GT_INKMLs\RIT_2014_269.inkml	$ B B ^ {- 1} $
+864	valid\TestEM2014GT_INKMLs\RIT_2014_27.inkml	$ \log _ {b} (y ^ {a}) = a \log _ {b} (y) $
+865	valid\TestEM2014GT_INKMLs\RIT_2014_270.inkml	$ c \neq 2 $
+866	valid\TestEM2014GT_INKMLs\RIT_2014_271.inkml	$ \log _ {u} N $
+867	valid\TestEM2014GT_INKMLs\RIT_2014_272.inkml	$ 40 $
+868	valid\TestEM2014GT_INKMLs\RIT_2014_273.inkml	$ \frac {1} {3} + \frac {2} {3} = \frac {3} {3} $
+869	valid\TestEM2014GT_INKMLs\RIT_2014_274.inkml	$ \alpha (a b) = (\alpha a) b = a (\alpha b) $
+870	valid\TestEM2014GT_INKMLs\RIT_2014_275.inkml	$ s \neq 1 $
+871	valid\TestEM2014GT_INKMLs\RIT_2014_276.inkml	$ \sigma = \frac {1} {2} n / 1 _ {1} + \frac {1} {2} n / ^ {- y} _ {22} 12 $
+872	valid\TestEM2014GT_INKMLs\RIT_2014_277.inkml	$ m, n $
+873	valid\TestEM2014GT_INKMLs\RIT_2014_278.inkml	$ \lim \frac {| a _ {n + 1} x |} {| a _ {n} |} > 1 $
+874	valid\TestEM2014GT_INKMLs\RIT_2014_279.inkml	$ 4 - 4 + 4 - \sqrt {4} $
+875	valid\TestEM2014GT_INKMLs\RIT_2014_28.inkml	$ \sqrt {\frac {5} {4}} = \frac {\sqrt {5}} {\sqrt {4}} = \frac {\sqrt {5}} {2} $
+876	valid\TestEM2014GT_INKMLs\RIT_2014_280.inkml	$ \sqrt {9} + \sqrt {16} $
+877	valid\TestEM2014GT_INKMLs\RIT_2014_281.inkml	$ 100, 000 $
+878	valid\TestEM2014GT_INKMLs\RIT_2014_282.inkml	$ \frac {3 x} {3} + \frac {1} {3} = \frac {4} {3} $
+879	valid\TestEM2014GT_INKMLs\RIT_2014_283.inkml	$ s = 25857 $
+880	valid\TestEM2014GT_INKMLs\RIT_2014_284.inkml	$ - 39 $
+881	valid\TestEM2014GT_INKMLs\RIT_2014_285.inkml	$ m i l l i $
+882	valid\TestEM2014GT_INKMLs\RIT_2014_286.inkml	$ x ^ {2} - y ^ {2} = x ^ {2} + x y + y ^ {2} - x y - 2 y ^ {2} + x y - x y $
+883	valid\TestEM2014GT_INKMLs\RIT_2014_287.inkml	$ \log x - \log y = \log (\frac {x} {y}) $
+884	valid\TestEM2014GT_INKMLs\RIT_2014_288.inkml	$ log (\frac {a} {b}) = log (a) - log (b) $
+885	valid\TestEM2014GT_INKMLs\RIT_2014_289.inkml	$ - | y | \leq y \leq | y | $
+886	valid\TestEM2014GT_INKMLs\RIT_2014_29.inkml	$ - 7 $
+887	valid\TestEM2014GT_INKMLs\RIT_2014_290.inkml	$ \sum \limits ^ {N} _ {k = 1} a _ {n} \leq \sum \limits ^ {N} _ {k = 1} b _ {n} \leq \sum \limits ^ {\infty} _ {n = 1} b _ {n} $
+888	valid\TestEM2014GT_INKMLs\RIT_2014_291.inkml	$ \mu m $
+889	valid\TestEM2014GT_INKMLs\RIT_2014_292.inkml	$ x - 8 $
+890	valid\TestEM2014GT_INKMLs\RIT_2014_293.inkml	$ \tan (2 x) = \frac {2 \tan (x)} {1 - \tan ^ {2} (x)} $
+891	valid\TestEM2014GT_INKMLs\RIT_2014_294.inkml	$ - | y | \leq y \leq | y | $
+892	valid\TestEM2014GT_INKMLs\RIT_2014_295.inkml	$ \lim \limits _ {y \rightarrow x} f (x) $
+893	valid\TestEM2014GT_INKMLs\RIT_2014_296.inkml	$ \theta + e \alpha $
+894	valid\TestEM2014GT_INKMLs\RIT_2014_297.inkml	$ (z + 1) (z + 2) $
+895	valid\TestEM2014GT_INKMLs\RIT_2014_298.inkml	$ \Delta ^ {k x} $
+896	valid\TestEM2014GT_INKMLs\RIT_2014_299.inkml	$ 897 $
+897	valid\TestEM2014GT_INKMLs\RIT_2014_3.inkml	$ d = \frac {2 r \tan a \tan b} {\tan a + \tan b} $
+898	valid\TestEM2014GT_INKMLs\RIT_2014_30.inkml	$ \frac {a z ^ {- 1} (1 + a z ^ {- 1})} {(1 - a z ^ {- 1}) 3} $
+899	valid\TestEM2014GT_INKMLs\RIT_2014_300.inkml	$ \log _ {a} x - \log _ {a} y = \log _ {a} \frac {x} {y} $
+900	valid\TestEM2014GT_INKMLs\RIT_2014_301.inkml	$ 1 + 1 = 2 \lbrack \frac {1 (1 + 1)} {2} \rbrack ^ {9} = 2 $
+901	valid\TestEM2014GT_INKMLs\RIT_2014_302.inkml	$ \pm \sqrt {\frac {15} {16}} $
+902	valid\TestEM2014GT_INKMLs\RIT_2014_303.inkml	$ p \geq 3 $
+903	valid\TestEM2014GT_INKMLs\RIT_2014_304.inkml	$ \lim \limits _ {x \rightarrow - \infty} P _ {k + 1} (x) \lt 0 $
+904	valid\TestEM2014GT_INKMLs\RIT_2014_305.inkml	$ \frac {\pi} {\alpha} $
+905	valid\TestEM2014GT_INKMLs\RIT_2014_306.inkml	$ (a + b) u = a u + b v $
+906	valid\TestEM2014GT_INKMLs\RIT_2014_307.inkml	$ \sqrt {98} $
+907	valid\TestEM2014GT_INKMLs\RIT_2014_308.inkml	$ F (b) - F (a) $
+908	valid\TestEM2014GT_INKMLs\RIT_2014_309.inkml	$ \frac {\sqrt {x}} {2} - \sqrt {3} ABOVE {\sqrt} BELOW {2 \sqrt {x}} $
+909	valid\TestEM2014GT_INKMLs\RIT_2014_31.inkml	$ y ^ {2}, \sqrt {y} \cos y $
+910	valid\TestEM2014GT_INKMLs\RIT_2014_310.inkml	$ y \leq z $
+911	valid\TestEM2014GT_INKMLs\RIT_2014_311.inkml	$ \int y d x $
+912	valid\TestEM2014GT_INKMLs\RIT_2014_312.inkml	$ \sum \limits ^ {n} _ {i = 1} a ^ {2} = a ^ {2} \sum \limits ^ {n} _ {i = 1} 1 = n a ^ {2} $
+913	valid\TestEM2014GT_INKMLs\RIT_2014_32.inkml	$ \int \sin x d x $
+914	valid\TestEM2014GT_INKMLs\RIT_2014_33.inkml	$ \tan 2 u = \frac {2 \tan u} {1 - \tan ^ {2} u} $
+915	valid\TestEM2014GT_INKMLs\RIT_2014_34.inkml	$ B F F S $
+916	valid\TestEM2014GT_INKMLs\RIT_2014_35.inkml	$ \theta + c $
+917	valid\TestEM2014GT_INKMLs\RIT_2014_36.inkml	$ A + A = A $
+918	valid\TestEM2014GT_INKMLs\RIT_2014_37.inkml	$ \cos (z) + i \sin (z) $
+919	valid\TestEM2014GT_INKMLs\RIT_2014_38.inkml	$ - \frac {11} {12} y _ {n + 1} + \frac {5} {3} y _ {n} - \frac {1} {2} y _ {n - 1} - \frac {1} {3} y _ {n - 2} + \frac {1} {12} y _ {n - 3} $
+920	valid\TestEM2014GT_INKMLs\RIT_2014_39.inkml	$ \sqrt {- 4} $
+921	valid\TestEM2014GT_INKMLs\RIT_2014_4.inkml	$ \sin x - x \cos x $
+922	valid\TestEM2014GT_INKMLs\RIT_2014_40.inkml	$ c o d $
+923	valid\TestEM2014GT_INKMLs\RIT_2014_41.inkml	$ - \sqrt {3} $
+924	valid\TestEM2014GT_INKMLs\RIT_2014_42.inkml	$ \sum \alpha \beta = \alpha \beta + \alpha \gamma + \beta \gamma $
+925	valid\TestEM2014GT_INKMLs\RIT_2014_43.inkml	$ z ^ {d} + z = z $
+926	valid\TestEM2014GT_INKMLs\RIT_2014_44.inkml	$ \sin 3 x - \sqrt {3} \cos 3 x = - \sqrt {3} $
+927	valid\TestEM2014GT_INKMLs\RIT_2014_45.inkml	$ | A | $
+928	valid\TestEM2014GT_INKMLs\RIT_2014_46.inkml	$ a \leq w $
+929	valid\TestEM2014GT_INKMLs\RIT_2014_47.inkml	$ \frac {f (b) - f (a)} {b - a} $
+930	valid\TestEM2014GT_INKMLs\RIT_2014_48.inkml	$ q - (q - \sqrt {2}) = \sqrt {2} $
+931	valid\TestEM2014GT_INKMLs\RIT_2014_49.inkml	$ a ^ {\gamma _ {j}} _ {j} a ^ {\gamma _ {j _ {+ 1}}} _ {j + 1} $
+932	valid\TestEM2014GT_INKMLs\RIT_2014_5.inkml	$ \frac {m} {m m} $
+933	valid\TestEM2014GT_INKMLs\RIT_2014_50.inkml	$ \sqrt {x ^ {5}} $
+934	valid\TestEM2014GT_INKMLs\RIT_2014_51.inkml	$ 1, 000 _ {}, 000 _ {}, 000 $
+935	valid\TestEM2014GT_INKMLs\RIT_2014_52.inkml	$ \int x + 5 d x $
+936	valid\TestEM2014GT_INKMLs\RIT_2014_53.inkml	$ | a b | = | a | \cdot | b | $
+937	valid\TestEM2014GT_INKMLs\RIT_2014_54.inkml	$ z \lt p $
+938	valid\TestEM2014GT_INKMLs\RIT_2014_55.inkml	$ a = - 2 x y - 2 y ^ {2} $
+939	valid\TestEM2014GT_INKMLs\RIT_2014_56.inkml	$ a _ {1} + 2 a _ {2} x + 3 a _ {3} x ^ {2} $
+940	valid\TestEM2014GT_INKMLs\RIT_2014_57.inkml	$ 19 $
+941	valid\TestEM2014GT_INKMLs\RIT_2014_58.inkml	$ 1 + x + x ^ {2}, x + x ^ {2} _ {}, x ^ {2} $
+942	valid\TestEM2014GT_INKMLs\RIT_2014_59.inkml	$ F ^ {3} $
+943	valid\TestEM2014GT_INKMLs\RIT_2014_6.inkml	$ e ^ {m x} y = \frac {n} {m} e ^ {m x} + C $
+944	valid\TestEM2014GT_INKMLs\RIT_2014_60.inkml	$ 3 x + 1 = A (x + 1) + B x $
+945	valid\TestEM2014GT_INKMLs\RIT_2014_61.inkml	$ 0.0878 $
+946	valid\TestEM2014GT_INKMLs\RIT_2014_62.inkml	$ \frac {\sin \phi + \sin \theta} {\cos \phi + \cos \theta} = \tan (\frac {\phi + \theta} {2}) $
+947	valid\TestEM2014GT_INKMLs\RIT_2014_63.inkml	$ c _ {x} c _ {x + 1} $
+948	valid\TestEM2014GT_INKMLs\RIT_2014_64.inkml	$ a b \sin \alpha $
+949	valid\TestEM2014GT_INKMLs\RIT_2014_65.inkml	$ G \times H $
+950	valid\TestEM2014GT_INKMLs\RIT_2014_66.inkml	$ \sum \limits ^ {n} _ {k = 1} a _ {k} = \sum \limits ^ {n} _ {i = 1} a = \sum \limits ^ {n} _ {j = 1} a _ {j} $
+951	valid\TestEM2014GT_INKMLs\RIT_2014_67.inkml	$ x + 2 + \sqrt {3} $
+952	valid\TestEM2014GT_INKMLs\RIT_2014_68.inkml	$ e ^ {- t} \cos 2 ^ {t} $
+953	valid\TestEM2014GT_INKMLs\RIT_2014_69.inkml	$ \sqrt {\frac {1 + x} {1 - x}} = \sqrt {\frac {1 + x} {1 + x} \frac {1 + x} {1 - x}} = \frac {1 + x} {\sqrt {1 - x ^ {2}}} $
+954	valid\TestEM2014GT_INKMLs\RIT_2014_7.inkml	$ \frac {4 x ^ {3}} {3} + \frac {11 x ^ {4}} {4} + C $
+955	valid\TestEM2014GT_INKMLs\RIT_2014_70.inkml	$ 1 + 1 + 1 + 1 + 1 = 5 $
+956	valid\TestEM2014GT_INKMLs\RIT_2014_71.inkml	$ (- 7 x + 38) \sin (x) - 7 \cos (x) $
+957	valid\TestEM2014GT_INKMLs\RIT_2014_72.inkml	$ x ^ {2} + 5 / 6 x + 1 / 6 $
+958	valid\TestEM2014GT_INKMLs\RIT_2014_73.inkml	$ \{ 7, 7 \} = \{ 7 \} $
+959	valid\TestEM2014GT_INKMLs\RIT_2014_74.inkml	$ - P _ {1} / P _ {2} $
+960	valid\TestEM2014GT_INKMLs\RIT_2014_75.inkml	$ \sqrt {\frac {x} {y}} = \frac {\sqrt {x}} {\sqrt {y}} $
+961	valid\TestEM2014GT_INKMLs\RIT_2014_76.inkml	$ t \rightarrow \infty $
+962	valid\TestEM2014GT_INKMLs\RIT_2014_77.inkml	$ \frac {V _ {2}} {V _ {1}} = \frac {V _ {3}} {V _ {4}} $
+963	valid\TestEM2014GT_INKMLs\RIT_2014_78.inkml	$ \pm \theta _ {0} $
+964	valid\TestEM2014GT_INKMLs\RIT_2014_79.inkml	$ a _ {0} + a \alpha + \ldots + a _ {n - 1} \alpha ^ {n - 1} $
+965	valid\TestEM2014GT_INKMLs\RIT_2014_8.inkml	$ 4 x ^ {3} \sin x + x ^ {4} \cos x $
+966	valid\TestEM2014GT_INKMLs\RIT_2014_80.inkml	$ 4 ! + 4 ! - \frac {4 !} {4} $
+967	valid\TestEM2014GT_INKMLs\RIT_2014_81.inkml	$ 0 \lt x \lt \sqrt {2} $
+968	valid\TestEM2014GT_INKMLs\RIT_2014_82.inkml	$ s _ {2} $
+969	valid\TestEM2014GT_INKMLs\RIT_2014_83.inkml	$ C = \frac {q _ {1}} {q _ {1 ^ {-}} q _ {2}} $
+970	valid\TestEM2014GT_INKMLs\RIT_2014_84.inkml	$ \frac {(x + 2) (x + 3)} {(x + 3)} $
+971	valid\TestEM2014GT_INKMLs\RIT_2014_85.inkml	$ \frac {56 \div 7} {63 \div 7} = \frac {8} {9} $
+972	valid\TestEM2014GT_INKMLs\RIT_2014_86.inkml	$ \frac {x (7) - x (2)} {7 - 2} $
+973	valid\TestEM2014GT_INKMLs\RIT_2014_87.inkml	$ a ^ {n} + (\frac {1} {a}) ^ {n} $
+974	valid\TestEM2014GT_INKMLs\RIT_2014_88.inkml	$ \frac {4 + 4} {4 + 4} $
+975	valid\TestEM2014GT_INKMLs\RIT_2014_89.inkml	$ r \geq 1 $
+976	valid\TestEM2014GT_INKMLs\RIT_2014_9.inkml	$ \log $
+977	valid\TestEM2014GT_INKMLs\RIT_2014_90.inkml	$ m \geq 1 $
+978	valid\TestEM2014GT_INKMLs\RIT_2014_91.inkml	$ \sum \limits ^ {n} _ {r = 1} r ^ {3} $
+979	valid\TestEM2014GT_INKMLs\RIT_2014_92.inkml	$ \frac {d} {d x} a ^ {x} $
+980	valid\TestEM2014GT_INKMLs\RIT_2014_93.inkml	$ y \gt z $
+981	valid\TestEM2014GT_INKMLs\RIT_2014_94.inkml	$ \sum \limits ^ {\infty} _ {n = 1} \frac {\cos \pi n} {n} $
+982	valid\TestEM2014GT_INKMLs\RIT_2014_95.inkml	$ 20 $
+983	valid\TestEM2014GT_INKMLs\RIT_2014_96.inkml	$ N + 233 = 236 $
+984	valid\TestEM2014GT_INKMLs\RIT_2014_97.inkml	$ 12 $
+985	valid\TestEM2014GT_INKMLs\RIT_2014_98.inkml	$ G _ {b} = g G _ {a} g ^ {- 1} $
+986	valid\TestEM2014GT_INKMLs\RIT_2014_99.inkml	$ \frac {1} {9} $

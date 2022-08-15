@@ -1,0 +1,37 @@
+# IUD, Formula03_2612_tru_norm
+# Objects(16):
+O, _2, -, 1.0, O,       11.5242,99.6654,170.2602,123.0855
+O, \Delta_4, \Delta, 1.0, OAbove,       21.9331,14.9071,95.9108,73.6431
+O, y_5, y, 1.0, OAboveR,       123.4201,32.3792,159.1078,86.2825
+O, \Delta_7, \Delta, 1.0, OBelow,       15.5932,128.4915,86.4407,176.2881
+O, t_8, t, 1.0, OBelowR,       109.4915,123.4068,159.3220,180.3559
+O, =_9, =, 1.0, OR,       260.3390,71.5424,331.5254,128.1525
+O, _10, -, 1.0, ORR,       390.1695,90.1864,528.8136,106.4576
+O, \Delta_12, \Delta, 1.0, ORRAbove,       390.5085,15.9492,457.9661,73.9153
+O, y_13, y, 1.0, ORRAboveR,       474.2373,37.6441,513.8983,85.4407
+O, \Delta_15, \Delta, 1.0, ORRBelow,       406.7797,119.3390,469.1525,156.9661
+O, x_16, x, 1.0, ORRBelowR,       478.9831,121.0339,518.6441,159.3390
+O, _17, -, 1.0, ORRR,       576.9492,93.5763,699.6610,115.9492
+O, \Delta_19, \Delta, 1.0, ORRRAbove,       584.4068,22.3898,655.5932,76.2881
+O, x_20, x, 1.0, ORRRAboveR,       656.2712,27.1356,694.9153,73.5763
+O, \Delta_22, \Delta, 1.0, ORRRBelow,       584.4068,118.6610,645.0847,165.1017
+O, t_23, t, 1.0, ORRRBelowR,       647.4576,121.3729,694.5763,171.8814
+
+\frac { \Delta y } { \Delta t } = \frac { \Delta y } { \Delta x } \frac { \Delta x } { \Delta t } 
+
+# Relations from SRT:
+R, =_9, _10, Right, 1.0
+R, \Delta_12, y_13, Right, 1.0
+R, \Delta_15, x_16, Right, 1.0
+R, \Delta_19, x_20, Right, 1.0
+R, \Delta_22, t_23, Right, 1.0
+R, \Delta_4, y_5, Right, 1.0
+R, \Delta_7, t_8, Right, 1.0
+R, _10, \Delta_12, Above, 1.0
+R, _10, \Delta_15, Below, 1.0
+R, _10, _17, Right, 1.0
+R, _17, \Delta_19, Above, 1.0
+R, _17, \Delta_22, Below, 1.0
+R, _2, =_9, Right, 1.0
+R, _2, \Delta_4, Above, 1.0
+R, _2, \Delta_7, Below, 1.0

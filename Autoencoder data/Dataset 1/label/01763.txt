@@ -1,0 +1,11 @@
+# IUD, Formula02_6425_tru_norm
+# Objects(3):
+O, \Delta_2, \Delta, 1.0, O,       16.2857,55.2857,90.8571,142.1429
+O, Y_4, Y, 1.0, OR,       125.1429,25.0000,202.0000,155.0000
+O, \prime_5, \prime, 1.0, ORSup,       239.7143,6.7143,258.0000,51.2857
+
+\Delta Y ^ { \prime } 
+
+# Relations from SRT:
+R, Y_4, \prime_5, Sup, 1.0
+R, \Delta_2, Y_4, Right, 1.0

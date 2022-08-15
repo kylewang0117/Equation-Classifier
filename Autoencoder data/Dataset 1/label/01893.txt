@@ -1,0 +1,11 @@
+# IUD, Formula02_476_tru_norm
+# Objects(3):
+O, \Delta_2, \Delta, 1.0, O,       14.2329,93.1507,87.9772,168.9498
+O, i_3, i, 1.0, OSub,       116.7443,109.1324,148.0228,190.6393
+O, P_4, P, 1.0, OSup,       91.1735,18.4932,130.2146,105.4795
+
+\Delta _ { i } ^ { P } 
+
+# Relations from SRT:
+R, \Delta_2, P_4, Sup, 1.0
+R, \Delta_2, i_3, Sub, 1.0

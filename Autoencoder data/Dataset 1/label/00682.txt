@@ -1,0 +1,11 @@
+# IUD, Formula01_7424_tru_norm
+# Objects(3):
+O, p_2, p, 1.0, O,       12.3123,19.9309,62.0000,155.0000
+O, \rightarrow_3, \rightarrow, 1.0, OR,       115.3153,31.9429,193.6937,91.7027
+O, p_4, p, 1.0, ORR,       257.6577,25.0360,316.8168,151.7628
+
+p \rightarrow p 
+
+# Relations from SRT:
+R, \rightarrow_3, p_4, Right, 1.0
+R, p_2, \rightarrow_3, Right, 1.0

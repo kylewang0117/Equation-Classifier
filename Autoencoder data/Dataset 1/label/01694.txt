@@ -1,0 +1,11 @@
+# IUD, Formula02_9946_tru_norm
+# Objects(3):
+O, \gamma_2, \gamma, 1.0, O,       13.6598,18.1959,114.4330,118.9691
+O, S_4, S, 1.0, OSub,       93.0412,57.8866,155.1546,128.7629
+O, G_5, G, 1.0, OSubR,       175.7732,53.2474,239.6907,137.7835
+
+\gamma _ { S G } 
+
+# Relations from SRT:
+R, S_4, G_5, Right, 1.0
+R, \gamma_2, S_4, Sub, 1.0

@@ -1,0 +1,39 @@
+# IUD, Formula02_4501_tru_norm
+# Objects(17):
+O, \{_2, \{, 1.0, O,       13.1250,19.2500,70.6250,170.5000
+O, i_3, i, 1.0, OR,       91.1917,32.6010,172.0207,147.1088
+O, \gamma_5, \gamma, 1.0, ORR,       155.9585,68.3523,224.3523,150.7358
+O, 0_6, 0, 1.0, ORRSub,       208.2902,106.6943,246.6321,155.9171
+O, COMMA_7, COMMA, 1.0, ORRR,       274.6114,118.6114,302.0725,152.8083
+O, i_8, i, 1.0, ORRRR,       346.6321,38.3005,420.7254,142.4456
+O, \gamma_10, \gamma, 1.0, ORRRRR,       421.2435,55.3990,492.2280,140.3731
+O, 1_11, 1, 1.0, ORRRRRSub,       479.2746,98.9223,501.0363,159.5440
+O, COMMA_12, COMMA, 1.0, ORRRRRR,       527.9793,125.3472,562.1762,161.0984
+O, i_13, i, 1.0, ORRRRRRR,       626.4249,34.1554,706.7358,141.9275
+O, \gamma_15, \gamma, 1.0, ORRRRRRRR,       702.0725,68.8705,775.1295,151.7720
+O, 2_16, 2, 1.0, ORRRRRRRRSub,       761.6580,106.6943,813.4715,157.9896
+O, COMMA_17, COMMA, 1.0, ORRRRRRRRR,       873.0570,131.5648,906.7358,169.3886
+O, i_18, i, 1.0, ORRRRRRRRRR,       962.1762,52.8083,1051.2953,150.7358
+O, \gamma_20, \gamma, 1.0, ORRRRRRRRRRR,       1057.5130,70.4249,1130.5699,153.3264
+O, 3_21, 3, 1.0, ORRRRRRRRRRRSub,       1121.7617,95.8135,1164.7668,168.8705
+O, \}_22, \}, 1.0, ORRRRRRRRRRRR,       1172.5389,17.5751,1244.0415,179.2332
+
+\{ i \gamma _ { 0 } , i \gamma _ { 1 } , i \gamma _ { 2 } , i \gamma _ { 3 } \} 
+
+# Relations from SRT:
+R, COMMA_12, i_13, Right, 1.0
+R, COMMA_17, i_18, Right, 1.0
+R, COMMA_7, i_8, Right, 1.0
+R, \gamma_10, 1_11, Sub, 1.0
+R, \gamma_10, COMMA_12, Right, 1.0
+R, \gamma_15, 2_16, Sub, 1.0
+R, \gamma_15, COMMA_17, Right, 1.0
+R, \gamma_20, 3_21, Sub, 1.0
+R, \gamma_20, \}_22, Right, 1.0
+R, \gamma_5, 0_6, Sub, 1.0
+R, \gamma_5, COMMA_7, Right, 1.0
+R, \{_2, i_3, Right, 1.0
+R, i_13, \gamma_15, Right, 1.0
+R, i_18, \gamma_20, Right, 1.0
+R, i_3, \gamma_5, Right, 1.0
+R, i_8, \gamma_10, Right, 1.0

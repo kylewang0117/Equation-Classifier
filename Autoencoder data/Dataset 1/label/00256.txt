@@ -1,0 +1,19 @@
+# IUD, Formula01_1532_tru_norm
+# Objects(7):
+O, \lim_3, \lim, 1.0, O,       15.0000,45.2500,166.2500,164.6250
+O, n_5, n, 1.0, OSub,       189.3750,108.3750,227.5000,162.1250
+O, \rightarrow_6, \rightarrow, 1.0, OSubR,       248.7500,107.1250,311.8750,157.7500
+O, \infty_7, \infty, 1.0, OSubRR,       312.5000,107.7500,371.2500,163.3750
+O, _8, -, 1.0, OR,       405.6250,99.0000,501.2500,119.0000
+O, P_9, P, 1.0, ORAbove,       445.6250,19.0000,484.3750,105.2500
+O, P_10, P, 1.0, ORBelow,       438.1250,130.2500,477.5000,211.5000
+
+\lim _ { n \rightarrow \infty } \frac { P } { P } 
+
+# Relations from SRT:
+R, \lim_3, _8, Right, 1.0
+R, \lim_3, n_5, Sub, 1.0
+R, \rightarrow_6, \infty_7, Right, 1.0
+R, _8, P_10, Below, 1.0
+R, _8, P_9, Above, 1.0
+R, n_5, \rightarrow_6, Right, 1.0

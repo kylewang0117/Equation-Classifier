@@ -1,0 +1,15 @@
+# IUD, Formula02_102_tru_norm
+# Objects(5):
+O, \beta_2, \beta, 1.0, O,       14.7910,19.7749,97.4277,172.1865
+O, =_3, =, 1.0, OR,       157.2347,59.6463,210.6109,94.6945
+O, \gamma_4, \gamma, 1.0, ORR,       264.6302,41.6399,361.7363,147.1061
+O, \times_5, \times, 1.0, ORRR,       391.9614,53.2154,458.8424,129.4212
+O, p_6, p, 1.0, ORRRR,       470.4180,39.3891,523.4727,168.9711
+
+\beta = \gamma \times p 
+
+# Relations from SRT:
+R, =_3, \gamma_4, Right, 1.0
+R, \beta_2, =_3, Right, 1.0
+R, \gamma_4, \times_5, Right, 1.0
+R, \times_5, p_6, Right, 1.0

@@ -1,0 +1,21 @@
+# IUD, Formula04_1423_tru_norm
+# Objects(8):
+O, \sigma_3, \sigma, 1.0, O,       15.2985,40.5224,80.5970,131.9403
+O, 1_4, 1, 1.0, OSub,       89.1791,92.7612,101.4925,133.4328
+O, COMMA_5, COMMA, 1.0, OR,       138.0597,103.5821,157.0896,140.5224
+O, \sigma_7, \sigma, 1.0, ORR,       232.0896,30.4478,298.1343,117.0149
+O, 2_8, 2, 1.0, ORRSub,       283.5821,87.9104,325.7463,130.4478
+O, COMMA_9, COMMA, 1.0, ORRR,       391.7910,89.4030,410.8209,133.0597
+O, \sigma_11, \sigma, 1.0, ORRRR,       476.4925,15.1493,548.5075,103.5821
+O, 3_12, 3, 1.0, ORRRRSub,       528.3582,87.1642,566.4179,142.3881
+
+\sigma _ { 1 } , \sigma _ { 2 } , \sigma _ { 3 } 
+
+# Relations from SRT:
+R, COMMA_5, \sigma_7, Right, 1.0
+R, COMMA_9, \sigma_11, Right, 1.0
+R, \sigma_11, 3_12, Sub, 1.0
+R, \sigma_3, 1_4, Sub, 1.0
+R, \sigma_3, COMMA_5, Right, 1.0
+R, \sigma_7, 2_8, Sub, 1.0
+R, \sigma_7, COMMA_9, Right, 1.0

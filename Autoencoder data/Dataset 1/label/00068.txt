@@ -1,0 +1,11 @@
+# IUD, Formula02_2074_tru_norm
+# Objects(3):
+O, \alpha_2, \alpha, 1.0, O,       12.2850,61.2113,96.5602,130.4988
+O, \leq_3, \leq, 1.0, OR,       156.2654,29.5160,240.7862,110.1057
+O, \beta_4, \beta, 1.0, ORR,       303.4398,1.0147,391.1548,126.0762
+
+\alpha \leq \beta 
+
+# Relations from SRT:
+R, \alpha_2, \leq_3, Right, 1.0
+R, \leq_3, \beta_4, Right, 1.0

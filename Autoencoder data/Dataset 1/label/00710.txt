@@ -1,0 +1,17 @@
+# IUD, Formula02_8804_tru_norm
+# Objects(6):
+O, a_2, a, 1.0, O,       14.1553,17.2968,83.5616,132.3653
+O, i_4, i, 1.0, OSub,       95.8904,49.2603,151.5982,137.8447
+O, COMMA_5, COMMA, 1.0, OSubR,       173.9726,93.0959,202.2831,125.5160
+O, j_6, j, 1.0, OSubRR,       235.8025,32.4897,274.8858,167.9817
+O, COMMA_7, COMMA, 1.0, OSubRRR,       299.0868,88.5297,322.8311,126.4292
+O, k_8, k, 1.0, OSubRRRR,       347.0320,25.5160,416.8950,135.5616
+
+a _ { i , j , k } 
+
+# Relations from SRT:
+R, COMMA_5, j_6, Right, 1.0
+R, COMMA_7, k_8, Right, 1.0
+R, a_2, i_4, Sub, 1.0
+R, i_4, COMMA_5, Right, 1.0
+R, j_6, COMMA_7, Right, 1.0

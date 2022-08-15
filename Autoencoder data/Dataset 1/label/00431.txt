@@ -1,0 +1,11 @@
+# IUD, Formula03_13135_tru_norm
+# Objects(3):
+O, _1, \sqrt, 1.0, O,       39.1076,12.7490,223.9681,225.8964
+O, x_2, x, 1.0, OInside,       97.6733,46.2151,235.1235,198.4064
+O, n_3, n, 1.0, OAbove,       15.2032,28.2869,60.6215,83.6653
+
+\sqrt [ n ] { x } 
+
+# Relations from SRT:
+R, _1, n_3, Above, 1.0
+R, _1, x_2, Inside, 1.0

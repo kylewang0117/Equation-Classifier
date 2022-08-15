@@ -1,0 +1,27 @@
+# IUD, 2012_IVC_CROHME_F02_E002
+# Objects(11):
+O, \exists_1, \exists, 1.0, O,       0.0000,51.3004,66.6667,160.0916
+O, \alpha_1, \alpha, 1.0, OR,       108.4249,72.1795,154.5788,144.3407
+O, COMMA_1, COMMA, 1.0, ORR,       175.8242,123.8278,189.7436,165.9524
+O, \forall_1, \forall, 1.0, ORRR,       245.4212,42.1429,314.2857,134.8168
+O, x_1, x, 1.0, ORRRR,       353.8462,76.9414,397.4359,155.6960
+O, \in_1, \in, 1.0, ORRRRR,       427.4725,62.6557,480.9524,141.7766
+O, [_1, [, 1.0, ORRRRRR,       509.5238,48.7363,575.4579,148.7363
+O, a_1, a, 1.0, ORRRRRRR,       588.2784,81.3370,631.5018,142.8755
+O, COMMA_2, COMMA, 1.0, ORRRRRRRR,       653.4799,108.4432,675.0916,157.8938
+O, b_1, b, 1.0, ORRRRRRRRR,       687.5458,23.8278,731.8681,141.4103
+O, ]_1, ], 1.0, ORRRRRRRRRR,       708.0586,21.6300,775.8242,167.0513
+
+\exists \alpha, \forall x \in [a,b]
+
+# Relations from SRT:
+R, COMMA_1, \forall_1, Right, 1.0
+R, COMMA_2, b_1, Right, 1.0
+R, [_1, a_1, Right, 1.0
+R, \alpha_1, COMMA_1, Right, 1.0
+R, \exists_1, \alpha_1, Right, 1.0
+R, \forall_1, x_1, Right, 1.0
+R, \in_1, [_1, Right, 1.0
+R, a_1, COMMA_2, Right, 1.0
+R, b_1, ]_1, Right, 1.0
+R, x_1, \in_1, Right, 1.0

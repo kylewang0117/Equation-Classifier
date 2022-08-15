@@ -1,0 +1,11 @@
+# IUD, Formula03_9875_tru_norm
+# Objects(3):
+O, \mu_2, \mu, 1.0, O,       13.1653,17.4566,113.7255,108.7731
+O, COMMA_3, COMMA, 1.0, OR,       130.2521,83.5630,150.0000,118.0000
+O, \sigma_4, \sigma, 1.0, ORR,       206.4426,16.8964,289.9160,98.9692
+
+\mu , \sigma 
+
+# Relations from SRT:
+R, COMMA_3, \sigma_4, Right, 1.0
+R, \mu_2, COMMA_3, Right, 1.0

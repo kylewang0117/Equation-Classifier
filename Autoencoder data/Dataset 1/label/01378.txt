@@ -1,0 +1,11 @@
+# IUD, Formula04_2590_tru_norm
+# Objects(3):
+O, \theta_2, \theta, 1.0, O,       18.9744,23.0000,100.0000,213.7692
+O, \lt_3, \lt, 1.0, OR,       225.6410,66.5897,318.4615,186.5897
+O, \phi_4, \phi, 1.0, ORR,       416.4103,10.1795,532.0000,231.0000
+
+\theta < \phi 
+
+# Relations from SRT:
+R, \lt_3, \phi_4, Right, 1.0
+R, \theta_2, \lt_3, Right, 1.0
